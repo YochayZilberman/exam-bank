@@ -1,0 +1,11 @@
+pymupdf
+playwright
+pytesseract
+pillow
+anthropic
+pydantic
+fastapi
+uvicorn[standard]
+python-dotenv
+pyyaml
+requests

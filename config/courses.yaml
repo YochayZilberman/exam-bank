@@ -1,0 +1,35 @@
+# Courses for the current semester. Add a new block each semester.
+#
+#   code:       canonical course number (used for folders and the database)
+#   alt_codes:  older/other numbers to also search and merge under this course
+#   name_he / name_en: display names
+#
+# Shnaton year = the Hebrew academic year's ending Gregorian year
+# (תשפ"ז = 2027). Change it when the new catalog comes out.
+shnaton_year: 2027
+
+courses:
+  - code: "83335"
+    name_en: Introduction to Electrical Engineering
+    name_he: מבוא להנדסת חשמל
+    alt_codes: []
+
+  - code: "83325"
+    name_en: Waves and Fundamentals of Modern Physics
+    name_he: גלים ויסודות של פיזיקה מודרנית
+    alt_codes: []
+
+  - code: "77313"
+    name_en: Equations of Mathematical Physics
+    name_he: משוואות של פיזיקה מתמטית
+    alt_codes: []
+
+  - code: "83911"
+    name_en: Thermal and Statistical Physics
+    name_he: פיזיקה טרמית וסטטיסטית
+    alt_codes: []
+
+  - code: "80431"
+    name_en: Introduction to Probability and Statistics
+    name_he: מבוא להסתברות ולסטטיסטיקה
+    alt_codes: ["80430"]   # the course used to be 80430

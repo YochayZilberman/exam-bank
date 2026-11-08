@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 64" role="img" aria-label="Q bank">
+  <g>
+    <rect x="4" y="5" width="56" height="50" rx="8" fill="#1f3b5c"/>
+    <rect x="8" y="9" width="48" height="42" rx="5" fill="#2c5282"/>
+    <rect x="11" y="55" width="9" height="5" rx="1.5" fill="#1f3b5c"/>
+    <rect x="44" y="55" width="9" height="5" rx="1.5" fill="#1f3b5c"/>
+    <rect x="5.5" y="15" width="5" height="8" rx="1.5" fill="#c9a227"/>
+    <rect x="5.5" y="37" width="5" height="8" rx="1.5" fill="#c9a227"/>
+    <circle cx="34" cy="30" r="15" fill="#e8eef6"/>
+    <circle cx="34" cy="30" r="15" fill="none" stroke="#c9a227" stroke-width="2.5"/>
+    <g stroke="#c9a227" stroke-width="1.6" stroke-linecap="round">
+      <line x1="34" y1="17.5" x2="34" y2="20"/><line x1="34" y1="40" x2="34" y2="42.5"/>
+      <line x1="21.5" y1="30" x2="24" y2="30"/><line x1="44" y1="30" x2="46.5" y2="30"/>
+    </g>
+    <circle cx="34" cy="30" r="8" fill="none" stroke="#1f3b5c" stroke-width="3.2"/>
+    <line x1="38.5" y1="34.5" x2="45" y2="41" stroke="#1f3b5c" stroke-width="3.6" stroke-linecap="round"/>
+    <circle cx="34" cy="30" r="2" fill="#c9a227"/>
+  </g>
+  <text x="72" y="43" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#c9a227">Q</text>
+  <text x="106" y="43" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" fill="currentColor">bank</text>
+</svg>

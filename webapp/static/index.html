@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Q bank</title>
+  <link rel="icon" type="image/svg+xml" href="/static/logo-mark.svg">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <aside id="sidebar">
+    <a class="brand" href="#/" aria-label="Q bank home">
+      <img src="/static/logo-mark.svg" alt="" width="38" height="38">
+      <span class="wordmark"><span class="q">Q</span> bank</span>
+    </a>
+    <nav>
+      <div class="nav-label">Views</div>
+      <a href="#/" data-nav="all">All questions</a>
+      <a href="#/topics" data-nav="topics">By topic</a>
+      <a href="#/practice" data-nav="practice">Practice</a>
+      <div class="nav-label">Courses</div>
+      <div id="nav-courses"></div>
+      <div class="nav-label">Fix-ups</div>
+      <a href="#/crop" data-nav="crop">Cropping <span class="badge" id="b-crop"></span></a>
+      <a href="#/tags" data-nav="tags">Tag review <span class="badge" id="b-tags"></span></a>
+      <a href="#/meta" data-nav="meta">Exam metadata <span class="badge" id="b-meta"></span></a>
+      <a href="#/solutions" data-nav="solutions">Solutions <span class="badge" id="b-sol"></span></a>
+    </nav>
+  </aside>
+  <main id="main"></main>
+  <div id="drawer" class="drawer hidden" aria-hidden="true"></div>
+  <div id="toast" class="toast hidden"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>
