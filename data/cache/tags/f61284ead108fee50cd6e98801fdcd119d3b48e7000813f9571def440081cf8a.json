@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t11",
+    "t07"
+  ],
+  "summary": "Damped wave equation on infinite line u_tt+2h u_t - c^2 u_xx = ε sin(kx-ωt) (elastic medium with friction, external traveling wave forcing): find the steady-state forced traveling wave at long times."
+}

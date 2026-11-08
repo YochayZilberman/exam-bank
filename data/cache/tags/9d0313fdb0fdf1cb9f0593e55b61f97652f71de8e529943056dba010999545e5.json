@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve Poisson equation ∇²u = sinθ/R² inside a half-disk (sector of 180°, radius R) with Dirichlet conditions u=0 at θ=0, u=u0 at θ=π, u(R,θ)=θu0/π, using a particular solution f(r)sinθ+g(θ) plus separation of variables in polar coordinates."
+}

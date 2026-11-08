@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04",
+    "t15"
+  ],
+  "summary": "Solve the second-order hyperbolic PDE u_xx + 2u_xy - 3u_yy = 0 by reduction to canonical form via characteristics, with Cauchy data u(x,0)=3x^2, u_y(x,0)=0."
+}

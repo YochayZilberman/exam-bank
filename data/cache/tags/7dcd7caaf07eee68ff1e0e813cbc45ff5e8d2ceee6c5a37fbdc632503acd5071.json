@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t01",
+    "t03"
+  ],
+  "summary": "Resistive DC circuit with current sources I, i_s and voltage source v_s: write KCL at nodes A-D and check independence, count independent KVL equations, find power in branch AC via superposition as function of R, i_s, v_s, evaluate sign for given values, and choose source values to maximize power delivered by branch AC."
+}

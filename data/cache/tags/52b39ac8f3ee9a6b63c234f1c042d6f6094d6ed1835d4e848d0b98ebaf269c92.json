@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Prove that X_n/n converges in distribution to Exp(1) when X_n ~ Geo(1/n); compute probability that neither of two independent lamps (burn probabilities 1/3000 and 1/300 per day) needs replacing over n days."
+}

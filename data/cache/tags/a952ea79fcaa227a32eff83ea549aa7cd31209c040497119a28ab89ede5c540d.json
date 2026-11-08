@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t14"
+  ],
+  "summary": "Explain group velocity, when it differs from phase velocity and an experimental example; compute phase and group velocities in CdTe at 10 and 11 μm using a Sellmeier dispersion formula n^2-1=A1λ^2/(λ^2-λ1^2)."
+}

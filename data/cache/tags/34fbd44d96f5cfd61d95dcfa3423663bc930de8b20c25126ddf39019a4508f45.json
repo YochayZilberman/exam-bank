@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t13",
+    "t10"
+  ],
+  "summary": "Verify density f(x)=128/x^3 on [8,∞), find density of Y=X^2, compute mean/variance of sum of indicators Z_i=1{64≤Y_i≤128} (Bernoulli), and use CLT to find limit of P(sum Z_i ≤ n/2 + a√n/2)."
+}

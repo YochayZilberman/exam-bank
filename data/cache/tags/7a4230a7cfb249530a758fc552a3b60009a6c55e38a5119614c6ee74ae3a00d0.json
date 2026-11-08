@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t16",
+    "t17",
+    "t03"
+  ],
+  "summary": "Plane wave reflected by a mirror at 45° onto a double slit (separation d): describe far-field intensity pattern, effect of tilting mirror to 40° (oblique incidence shifts pattern), and replacing slits by aperture width a with transmission cos(k0 x) (Fourier/diffraction pattern)."
+}

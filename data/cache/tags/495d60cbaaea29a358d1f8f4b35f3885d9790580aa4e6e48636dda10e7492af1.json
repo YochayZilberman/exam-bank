@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t14",
+    "t02"
+  ],
+  "summary": "Derive the Euler-Lagrange equation for the functional ∫(y²y' + 2y² − xy − ½y'²)dx, find the Green's function of the resulting second-order operator on [0,ℓ] with Neumann conditions y'(0)=y'(ℓ)=0, and write the general solution in integral form."
+}

@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t05"
+  ],
+  "summary": "First-order linear PDE y u_x + x u_y = 0: find general solution via characteristics (u = f(x^2 - y^2)) and the particular solution satisfying u(0,y) = cos(y^2)."
+}

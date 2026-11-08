@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t13",
+    "t08"
+  ],
+  "summary": "DC resistive circuit with sources and switch: find load current I_L via Thevenin equivalent in terms of Z_L, maximum power transfer load and power, then RL first-order transient after switch moves: write differential equation for inductor current, solve and plot current and stored energy vs time."
+}

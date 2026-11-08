@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t03",
+    "t11"
+  ],
+  "summary": "Solve the 1D heat equation on 0<x<L with insulated end at x=0 (Neumann), fixed temperature u1 at x=L, and initial temperature u1*x/L, via steady-state shift and separation of variables."
+}

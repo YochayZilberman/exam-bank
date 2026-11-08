@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t13",
+    "t03"
+  ],
+  "summary": "(a) Find the family of extremals of I[y]=∫_0^π y^2 dx subject to the isoperimetric constraint ∫_0^π y'^2 dx=π/2 with boundary conditions y'(0)=y(π)=0; (b) solve the Volterra integral equation u(x)=x^2+∫_0^x (x/y)^2 u(y) dy."
+}

@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t05"
+  ],
+  "summary": "Solve the first-order linear PDE u_x - y u_y = 0 by characteristics: find the general solution u(x,y), then the particular solution satisfying u(0,y)=cos y."
+}

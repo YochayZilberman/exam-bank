@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t18",
+    "t16",
+    "t14"
+  ],
+  "summary": "Mach-Zehnder interferometer with beam splitters adding π/2 phase on reflection: find fields and intensities at outputs A and B, then with a gas cell of refractive index n1 (and later complex index n+iκ with absorption) in one arm find output intensity and its max/min."
+}

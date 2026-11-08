@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t11",
+    "t18"
+  ],
+  "summary": "Calculus of variations: find the extremal y(x) and minimum value of the functional I=∫_0^1 [x^4 (y'')^2 + 4x^2 (y')^2] dx with y(1)=y'(1)=1, y nonsingular at 0, reformulating in terms of u=y' and deriving natural boundary conditions."
+}

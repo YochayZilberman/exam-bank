@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t10",
+    "t13"
+  ],
+  "summary": "Series R=0.5Ω source driving parallel L=0.25H and C=2F in sinusoidal steady state: find transfer function H(jω)=V/Vs, its magnitude, limits at ω→0 and ∞, max/min values, -3dB bandwidth, sketch |H| and identify the band-pass filter type."
+}

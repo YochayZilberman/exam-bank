@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t03"
+  ],
+  "summary": "Optional: use Euler's formula to prove sin3θ = 3sinθ − 4sin³θ and the sum 1+2cosθ+...+2cos nθ = (cos nθ − cos(n+1)θ)/(1−cosθ) (Dirichlet-kernel-type trigonometric identity)."
+}

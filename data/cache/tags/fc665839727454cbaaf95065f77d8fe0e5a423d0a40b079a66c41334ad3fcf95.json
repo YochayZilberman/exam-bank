@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t13",
+    "t12"
+  ],
+  "summary": "Gaussian pulse linearly polarized at 30° entering a birefringent crystal with different dispersion relations for parallel and perpendicular axes: explain output polarization dependence, find thickness where center wavenumber k0 returns to linear polarization, and required absorption ratio for circular polarization."
+}

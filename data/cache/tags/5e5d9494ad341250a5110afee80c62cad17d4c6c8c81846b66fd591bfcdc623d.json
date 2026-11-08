@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t03",
+    "t14"
+  ],
+  "summary": "Show that bound states of a 1D particle (Schrödinger/Sturm-Liouville eigenproblem) are non-degenerate, and that the bound-state wavefunction can be chosen real up to a constant complex factor."
+}

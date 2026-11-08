@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t19"
+  ],
+  "summary": "Second-order RLC circuit (R1||C in series, feeding R2||L): derive differential equation for inductor voltage, find ZIR, step ZSR, full solution with R=10Ω, C=0.1F, L=2H, and sinusoidal steady-state output for input 10cos(√8 t)+7sin(20t)."
+}

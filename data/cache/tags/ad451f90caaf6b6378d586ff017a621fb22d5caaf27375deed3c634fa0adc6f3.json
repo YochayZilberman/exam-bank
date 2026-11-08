@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t18",
+    "t03"
+  ],
+  "summary": "Isoperimetric variational problem: find all extremals y(x) of F[y]=∫_0^1 (y'^2+x^2)dx subject to constraint ∫_0^1 y^2 dx=2 and boundary conditions y(0)=y(1)=0 (Lagrange multiplier, Euler-Lagrange leading to Sturm-Liouville eigenvalue problem)."
+}

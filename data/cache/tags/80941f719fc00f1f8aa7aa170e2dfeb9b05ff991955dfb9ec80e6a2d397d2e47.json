@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t15",
+    "t16"
+  ],
+  "summary": "Monochromatic 532 nm light enters a dielectric with complex refractive index n=2+0.01i: find frequency and wavenumber in vacuum and medium, intensity at entry and 1/e absorption length, index change Δn for constructive interference of two beams after 120 μm, and transmitted intensity at Brewster incidence on a slab of thickness L."
+}

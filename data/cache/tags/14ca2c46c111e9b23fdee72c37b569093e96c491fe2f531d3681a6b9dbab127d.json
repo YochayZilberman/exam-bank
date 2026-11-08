@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t09",
+    "t11"
+  ],
+  "summary": "State the weak law of large numbers; define covariance and give formula for Var of a sum of random variables in terms of variances and covariances; state and prove Hoeffding's inequality."
+}

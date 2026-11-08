@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t13"
+  ],
+  "summary": "For i.i.d. Poisson(λ) variables with overlapping sums Y_i=X_i+X_{i+1}+X_{i+2}, find the constant c that S_n/n converges to in probability and prove it via variance/covariance and Chebyshev; prove an exponential (Chernoff-type) tail bound for R_n≥100λn; find normalizing constants for a CLT for R_n."
+}

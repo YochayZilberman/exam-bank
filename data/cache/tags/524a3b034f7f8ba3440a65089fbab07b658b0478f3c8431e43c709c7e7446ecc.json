@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t03",
+    "t13"
+  ],
+  "summary": "AC circuit with sine source, current-controlled voltage source A·I_out, and R-L-C network: find load Z_out for maximum power transfer (Thevenin equivalent), the maximum power, and resonance frequencies after removing the controlled source."
+}

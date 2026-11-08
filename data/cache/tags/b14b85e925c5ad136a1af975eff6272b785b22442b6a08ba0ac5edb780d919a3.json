@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t08",
+    "t09"
+  ],
+  "summary": "X uniform on (0,1), then n conditionally independent Bernoulli(X) trials; find distribution of number of successes S_n (uniform on 0..n), conditional density of X given S_n=k (Beta), and probability next trial succeeds given k successes (Laplace rule (k+1)/(n+2))."
+}

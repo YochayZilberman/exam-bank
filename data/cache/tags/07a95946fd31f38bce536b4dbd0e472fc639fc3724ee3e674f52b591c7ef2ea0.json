@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t04",
+    "t12"
+  ],
+  "summary": "Infinite anisotropic 2D lattice of masses m with springs (horizontal spacing a, vertical b): write equations of motion, derive dispersion relations for small oscillations, and analyze how a pulse linearly polarized at 45° changes shape and polarization after propagating distance d."
+}

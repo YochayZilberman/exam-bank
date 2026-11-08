@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Independent Bernoulli(2^{-n}) random variables X_n: prove convergence in distribution to 0, compute expectation and variance of the partial sum Y=ΣX_n and show E>Var, and prove P(all X_k=0 for k≥n)>1-ε for large n."
+}

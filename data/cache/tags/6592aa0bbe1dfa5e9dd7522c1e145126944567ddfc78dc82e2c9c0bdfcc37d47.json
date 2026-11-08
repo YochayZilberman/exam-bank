@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t06",
+    "t08"
+  ],
+  "summary": "(X,Y) uniform on triangle bounded by x=0, y=0, x+y=2: find conditional expectation E[Y|X=a], probabilities of events A={X<1,Y<1} and B={X+Y<1}, and check independence of X,Y unconditionally and conditionally on A."
+}

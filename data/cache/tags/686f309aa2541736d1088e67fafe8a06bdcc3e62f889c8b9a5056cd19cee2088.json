@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t02",
+    "t14",
+    "t13"
+  ],
+  "summary": "Solve the ODE 2y''+y'-y=δ(x) on the whole real line with decay y→0 at ±∞, i.e., find the Green's function of the operator using delta-function jump conditions."
+}

@@ -1,0 +1,4 @@
+{
+  "topic_ids": [],
+  "summary": "Probability problem: a timer detonator should fire between 12:00 and 12:05 but fires early with probability 0.1 and late with probability 0.05; decide whether adding a second independent identical mechanism improves reliability."
+}

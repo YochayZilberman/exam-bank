@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t01",
+    "t03"
+  ],
+  "summary": "DC resistive circuit with voltage and current sources: find node voltages Va, Vb via nodal analysis, power of source Vs2 (absorbed/supplied), Norton equivalent seen by load RL, load power vs RL and maximum power transfer."
+}

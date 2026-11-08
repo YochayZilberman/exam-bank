@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t03"
+  ],
+  "summary": "Solve the 1D wave equation on 0<x<L with mixed boundary conditions u(0,t)=0, u_x(L,t)=0 and initial data u=sin(5πx/2L), u_t=sin(πx/2L) via separation of variables (eigenfunction expansion)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t13",
+    "t14"
+  ],
+  "summary": "Hypothesis testing between Uniform[0,10] null and Exponential(0.2) alternative from one sample: find optimal test at level 0.05 and its power, a level-0 test with positive power, and limiting distribution of (ΣX_i−5n)/√n under each hypothesis (CLT / divergence)."
+}

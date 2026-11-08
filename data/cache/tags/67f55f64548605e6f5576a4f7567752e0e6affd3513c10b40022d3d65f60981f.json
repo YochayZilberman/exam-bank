@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t13"
+  ],
+  "summary": "Waveguide TE01 dispersion relation ω=kc/sqrt(1-(kc/k)^2): find phase and group velocities for λ<<a and for λ comparable to a, and whether a square pulse changes shape in each regime."
+}

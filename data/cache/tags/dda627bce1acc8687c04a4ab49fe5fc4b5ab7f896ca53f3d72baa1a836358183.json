@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t03"
+  ],
+  "summary": "Sinusoidal steady-state RLC circuit with two voltage sources and a current source feeding load Z_L=2R: find Thevenin/Norton equivalent, frequency for maximum load power, average load power, average stored energy in L and C, and power with sources at different frequencies via superposition."
+}

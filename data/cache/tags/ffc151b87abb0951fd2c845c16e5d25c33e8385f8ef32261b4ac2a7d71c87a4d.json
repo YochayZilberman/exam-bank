@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t21",
+    "t14"
+  ],
+  "summary": "Circuit with source, capacitor, resistors, ideal 1:2 transformer and inductor: derive the 2nd-order differential equation relating output voltage Vo to source Vs, express initial conditions Vo(0-), Vo'(0-) via IL(0-)=A and Vc(0-)=B, then for Vo''+2Vo'+5Vo=2Vs find the zero-input response and the zero-state step response."
+}

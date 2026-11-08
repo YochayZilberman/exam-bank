@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t05",
+    "t06"
+  ],
+  "summary": "Find Thevenin equivalent (Vth, Rth) at terminals a,b of a resistor-bridge circuit with Is and Vs sources, then analyze switching transient of a circuit with coupled inductors (L, M) and resistors: initial current, first-order ODE, ZIR+ZSR solution for I(t), impulse response Vab(t), and sinusoidal steady state via phasors."
+}

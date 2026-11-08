@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t08",
+    "t10"
+  ],
+  "summary": "X,Y independent Exponential(1), Z=X+Y: find P(Z<2), E[XY], and using joint density f_{Y,Z}=e^{-z} on 0<y<z find conditional density of Y given X+Y=a (uniform on (0,a))."
+}

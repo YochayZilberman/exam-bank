@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t07"
+  ],
+  "summary": "Independent Bernoulli variables B_i ~ Ber(2^{-i}), i≥0; X counts how many equal 1: find E(X), Var(X), and a Chebyshev bound on P(X>a) for a≥E(X)."
+}

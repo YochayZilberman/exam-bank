@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t11",
+    "t18"
+  ],
+  "summary": "Find the extremal y(x) of the functional I[y]=∫_0^2 [x(y')^3 − 3y(y')^2] dx with boundary conditions y(0)=4, y(2)=6 via the Euler-Lagrange equation."
+}

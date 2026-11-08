@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t11",
+    "t12"
+  ],
+  "summary": "Infinite mass-spring chain (masses m, spring constant α), longitudinal motion: equation of motion for nth mass, number of normal modes and highest-frequency mode shape, dispersion relation expanded to second order in small k giving phase and group velocities, and evolution/separation of two pulses centered at ω1<ω2 after time t."
+}

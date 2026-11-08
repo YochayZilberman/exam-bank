@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t07"
+  ],
+  "summary": "Find the harmonic function T(x,y) in the rectangle -a<x<a, -b<y<b solving Laplace's equation with Dirichlet conditions T=T0 on x=±a and T=0 on y=±b, via separation of variables."
+}

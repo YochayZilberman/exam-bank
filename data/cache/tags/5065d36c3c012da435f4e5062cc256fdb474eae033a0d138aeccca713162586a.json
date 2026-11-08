@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t13"
+  ],
+  "summary": "State and prove the weak law of large numbers (convergence in probability of sample mean, e.g., via Chebyshev's inequality)."
+}

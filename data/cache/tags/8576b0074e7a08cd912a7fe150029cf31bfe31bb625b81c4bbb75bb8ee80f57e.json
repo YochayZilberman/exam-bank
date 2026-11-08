@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t10"
+  ],
+  "summary": "Sum Y of n i.i.d. Bernoulli(p) variables: prove Y is binomial, find conditional PMF of X1 given Y>0, and compute E[Y | Y>0]."
+}

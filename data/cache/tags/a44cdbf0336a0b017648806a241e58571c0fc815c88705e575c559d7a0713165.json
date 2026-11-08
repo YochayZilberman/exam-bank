@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t12",
+    "t07"
+  ],
+  "summary": "Part A: LTI system driven by sum of cosines at 9.5 Hz and 10.5 Hz — identify all possible output waveforms (beats, single tones, zero) since LTI cannot create new frequencies; Part B: second-order ODE (a=0.5,b=10,c=7946) capacitor voltage with A·cos(2πt)u(t) input — choose the graph matching the ZSR (underdamped transient plus sinusoidal steady state)."
+}

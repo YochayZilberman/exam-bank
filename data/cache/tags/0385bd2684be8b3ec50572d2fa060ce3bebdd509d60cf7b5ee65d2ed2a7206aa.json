@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t06",
+    "t02"
+  ],
+  "summary": "RC circuit with two capacitors (C1 charged to V0, C2 uncharged) connected through resistor R by a switch at t=0: derive the current ODE, solve and sketch current and both capacitor voltages, find final voltages, compute the energy dissipated in R, and check energy conservation."
+}

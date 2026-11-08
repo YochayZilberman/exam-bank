@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13"
+  ],
+  "summary": "For independent Exp(1) random variables X and Y: compute the moment generating function of X, find the density of e^X, and find the density of min(X,Y)."
+}

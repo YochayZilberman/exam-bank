@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11"
+  ],
+  "summary": "Solve the inhomogeneous wave equation u_tt - u_xx = 1/(x+1) on [0,1] with boundary conditions u(0,t)=0, u(1,t)=ln(1/2) and initial data u(x,0)=-(1+x)ln(1+x)+x ln2, u_t(x,0)=sin(pi x), using a steady-state particular solution and separation of variables."
+}

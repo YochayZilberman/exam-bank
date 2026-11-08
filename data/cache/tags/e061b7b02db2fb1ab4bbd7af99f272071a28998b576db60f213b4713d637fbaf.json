@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t13"
+  ],
+  "summary": "Laser pulse circuit: RC capacitor charged via R1 from 12V and discharged through 1Ω laser with 10kHz switching; find pulse current, peak, half-width, R1 for 99.9% charge, energy and efficiency; then replace R1 with inductor L (6V source) and choose L and S1 timing for 100% efficient LC resonant charging."
+}

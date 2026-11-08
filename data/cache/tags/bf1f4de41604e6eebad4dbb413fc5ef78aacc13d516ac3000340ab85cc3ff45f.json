@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t08",
+    "t10"
+  ],
+  "summary": "(X,Y) uniform on triangle with vertices (-1,0),(0,1),(1,0): find joint density, marginal of X, conditional density of Y given X=x, conditional probabilities P(Y<1/2|X=x), and conditional expectation E(Y|X=x)."
+}

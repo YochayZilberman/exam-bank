@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t12",
+    "t13"
+  ],
+  "summary": "(a) Find the extremal of I[y]=∫_0^{π/2}(y²−y'²)dx subject to isoperimetric constraint ∫_0^{π/2} x y' dx=1 with y(0)=y(π/2)=0; (b) solve the Volterra integral equation u(x)=x+∫_0^x (x/y)u(y)dy."
+}

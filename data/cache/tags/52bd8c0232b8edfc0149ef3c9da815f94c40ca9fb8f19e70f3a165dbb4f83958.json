@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t06"
+  ],
+  "summary": "n people in a queue each hold small, large, or no umbrella (equal prob.); large umbrella also covers next person; find expectation and variance of number of unprotected people X_n and show (X_n-E X_n)/n converges in probability to 0 via Chebyshev."
+}

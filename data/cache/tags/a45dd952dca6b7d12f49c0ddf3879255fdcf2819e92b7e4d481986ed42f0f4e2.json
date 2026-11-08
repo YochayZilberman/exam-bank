@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t02",
+    "t07"
+  ],
+  "summary": "2D ideal gas in an a×b box: kinetic derivation of collisions, force and pressure on wall, PA=N m<v^2>/2 meaning, heat capacity via equipartition, 2D Maxwell-Boltzmann speed distribution, and extracting Boltzmann constant from area-vs-pressure fit A=CT/(P+P0)."
+}

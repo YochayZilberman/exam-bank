@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t09",
+    "t12"
+  ],
+  "summary": "Part A: prove whether element with output I=cos(w0 t)V(t) is linear and time-invariant; Part B: given LTI input 8+4cos(2π500t+π/4)+cos(2π1000t) and output 2+cos(2π·1000t)-like signal, select which of 12 transfer function amplitude plots (filters, notches) are consistent."
+}

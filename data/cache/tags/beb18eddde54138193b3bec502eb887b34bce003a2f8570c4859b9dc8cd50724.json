@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t15"
+  ],
+  "summary": "Continuous distribution Q(α) with density (α+1)t^α on [0,1]: compute P(Y>X) for independent X~Q(1), Y~Q(2), find density of Y^3 (uniform), and derive the maximum likelihood estimator of α."
+}

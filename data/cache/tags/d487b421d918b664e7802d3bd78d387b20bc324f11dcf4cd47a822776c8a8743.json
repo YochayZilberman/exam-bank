@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t20",
+    "t05"
+  ],
+  "summary": "AC circuit with R parallel C in series with inductor L and source: find input impedance, L for resonance given C, average source power, load Z_L at terminals a-b for resonance with specified power, and power ratio for different source phasors."
+}

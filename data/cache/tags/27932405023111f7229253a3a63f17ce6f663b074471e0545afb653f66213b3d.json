@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t01"
+  ],
+  "summary": "Prove continuity of probability measure for increasing sequence of events (P of union equals limit of P(A_n)), and prove countable union bound (Boole's inequality) using finite union bound."
+}

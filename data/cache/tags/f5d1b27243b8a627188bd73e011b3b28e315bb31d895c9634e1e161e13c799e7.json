@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06",
+    "t03"
+  ],
+  "summary": "String of length 2L fixed at both ends, zero initial displacement with antisymmetric piecewise initial velocity profile: find normal modes, sketch first three, compute mode amplitudes (Fourier coefficients) and lowest unexcited mode by symmetry, and find string shape at t=L*sqrt(mu/T)."
+}

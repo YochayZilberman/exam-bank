@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11"
+  ],
+  "summary": "Forced vibrations of a string of length L fixed at both ends, governed by u_tt - c^2 u_xx = kx with zero initial displacement and velocity; find the string's shape u(x,t) for t>0."
+}

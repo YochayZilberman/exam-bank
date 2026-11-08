@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t07"
+  ],
+  "summary": "Continuous random variable with density (3e^{-x}+3e^{-3x})/c on x>0: find normalizing constant c, compute expectation (prove existence), compute moment generating function and use Chernoff bound at t=1/2 to bound P(X>=a) for a>E(X)."
+}

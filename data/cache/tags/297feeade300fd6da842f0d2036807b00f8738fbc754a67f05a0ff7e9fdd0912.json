@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t17",
+    "t14"
+  ],
+  "summary": "Given impulse response h(t)=t·e^{-2t} of a circuit, find Q factor, homogeneous ODE and ω0, the step response for Vs=2u(t), the delay T for which a delayed impulse yields the same output given zero initial conditions, and qualitatively how the output changes for an earlier delayed impulse."
+}

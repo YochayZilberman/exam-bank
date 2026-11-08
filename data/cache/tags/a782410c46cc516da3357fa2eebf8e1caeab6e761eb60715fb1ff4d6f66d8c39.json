@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t04",
+    "t05"
+  ],
+  "summary": "Circuit with current source IDD, R1, a diode feeding parallel R2||R3, and a switched capacitor: find DC steady-state diode current/voltage and capacitor current/voltage at t→∞, then the small-signal diode voltage and current with a sinusoidal source Vs=0.5sin(100t) and the switch open."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t01"
+  ],
+  "summary": "Second-order RLC circuit (source with series L, branch R1+C1 parallel with R2): derive differential equation for capacitor voltage, find initial derivative, compute ZIR, ZSR for 6u(t) step, total response, and final capacitor voltage after adding series C2."
+}

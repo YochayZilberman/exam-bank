@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t06"
+  ],
+  "summary": "Dragon tail counts: green ~ Geometric(1/2), red P(k)=k/2^{k+1}; find P(green | 7 tails) via Bayes with prior 1/5, then optimal (Neyman-Pearson) test green vs red with type I error 1/4 and its type II error, and optimal non-trivial test for n i.i.d. dragons all same color."
+}

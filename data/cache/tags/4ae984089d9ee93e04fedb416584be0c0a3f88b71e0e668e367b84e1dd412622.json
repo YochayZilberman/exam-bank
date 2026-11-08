@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t14",
+    "t05"
+  ],
+  "summary": "Three drawers each with gold, silver, copper coin; random coin moved top→middle→bottom then drawn: find P(gold), P(drawn coin originated from top drawer), and P(middle drawer still has gold | gold drawn) via total probability and Bayes."
+}

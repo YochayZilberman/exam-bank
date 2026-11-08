@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Max of three i.i.d. uniform(0,1) random variables: find its density, P(X≥1/2), expectation and variance."
+}

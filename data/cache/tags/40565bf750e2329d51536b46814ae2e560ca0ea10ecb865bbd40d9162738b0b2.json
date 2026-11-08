@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06",
+    "t12"
+  ],
+  "summary": "Given i.i.d. Rademacher X_n and geometric(1/2) Y_n, with Z_n = X_n Y_n Y_{n+1} and S_n = sum Z_i: decide whether Z_1 and Z_2 are independent, compute E and Var of S_n, and prove S_n/n converges in distribution to E(Z_1)."
+}

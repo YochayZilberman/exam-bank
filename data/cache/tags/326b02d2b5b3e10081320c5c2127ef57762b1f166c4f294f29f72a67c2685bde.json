@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t12",
+    "t03"
+  ],
+  "summary": "AC circuit with Vin, R1, C1, voltage-controlled voltage source αV2 driving an ideal 1:n transformer loaded by R2: find node voltage Va, branch currents, Thevenin/Norton equivalent seen by R2, and transfer function V2/Vin with filter type (LPF/HPF/BPF)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t08",
+    "t19"
+  ],
+  "summary": "DC resistive circuit with 12V source and 2mA current source: find open-circuit voltage at A-B, Thevenin/Norton equivalent, max power load; then sinusoidal source at ω=150 rad/s driving series RLC load — find delivered and element powers, and capacitor for unity power factor."
+}

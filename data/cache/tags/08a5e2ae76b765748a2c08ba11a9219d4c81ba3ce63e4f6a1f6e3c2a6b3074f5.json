@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t01"
+  ],
+  "summary": "Series loop of AC voltage source V0cos(ωt), DC current source Is and resistor R: find resistor voltage, instantaneous and average power of resistor, voltage source and current source (absorbed/supplied); then with series RL load find Vab in sinusoidal steady state (superposition of DC and AC)."
+}

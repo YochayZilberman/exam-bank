@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t01",
+    "t02"
+  ],
+  "summary": "Resistive two-port circuit with controlled sources (voltage-controlled voltage source μV2 and current-controlled current source αi1): find V1 and V2 in terms of Vs and parameters, find α, μ making V1 zero, and power dissipated in Rs."
+}

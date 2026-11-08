@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t13"
+  ],
+  "summary": "Gaussian pulse linearly polarized at 60° entering a birefringent crystal with different dispersion relations ω=c(1-0.3k/k0)k and ω=c(1-0.4k/k0)k on its two axes: explain what the output polarization depends on, find the propagation distance at which the pulse's central component (k=k0) returns to linear polarization, and find the absorption ratio between the axes needed for circular polarization after the matching distance."
+}

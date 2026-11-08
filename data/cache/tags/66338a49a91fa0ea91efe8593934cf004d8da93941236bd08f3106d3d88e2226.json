@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t07"
+  ],
+  "summary": "Urn with 4 balls each independently black/white w.p. 1/2, draws with replacement: find distribution of first black draw time given 3 black balls (geometric), posterior probability of 3 black given X1=0,X2=1 via Bayes, and show via law of large numbers that P(|S_n - k/4|<ε) → P(Y=k) = C(4,k)2^-4."
+}

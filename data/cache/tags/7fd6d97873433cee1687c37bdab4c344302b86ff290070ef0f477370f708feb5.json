@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t06"
+  ],
+  "summary": "Prove sum of n i.i.d. Bernoulli(p) is Binomial(n,p); define convergence in distribution to a constant and show identically-distributed Y_n with Var→0 converge to E(Y_1); prove weak law of large numbers for i.i.d. finite-variance Z_n."
+}

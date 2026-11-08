@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t06",
+    "t15"
+  ],
+  "summary": "Traffic light change time uniform on [0,a]: design optimal (Neyman-Pearson) test of a=1 vs a=2 with 90% confidence from three samples, and find an unbiased estimator of the variance of the waiting time, evaluated on samples 1,3,5."
+}

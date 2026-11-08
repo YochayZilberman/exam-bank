@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t01"
+  ],
+  "summary": "Second-order RLC circuit with voltage source Vs(t) and current source is(t): derive the differential equation for capacitor voltage Vc, find initial condition Vc'(0+), compute the step response for the given ODE Vc''+10Vc'+16Vc=Vs-2Is', and find the inductor current as t→∞ with DC sources."
+}

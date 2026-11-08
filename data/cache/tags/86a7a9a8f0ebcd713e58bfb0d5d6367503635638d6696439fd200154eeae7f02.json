@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06",
+    "t09"
+  ],
+  "summary": "Independent random variables X,Y with mean 1 and variance 1: compute expectation and variance of X−Y and XY, and prove E(e^X) ≥ e (Jensen's inequality)."
+}

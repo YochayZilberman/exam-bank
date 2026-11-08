@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Uniform joint distribution of (X,Y) on triangle bounded by axes and x+y=2: find marginal densities, P(X^2<Y), and conditional density of X given that event."
+}

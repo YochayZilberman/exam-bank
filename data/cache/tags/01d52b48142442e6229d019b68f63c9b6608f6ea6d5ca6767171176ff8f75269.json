@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10"
+  ],
+  "summary": "Prove Markov's inequality P(X ≥ aE[X]) ≤ 1/a for a nonnegative random variable with finite expectation, then state and prove the Chernoff and Chebyshev inequalities."
+}

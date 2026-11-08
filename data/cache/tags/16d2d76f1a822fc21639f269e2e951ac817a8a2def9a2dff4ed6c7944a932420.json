@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t14",
+    "t11"
+  ],
+  "summary": "For i.i.d. Bernoulli(p) X_n, Y_n = X_n(1-X_{n+1})X_{n+2}: describe Y_n, find constant C with sample mean of Y_i converging in distribution to C (WLLN with dependent variables), and prove a Hoeffding-type tail bound 3exp(-a^2 n/6) by splitting into three independent subsequences."
+}

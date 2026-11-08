@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t07"
+  ],
+  "summary": "Hypothesis testing for Poisson samples: H0 Po(1) vs H1 Po(0.5); show likelihood ratio depends only on sum (sufficient statistic), characterize Neyman-Pearson tests, and find optimal test for k=4 with alpha=13e^-4 and compute its power."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t19",
+    "t18"
+  ],
+  "summary": "Parallel RC circuit driven by current source with switch closing at t=0: write first-order ODE for capacitor voltage, identify correct transient+sinusoidal response graph for Is=sin(10πt), find phasor transfer function Vc/Is, cutoff frequency, sketch |H| and identify low-pass filter."
+}

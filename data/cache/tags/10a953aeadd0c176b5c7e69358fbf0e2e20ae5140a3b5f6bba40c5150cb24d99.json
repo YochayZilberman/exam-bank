@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t12",
+    "t11"
+  ],
+  "summary": "White-light ultrashort EM pulse of 2e-15 s duration: describe its spectrum at a spectrometer output (Fourier transform), effect of source polarization on spectrum, how to measure its temporal width (e.g. autocorrelation/interferometric), and how pulse width changes in glass with refractive index 1.5 (dispersion/group velocity)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t10",
+    "t12"
+  ],
+  "summary": "RL circuit (source with series R2, inductor parallel R1): derive inductor current ODE, solve full response with i(0-)=2A for sin and cos inputs, compare with phasor steady state, and find/sketch transfer function H(ω)=VL/Vs filter type."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t05"
+  ],
+  "summary": "Design a full-wave diode bridge rectifier with ideal transformer (n:1) and RC filter from 220Vrms 50Hz to 20V DC: sketch output, find turns ratio, RC for ripple ≤0.5V, R and C for 1A load, and source current waveform."
+}

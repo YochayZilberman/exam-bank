@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t11",
+    "t06"
+  ],
+  "summary": "Solve the Cauchy problem for the inhomogeneous 1D wave equation u_tt - u_xx = 6 on the whole line with u(x,0)=x^2, u_t(x,0)=4x (d'Alembert/Duhamel)."
+}

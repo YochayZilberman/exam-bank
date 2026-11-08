@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the inhomogeneous 1D heat equation u_t = a^2 u_xx + Q (Q constant) on 0<x<π with Neumann (insulated) boundary conditions and initial condition u(x,0)=1+ε cos(2x)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t13",
+    "t10"
+  ],
+  "summary": "Two players with equal independent win chances play 7 rounds of dominoes; find probability the last game decides the winner, conditional probability the winner won at most 5 games, and conditional expectations of each player's number of wins given Eli wins overall."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t14"
+  ],
+  "summary": "State and prove the weak law of large numbers for i.i.d. random variables (typically via Chebyshev's inequality, convergence in probability)."
+}

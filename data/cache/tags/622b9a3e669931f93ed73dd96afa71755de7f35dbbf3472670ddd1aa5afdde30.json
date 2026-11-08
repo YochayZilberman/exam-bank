@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t10"
+  ],
+  "summary": "Hedgehog and frog each roll fair dice independently; X,Y,Z are geometric waiting times for a 1 or 2; find distributions of min(Y,Z), min(X,Z), and conditional expectation E(Z|Y=1)."
+}

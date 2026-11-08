@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t08"
+  ],
+  "summary": "Series RC circuit with two capacitors (C1 precharged to V0, C2 uncharged) and resistor after switch closes at t=0: derive current ODE, solve and sketch current and capacitor voltages, final voltages, energy dissipated in resistor, and energy conservation check."
+}

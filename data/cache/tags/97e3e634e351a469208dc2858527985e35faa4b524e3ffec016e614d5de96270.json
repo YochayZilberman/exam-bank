@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t03",
+    "t02"
+  ],
+  "summary": "Otto cycle ideal gas engine: compute heat absorbed at constant volume ignition and released, net work, efficiency in terms of compression ratio V1/V2 and gamma, numerical estimate for air (f=5, ratio 8), and show efficiency is below Carnot."
+}

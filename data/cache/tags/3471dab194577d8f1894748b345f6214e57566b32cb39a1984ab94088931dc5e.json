@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t07"
+  ],
+  "summary": "Solve the inhomogeneous diffusion/heat equation u_t = D u_xx - βu + sin(πx/L) on 0<x<L with zero Dirichlet boundary conditions and zero initial condition, using separation of variables/eigenfunction expansion."
+}

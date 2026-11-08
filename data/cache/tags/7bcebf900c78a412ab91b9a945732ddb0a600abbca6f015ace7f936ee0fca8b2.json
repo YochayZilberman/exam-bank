@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t05"
+  ],
+  "summary": "X ~ Exponential(1): find the density of X^2, the conditional CDF of X given X>1, and for which α E(e^{αX}) exists and its value."
+}

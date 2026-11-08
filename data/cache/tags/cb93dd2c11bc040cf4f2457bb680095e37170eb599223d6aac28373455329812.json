@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t08",
+    "t13"
+  ],
+  "summary": "Normal noise sample (7,15,8,10): compute unbiased estimators of mean and variance, MSE of the sample mean, and a 98% confidence interval for the mean with known variance 4."
+}

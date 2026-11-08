@@ -1,0 +1,4 @@
+{
+  "topic_ids": [],
+  "summary": "Probability problem: chocolate candies with 2% defect rate; find probability a random sample of 5 has no defective candies, and the minimal sample size n so that at least one defective appears with probability at least 0.95 (binomial distribution)."
+}

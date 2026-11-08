@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t09"
+  ],
+  "summary": "Choose two of three: (1) phasor analysis of AC circuit with resistors, inductor and capacitor to find node voltages and branch currents; (2) Thevenin equivalent of a DC network with 32V source, 2A current source and resistors, and load current for several R_L values; (3) Laplace-transform solution of series RL circuit current with initial condition and step input."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t14",
+    "t03"
+  ],
+  "summary": "First-order RL circuit with switched DC current source, R1 and VCVS 0.8Vo branch, L-R2 branch: find initial inductor condition, differential equation for Vo, natural response, Vo(t), power of the controlled source, and Thevenin/Norton equivalent including transients."
+}

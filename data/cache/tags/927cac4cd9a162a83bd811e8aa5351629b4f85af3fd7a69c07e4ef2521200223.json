@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t17",
+    "t14"
+  ],
+  "summary": "Series L1-R1 driven by Vs into parallel R2||C1: write the second-order ODE for capacitor voltage, find the impulse response (underdamped, zero initial conditions) for Vs=aδ(t), then use convolution to find the response to the pulse u(t)-u(t-3)."
+}

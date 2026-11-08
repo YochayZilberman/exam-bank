@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "For n i.i.d. uniform variables on [m], let Y_n count pairs that are cyclically consecutive values; compute E[Y_n] and Var(Y_n) via indicators, and show Y_n/n^2 converges in distribution to a constant c (via Chebyshev) and find c."
+}

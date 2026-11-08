@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t06"
+  ],
+  "summary": "Count of overlapping '111' runs in n independent biased coin tosses: compute expectation via indicator linearity, and prove a concentration (Hoeffding/Chernoff-type) tail bound by splitting into 3 independent subsequences."
+}

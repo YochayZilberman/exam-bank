@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t20"
+  ],
+  "summary": "RL circuit with voltage source, switched current source, series inductors and switchable LC tank: find inductor currents at 0-/0+, transfer function I/Vs and filter type, power factor at ω=10, effect of added capacitor at low frequency, and frequency where |H|=1/(R1+R2) (resonance) with switches closed."
+}

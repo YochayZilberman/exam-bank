@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t17"
+  ],
+  "summary": "Series RLC circuit (R=4Ω, L=2H, parallel C1,C2) with 3-position switch: find impulse response current, resistor voltage after switching to DC source V0 (ZIR/ZSR), and response to e^{-2t}u(t) source with/without initial capacitor charge."
+}

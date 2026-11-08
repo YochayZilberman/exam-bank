@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t10",
+    "t11"
+  ],
+  "summary": "Random black/white coloring of an (n+1)x(n+1) grid: check mutual vs pairwise independence of adjacency-same-color events, compute expectation and variance of number of connected adjacent pairs Z_n, and prove concentration of Z_n/(2n(n+1)) via Chebyshev."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09",
+    "t21"
+  ],
+  "summary": "Sinusoidal steady-state circuits with dependent voltage sources (R1-C circuit with CCVS γi2, R2-L circuit with VCVS μVout): find Va, express V2=Ai2+B, find Thevenin/Norton equivalent seen by Vout, and derive transfer function H(ω)=Vout/V1 and classify filter type."
+}

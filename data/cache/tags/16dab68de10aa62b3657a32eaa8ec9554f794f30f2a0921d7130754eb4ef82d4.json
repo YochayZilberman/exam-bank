@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t01"
+  ],
+  "summary": "Second-order RLC circuit (capacitor, Vs with R1, and R2-L branch in parallel): derive differential equation for inductor current, find dIL/dt(0-) initial condition, then compute ZIR, ZSR for Vs=3u(t), and complete response with R1=R2=1Ω, C=1F, L=1H."
+}

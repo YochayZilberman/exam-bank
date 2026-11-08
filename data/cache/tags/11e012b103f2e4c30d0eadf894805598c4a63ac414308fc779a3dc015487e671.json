@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t02"
+  ],
+  "summary": "Compute the m-th generalized (distributional) derivative of the 2-periodic sawtooth function f(x)=x on (-1,1), which involves delta-function jumps at odd integers."
+}

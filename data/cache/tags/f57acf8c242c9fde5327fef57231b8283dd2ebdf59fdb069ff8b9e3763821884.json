@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Prove Binomial(n, λ/n) converges in distribution to Poisson(λ); then compute probability a cake in a fridge is eaten when the number of door openers is Poisson(4) and each opener eats it with a probability given by a coin toss (Poisson thinning)."
+}

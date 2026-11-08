@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t17",
+    "t14"
+  ],
+  "summary": "RLC circuit with current source, R1, inductor, C, R2: derive second-order ODE for inductor current, find impulse response from given ODE, and compute ZSR for Is=e^{-2t}u(t) via convolution."
+}

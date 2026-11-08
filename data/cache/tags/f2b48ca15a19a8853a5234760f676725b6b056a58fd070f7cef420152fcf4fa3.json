@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t17",
+    "t14"
+  ],
+  "summary": "First-order RC circuit with current source, R1, R2 and capacitor: derive the differential equation for Vc(t), find the impulse response (ZSR), and compute the capacitor voltage response to two rectangular pulses via convolution, evaluating the ratio Vc(0.5Δ)/Vc(1.5Δ) for different Δ/R1C to find the minimum Δ/R1C for information recovery."
+}

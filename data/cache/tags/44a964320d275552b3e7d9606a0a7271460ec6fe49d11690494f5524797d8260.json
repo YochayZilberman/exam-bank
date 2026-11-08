@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t14"
+  ],
+  "summary": "Urn with black, white, gray balls drawn until black; white returned, gray removed: find probability gray remains, distribution of number of draws k, and conditional probability of k draws given gray remains (Bayes, geometric series)."
+}

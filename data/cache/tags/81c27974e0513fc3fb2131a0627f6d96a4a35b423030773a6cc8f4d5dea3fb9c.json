@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06"
+  ],
+  "summary": "Solve the Neumann problem for Laplace's equation inside a disk of radius R centered at the origin with boundary normal derivative du/dn = A(x^4 - y^4), using polar coordinates/Fourier series."
+}

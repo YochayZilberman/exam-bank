@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t10"
+  ],
+  "summary": "Find the images of regions (a rectangle α<x<β, γ<y<δ with δ−γ<2π; b half-strip x>0, 0<y<α≤2π) under the conformal map w=e^z."
+}

@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t19"
+  ],
+  "summary": "Two thin lenses (converging f=5cm, diverging f=3cm) separated by 10cm: compute ray transfer (ABCD) matrix, paraxial imaging condition, effective focal length and principal planes, image of object 10cm left (location, magnification, orientation, real/virtual), and effect of immersing system in water."
+}

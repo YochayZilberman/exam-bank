@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t08",
+    "t03"
+  ],
+  "summary": "Two-port resistive circuit with voltage-controlled voltage source μV2 and current-controlled current source αi1: find V1, V2 in terms of Vs and parameters, find α,μ making V1 zero, and the power on Rs in that case."
+}

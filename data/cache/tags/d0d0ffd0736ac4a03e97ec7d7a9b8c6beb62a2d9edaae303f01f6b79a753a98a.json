@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t06"
+  ],
+  "summary": "Dragon tails: green dragons have Geometric(1/2) tail count, red have P(k)=k/2^(k+1); find posterior probability green given 7 tails via Bayes, then most powerful (Neyman-Pearson) test green vs red with type I error 1/4 and its type II error, and an optimal nontrivial test for n i.i.d. dragons all same color."
+}

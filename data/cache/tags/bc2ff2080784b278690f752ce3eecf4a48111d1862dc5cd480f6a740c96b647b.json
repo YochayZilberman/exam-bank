@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t06",
+    "t10"
+  ],
+  "summary": "Joint density f(x,y)=12/(x^4 y^5) for x,y>1: verify valid density, find marginals, check independence and conditional independence given X+Y<3, compute Var(X+Y)."
+}

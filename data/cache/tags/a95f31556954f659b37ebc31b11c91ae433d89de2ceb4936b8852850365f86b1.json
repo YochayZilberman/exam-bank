@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t08",
+    "t11"
+  ],
+  "summary": "For i.i.d. Laplace random variables with density e^{-|x|}/2, show expectation exists and compute mean and variance, then prove an exponential tail bound P(sum (X_i - E X_i) > n) <= e^{-cn} (Chernoff-type via Markov on moment generating function)."
+}

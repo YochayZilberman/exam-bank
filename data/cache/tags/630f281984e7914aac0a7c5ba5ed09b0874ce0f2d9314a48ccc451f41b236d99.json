@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t19",
+    "t09"
+  ],
+  "summary": "AC circuit with source, R1, C1, voltage-controlled voltage source αV2 and ideal transformer 1:n driving R2: find node voltage Va, branch currents, Thevenin/Norton equivalent seen by load, and transfer function H(ω)=V2/Vin and identify filter type (LPF/HPF/BPF)."
+}

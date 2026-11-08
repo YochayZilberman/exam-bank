@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t12"
+  ],
+  "summary": "Given i.i.d. ±1 symmetric variables X_n and independent Geometric(1/2) variables Y_n, define Z_n = X_n Y_n Y_{n+1} and S_n = sum of Z_i; determine whether Z_1 and Z_2 are independent, compute E(S_n) and Var(S_n), and prove S_n/n converges in distribution to E(Z_1) (a law of large numbers via Chebyshev)."
+}

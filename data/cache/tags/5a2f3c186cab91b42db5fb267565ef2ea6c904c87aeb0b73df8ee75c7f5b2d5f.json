@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t21",
+    "t19"
+  ],
+  "summary": "Sinusoidal steady-state RL circuit with coupled inductors: find Thevenin equivalent at A-B for M=0 and M=1, design load from R/L/C for maximum power transfer and compute average power, and find load through 1:3 ideal transformer for maximum power."
+}

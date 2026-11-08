@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03",
+    "t11"
+  ],
+  "summary": "Solve the boundary-value problem y''+y=f(x), y(0)=y(π/2)=0 by constructing the Green's function."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t14",
+    "t09"
+  ],
+  "summary": "Find the Dirichlet Green function for the 2D Poisson equation in the first quadrant (x,y>0) via method of images, with boundary data f(x), g(y) and decay at infinity."
+}

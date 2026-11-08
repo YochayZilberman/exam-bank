@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t20",
+    "t14"
+  ],
+  "summary": "Series RLC circuit (parallel C1,C2) with switch: find step response V_R(t) and time constants, final values and settling time, R to halve settling, impulse response via derivative, transfer function H(jω), resonance/bandwidth band-pass sketch and bandwidth–settling time relation."
+}

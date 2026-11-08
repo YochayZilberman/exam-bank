@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t06",
+    "t11"
+  ],
+  "summary": "Derive the Euler–Lagrange equation from the functional ∫∫[½u_x² − ½u_y² + f(x)u]dxdy, classify the resulting PDE (hyperbolic wave-type), and solve it for f=f0 constant on 0≤x≤1, y≥0 with u=0 at x=0,1 and zero Cauchy data at y=0 (inhomogeneous wave equation via separation of variables)."
+}

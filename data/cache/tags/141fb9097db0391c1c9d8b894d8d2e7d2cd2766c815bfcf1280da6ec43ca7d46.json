@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t07",
+    "t05"
+  ],
+  "summary": "(a) Prove Binomial(n, λ/n) converges in distribution to Poisson(λ); (b) Poisson(4) number of fridge openers, each with probability of eating the cake (coin-toss based), find probability cake is eaten during the day."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t19",
+    "t05"
+  ],
+  "summary": "Two loops each with impedance Z and inductor L coupled by mutual inductance M: write coupled differential equations for i1,i2 (Z=R), derive transfer function I2/Vin, find frequency range of resonance from given Vin/I1 transfer function, and compute/determine sign of source average power."
+}

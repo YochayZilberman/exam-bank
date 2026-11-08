@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t08",
+    "t13"
+  ],
+  "summary": "Coin tossed 8 times: H0 fair vs H1 biased with P(heads)=0.75; construct most powerful Neyman-Pearson test at alpha=37/256, show number of heads is sufficient statistic, and compute the test's power."
+}

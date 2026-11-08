@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t04",
+    "t03"
+  ],
+  "summary": "Derive the Euler-Lagrange equation for the functional I[y]=∫_0^l (y^2 y' + 2y^2 - xy - y'^2/2) dx, then find the Green's function of the resulting second-order operator on [0,l] with Neumann conditions y'(0)=y'(l)=0, and write the general solution as an integral."
+}

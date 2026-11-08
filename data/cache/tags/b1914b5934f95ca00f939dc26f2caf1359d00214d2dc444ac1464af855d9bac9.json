@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t11",
+    "t08"
+  ],
+  "summary": "Use the variational (Rayleigh quotient) principle for a Sturm-Liouville problem with Dirichlet BCs to show eigenvalues satisfy λ > -q_max, then apply it to find the long-time limit of a diffusion equation with position-dependent coefficient D(x) on a rod with zero boundary values."
+}

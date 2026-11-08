@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t03"
+  ],
+  "summary": "Car ignition simplified RLC circuit: 12V source with switches at t=0; find initial capacitor voltage/current, derive second-order ODE for Vc, solve fully (underdamped, R=1Ω, L=1H, C=16µF), conditions for |Vc|≥3000V, time of first max, and energy argument for |Vc|≥300V."
+}

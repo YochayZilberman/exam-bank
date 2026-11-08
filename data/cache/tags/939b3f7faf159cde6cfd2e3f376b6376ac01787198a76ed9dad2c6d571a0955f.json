@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t10",
+    "t11"
+  ],
+  "summary": "Sinusoidal steady-state circuit with current source, R1, C1, VCCS i2=gV1 and R2 in parallel: find input impedance, transfer function V1/Is with Bode plots and 3dB frequency, average power of the dependent source, and V1(t) for Is=1+cos(wt) by superposition."
+}

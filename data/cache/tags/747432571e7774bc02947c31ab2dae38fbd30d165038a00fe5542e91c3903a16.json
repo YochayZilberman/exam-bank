@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t01"
+  ],
+  "summary": "Minimize the functional ∭_G [(grad u)^2 + 2u] dV over the unit ball with boundary condition u = cos θ on r = 1, leading to the Poisson equation Δu = 1 solved in spherical coordinates."
+}

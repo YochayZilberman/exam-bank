@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11"
+  ],
+  "summary": "Solve the inhomogeneous diffusion equation u_t = D u_xx − βu + sin(πx/L) on 0<x<L with zero Dirichlet boundary conditions and zero initial condition."
+}

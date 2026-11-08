@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04"
+  ],
+  "summary": "Small refrigerator consuming 100 W with interior at -18°C and room at 25°C: find minimum time (Carnot COP) to cool 250 g of water from 25°C to 0°C."
+}

@@ -1,0 +1,62 @@
+{
+  "course": "83911",
+  "source": "https://shnaton.huji.ac.il/api/syllabus?courseCode=83911&year=2027",
+  "fetched_at": "2026-11-06T15:58:41",
+  "note": "Edit freely. Each topic needs a unique 'id'; tags reference these ids. This file is not overwritten on re-runs unless you pass --force.",
+  "topics": [
+    {
+      "he": "מבוא –מהי טמפרטורה ?",
+      "en": "Introduction – what is temperature ?",
+      "id": "t01"
+    },
+    {
+      "he": "חוק הגז האידאלי",
+      "en": "Law of ideal gas",
+      "id": "t02"
+    },
+    {
+      "he": "חום ועבודה: תהליכים קווזי סטטיים",
+      "en": "Heat and work: quasi-static processes",
+      "id": "t03"
+    },
+    {
+      "he": "אנטרופיה והחוק השני של התרמודינמיקה",
+      "en": "Entropy and the second law of thermodynamics",
+      "id": "t04"
+    },
+    {
+      "he": "מנועים ומקררים",
+      "en": "Engines and refrigerators",
+      "id": "t05"
+    },
+    {
+      "he": "פוטנציאלים תרמודינמיים (אנטלפיה, אנרגיה חופשית של המהולץ ושל גיבס)",
+      "en": "Thermodynamic potentials (Enthalpy, Helmholtz Free Energy, Gibbs Free Energy)",
+      "id": "t06"
+    },
+    {
+      "he": "סטטיסטיקת בולצמן",
+      "en": "Boltzmann Statistics",
+      "id": "t07"
+    },
+    {
+      "he": "אנסמבלים סטטיסטים – התפלגויות מיקרו, מאקרו וגראנד קנוני",
+      "en": "Statistical ensembles: micro canonical, canonical and grand-canonical distributions",
+      "id": "t08"
+    },
+    {
+      "he": "גז אידאלי של פרמיונים וישום במתכות",
+      "en": "Ideal gas of fermions. Application to metals",
+      "id": "t09"
+    },
+    {
+      "he": "גז אידאלי של בוזונים וישום עבור קרינת גוף שחור, והתעבות בוזה-איינשטיין",
+      "en": "Ideal gas of bosons. Application to black body radiation and Bose-Einstein condensation",
+      "id": "t10"
+    }
+  ],
+  "raw": {
+    "he": "1.מבוא –מהי טמפרטורה ?\r\n2. חוק הגז האידאלי\r\n3. חום ועבודה: תהליכים קווזי סטטיים. \r\n4. אנטרופיה והחוק השני של התרמודינמיקה.\r\n5. מנועים ומקררים.\r\n6. פוטנציאלים תרמודינמיים (אנטלפיה, אנרגיה חופשית של המהולץ ושל גיבס)\r\n7. סטטיסטיקת בולצמן\r\n8. אנסמבלים סטטיסטים – התפלגויות מיקרו, מאקרו וגראנד קנוני.\r\n9. גז אידאלי של פרמיונים וישום במתכות.\r\n10. גז אידאלי של בוזונים וישום עבור קרינת גוף שחור, והתעבות בוזה-איינשטיין.",
+    "en": "1. Introduction – what is temperature ?\r\n2. Law of ideal gas.\r\n3. Heat and work: quasi-static processes. \r\n4. Entropy and the second law of thermodynamics. \r\n5. Engines and refrigerators. \r\n6. Thermodynamic potentials (Enthalpy,\r\nHelmholtz Free Energy,\r\nGibbs Free Energy)\r\n7. Boltzmann Statistics. \r\n8.  Statistical ensembles: micro canonical, canonical and grand-canonical distributions.\r\n9. Ideal gas of fermions. Application to metals.  \r\n10. Ideal gas of bosons.  Application to black body radiation and Bose-Einstein condensation."
+  }
+}

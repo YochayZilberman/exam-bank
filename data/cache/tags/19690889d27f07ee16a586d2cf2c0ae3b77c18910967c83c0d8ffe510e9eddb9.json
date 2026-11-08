@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t11"
+  ],
+  "summary": "For i.i.d. uniform X_i on {0,1,2}, Z_n counts indices with X_i > X_{i+1}: compute E(Z_n), Var(Z_n) (with covariance of dependent indicators), and prove an exponential tail bound P(Z_2n - E Z_2n > 2n/100) ≤ b e^{-an}."
+}

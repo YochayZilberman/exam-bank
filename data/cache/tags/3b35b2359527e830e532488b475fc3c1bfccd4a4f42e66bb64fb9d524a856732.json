@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10",
+    "t02"
+  ],
+  "summary": "Urn with W white and B black balls, n draws: with replacement find distribution, expectation and variance of number of white balls (binomial); without replacement find probability of exactly w white and b black (hypergeometric)."
+}

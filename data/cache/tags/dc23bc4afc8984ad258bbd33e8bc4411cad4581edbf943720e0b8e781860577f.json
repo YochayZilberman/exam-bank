@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t10",
+    "t11"
+  ],
+  "summary": "Sinusoidal steady-state circuit with current source, coupled inductors (L1, L2, mutual M), capacitor, switched load and current-controlled voltage source: find phasor currents I1(t), I2(t), design load ZL for maximum power transfer, compute dissipated and average stored energy per cycle in an RL load, and find average power of the dependent source vs. alpha and when it supplies power."
+}

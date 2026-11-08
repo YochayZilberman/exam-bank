@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t04"
+  ],
+  "summary": "Lead-acid car battery reaction: compute maximum extractable (electrical) work per mole at 300 K and 1 atm from tabulated entropies and enthalpies via Gibbs free energy change ΔG = ΔH − TΔS."
+}

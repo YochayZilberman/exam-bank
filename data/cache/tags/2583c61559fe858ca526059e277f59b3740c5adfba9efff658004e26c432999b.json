@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t04"
+  ],
+  "summary": "Methane fuel cell (CH4 + 2O2 → 2H2O + CO2) at 300 K and 1 atm: find maximum electrical work per mole from tabulated enthalpies and entropies via Gibbs free energy change ΔG = ΔH − TΔS."
+}

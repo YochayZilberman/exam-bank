@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13"
+  ],
+  "summary": "Exponential random variable X with rate 3 (time to first machine failure): show 3X is Exp(1), compute E[X^2] using variance/mean of Exp(1), and find the density of (X-1/3)^2."
+}

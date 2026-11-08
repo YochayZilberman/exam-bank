@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t12"
+  ],
+  "summary": "Find the extremal y(x) of the functional ∫_0^{π/4} [(y')^2 − y^2 + 4y cos x] dx with y(0)=0 and free endpoint y(π/4), using the Euler–Lagrange equation and natural boundary condition."
+}

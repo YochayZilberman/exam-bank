@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t16",
+    "t10"
+  ],
+  "summary": "Plane EM wave in a medium of index 1 between a source/detector and a fully reflecting mirror: find distances giving maximum detected intensity (standing wave), then replace mirror with thick slab of index n and find n such that max/min detected energy ratio is 3:1."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t05",
+    "t10"
+  ],
+  "summary": "Urn with 2 black, 2 white, 1 yellow ball drawn without replacement until yellow; X=#black, Y=#white drawn: find P(X=Y), P(Y=0|X=a) for a=0,1,2, and E(X|Y=0)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "For Y = sum of n i.i.d. Bernoulli(p) variables, prove Y is Binomial(n,p), find the conditional PMF of X1 given Y>0, and compute E[Y | Y>0]."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t13",
+    "t06"
+  ],
+  "summary": "Hypothesis testing with normal measurements of air pressure (Tel Aviv mean 1 vs Jerusalem mean 0.9, sd 0.1): find optimal 0.05-level test and its power via normal CDF, and minimal sample size for 0.95 confidence and 0.95 power using threshold test on sum."
+}

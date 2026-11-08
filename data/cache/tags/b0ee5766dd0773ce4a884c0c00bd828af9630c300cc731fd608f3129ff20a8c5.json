@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t14",
+    "t15"
+  ],
+  "summary": "(a) Classify and reduce the 2nd-order PDE 2u_xx+6u_xy+4u_yy=0 to canonical form and find its general solution; (b) construct the Green's function for y''-k^2y=f0 e^{2x} on [0,π] with y(0)=y(π)=0 and write the solution as an integral."
+}

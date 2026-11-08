@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t14"
+  ],
+  "summary": "For i.i.d. Geometric(1/2) random variables: compute the moment generating function, find and prove lim P(X1+...+Xn ≤ 3n) via the law of large numbers, and approximate P(X1+...+X200 ≥ 370) using the central limit theorem."
+}

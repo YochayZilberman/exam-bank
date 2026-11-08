@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t02",
+    "t03"
+  ],
+  "summary": "Use a Green's function to solve the boundary value problem y''+y=f(x) with y(0)=y(pi/2)=0."
+}

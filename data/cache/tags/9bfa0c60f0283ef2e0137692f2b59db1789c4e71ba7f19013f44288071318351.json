@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Fair coin tossed until tails (X = number of tosses, geometric), then X fair dice rolled with sum Y; find E[Y] (random sum, Wald) and E[X | X=Y] via conditional probability."
+}

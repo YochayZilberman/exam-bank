@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t08",
+    "t13"
+  ],
+  "summary": "Cellular signal noise (dB) is normal with unknown mean and variance: compute unbiased estimators of mean and variance from sample 7,15,8,10, find MSE of the sample-mean estimator, and build a 0.98 confidence interval for the mean given known variance 4."
+}

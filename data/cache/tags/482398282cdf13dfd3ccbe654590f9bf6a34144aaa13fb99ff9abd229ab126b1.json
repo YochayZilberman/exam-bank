@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t06"
+  ],
+  "summary": "For X ~ Exp(λ), compute E(X) and V(X); for independent Y ~ Exp(η), find the CDF and density of Z = min(X,Y)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10",
+    "t05"
+  ],
+  "summary": "n fair coins tossed, those landing black are retossed; find expectation and variance of number ending black-up (binomial), and conditional PMF of white-up count after round one given m white after round two."
+}

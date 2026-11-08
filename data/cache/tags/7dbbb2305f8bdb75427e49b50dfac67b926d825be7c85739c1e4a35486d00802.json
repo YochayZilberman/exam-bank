@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t11",
+    "t10"
+  ],
+  "summary": "Resistor network with two DC voltage sources: find Thevenin resistance, open-circuit voltage and short-circuit current between a,b; then with impedances Z=18+300ωj at 100 Hz find input impedance Zab and the load for maximum power transfer, realized with passive R/L/C components."
+}

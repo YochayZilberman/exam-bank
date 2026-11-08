@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t13",
+    "t11"
+  ],
+  "summary": "Series RLC circuit with two magnetically coupled inductors (coupling K): find transfer function V_R/V_s, coupling K for resonance at ω=1, bandwidth vs K, load Z_L for maximum power transfer at K=0.25, and zero-input time-domain response with maximal coupling."
+}

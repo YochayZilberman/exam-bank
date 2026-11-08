@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t17"
+  ],
+  "summary": "Find the images of given domains (quarter annulus 1/R<|z|<R in first quadrant; sector π/2−α<arg z<π/2+α) under the Joukowski conformal map z ↦ (z+1/z)/2."
+}

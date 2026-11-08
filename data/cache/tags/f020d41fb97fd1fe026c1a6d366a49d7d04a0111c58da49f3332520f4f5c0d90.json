@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t02",
+    "t07"
+  ],
+  "summary": "Simple random walk on the integers (step +1 with prob p, -1 with prob q) for n steps: define the sample space, compute P(position k after n steps) via binomial counting, and find asymptotics of P(return to 0) for p=q=1/2 using Stirling's formula."
+}

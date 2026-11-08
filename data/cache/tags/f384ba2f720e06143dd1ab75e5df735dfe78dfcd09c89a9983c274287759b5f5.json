@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11"
+  ],
+  "summary": "Damped string with fixed ends on [0,L] satisfying u_tt + 2α u_t − c² u_xx = x: find the time-independent particular solution, then for α < cπ/L solve by separation of variables with the given initial displacement and sinusoidal initial velocity."
+}

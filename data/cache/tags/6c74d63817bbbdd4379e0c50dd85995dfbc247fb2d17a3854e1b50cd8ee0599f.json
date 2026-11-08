@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t14",
+    "t10"
+  ],
+  "summary": "For i.i.d. Uniform[0,1] variables X_n and X ~ Exponential(λ): compute E[e^X], show P(min(X1..Xn)>a)=(1-a)^n, and deduce (n/λ)·min converges in distribution to X."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t09"
+  ],
+  "summary": "First-order RC circuit with 30V source, resistors, 100µF capacitor and 1.5A current source; switch closes at t=0 shorting a node, find current i(t) through 20kΩ resistor for t>0."
+}

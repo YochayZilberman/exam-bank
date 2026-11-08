@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t10",
+    "t06"
+  ],
+  "summary": "Find the Dirichlet Green's function for the 2D Poisson equation ∇²u=-4πρ in the first quadrant x,y>0 with boundary data u(x,0)=f(x), u(0,y)=g(y), u→0 at infinity (method of images)."
+}

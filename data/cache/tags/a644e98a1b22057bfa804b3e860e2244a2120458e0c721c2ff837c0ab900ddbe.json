@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t07",
+    "t13"
+  ],
+  "summary": "Biased coin with p in {1/3,2/3}, estimator T_n = fraction of heads: check unbiasedness and consistency, and find n so a threshold test at 1/2 has type I and II error probabilities at most 0.001 (via Chebyshev/CLT)."
+}

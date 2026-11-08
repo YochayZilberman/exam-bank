@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t05",
+    "t19"
+  ],
+  "summary": "Impedance matching with an ideal transformer plus series reactive element between a source (Rs=1Ω, Ls=1µH) and RL load (10Ω, 10µH) at 100 kHz: find load impedance, turns ratio for maximum power transfer, load power factor, and series element for unity power factor."
+}

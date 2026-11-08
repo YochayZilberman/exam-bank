@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t10",
+    "t03"
+  ],
+  "summary": "String of length π fixed at both ends, released from rest in triangular shape; find ψ(x,t) via Fourier series of normal modes and the first time it returns to initial shape."
+}

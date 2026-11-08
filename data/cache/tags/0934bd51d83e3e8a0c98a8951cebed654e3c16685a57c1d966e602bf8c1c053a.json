@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t11",
+    "t10"
+  ],
+  "summary": "Parallel RLC circuit driven by sinusoidal current source at resonance (C1=5uF, L1=20H): where to add R2 to reduce R1 average power tenfold, adding L2/C2 keeping power unchanged, power factor change when adding C2=60uF with R1=100Ω, and finding C3/C1 ratio for an added series RLC load given average power expression."
+}

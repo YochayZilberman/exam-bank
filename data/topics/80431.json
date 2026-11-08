@@ -1,0 +1,83 @@
+{
+  "course": "80431",
+  "source": "https://shnaton.huji.ac.il/api/syllabus?courseCode=80431&year=2027",
+  "fetched_at": "2026-11-06T15:58:41",
+  "note": "Hand-cleaned 2026-11-07 from the Shnaton syllabus (Hebrew and English merged into one list). Added 'Joint distributions and covariance' (not named in the syllabus, common in exams).",
+  "topics": [
+    {
+      "id": "t01",
+      "he": "תורת הקבוצות ופונקציות",
+      "en": "Set theory and functions"
+    },
+    {
+      "id": "t02",
+      "he": "קומבינטוריקה ושיטות מנייה",
+      "en": "Combinatorics and counting methods"
+    },
+    {
+      "id": "t03",
+      "he": "מושגים בסיסיים בתורת הגרפים",
+      "en": "Basic graph theory"
+    },
+    {
+      "id": "t04",
+      "he": "מרחבי הסתברות",
+      "en": "Probability spaces"
+    },
+    {
+      "id": "t05",
+      "he": "הסתברות מותנית ונוסחת בייס",
+      "en": "Conditional probability and Bayes' formula"
+    },
+    {
+      "id": "t06",
+      "he": "תלות ואי-תלות",
+      "en": "Dependence and independence"
+    },
+    {
+      "id": "t07",
+      "he": "משתנים מקריים בדידים",
+      "en": "Discrete random variables"
+    },
+    {
+      "id": "t08",
+      "he": "משתנים מקריים רציפים",
+      "en": "Continuous random variables"
+    },
+    {
+      "id": "t09",
+      "he": "התפלגות משותפת ושונות משותפת",
+      "en": "Joint distributions and covariance"
+    },
+    {
+      "id": "t10",
+      "he": "תוחלת ושונות",
+      "en": "Expectation and variance"
+    },
+    {
+      "id": "t11",
+      "he": "אי-שוויונות מרקוב וצ'בישב",
+      "en": "Markov and Chebyshev inequalities"
+    },
+    {
+      "id": "t12",
+      "he": "החוק החלש של המספרים הגדולים",
+      "en": "Weak law of large numbers"
+    },
+    {
+      "id": "t13",
+      "he": "משפט הגבול המרכזי",
+      "en": "Central limit theorem"
+    },
+    {
+      "id": "t14",
+      "he": "סוגי התכנסות",
+      "en": "Modes of convergence"
+    }
+  ],
+  "raw": {
+    "he": "מתמטיקה דיסקרטית\r\n* תורת הקבוצות - קבוצה, איבר, הכלה, פעולות (איחוד, חיתוך, הפרש, קבוצת חזקה ועוד), פונקציות ותכונות (חח\"ע, על, צמצום והרכבה)\r\n* שיטות מנייה ויישומן\r\n* יש אפשרות שניגע במושגים רלוונטים מתורת הגרפים\r\nתורת ההסתברות: \r\n*  מרחבי הסתברות,  הסתברות מותנית,  תלות ואי-תלות, \r\n*  משתנים מקריים בדידים ורציפים-בהחלט, תוחלת ושונות,  סוגי התכנסות.\r\n* תוצאות יסודיות: נוסחת בייס,  אי-שוויונות מרקוב וצ'בישב, החוק החלש של המספרים הגדולים, משפט הגבול המרכזי. \r\n* יתכן שילמדו נושאים נוספים.",
+    "en": "Discrete Mathematics\r\n* Set Theory - Set, Element, Containment, Operations (Union, Intersection, Difference, Power Set, etc.), Functions and Properties (Injection ,Surjection, Restriction, and Composition)\r\n* Enumeration Methods of finite sets and Their Application\r\n* We may touch on relevant concepts from graph theory\r\nProbability Theory:\r\n* Probability Spaces, Conditional Probability, Dependence and Independence,\r\n* Discrete and Absolutely-Continuous Random Variables, Expectation and Variance, Types of Convergence.\r\n* Fundamental Results: Bayes' Formula, Markov and Chebyshev Inequalities, The Weak Law of Large Numbers, The Central Limit Theorem.\r\n* Additional topics may be taught."
+  },
+  "edited": "2026-11-07"
+}

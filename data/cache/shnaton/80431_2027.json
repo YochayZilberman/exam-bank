@@ -1,0 +1,160 @@
+{
+  "courseCode": "80431",
+  "year": 2027,
+  "courseName": {
+    "he": "מבוא להסתברות ולסטטיסטיקה להנדסת חשמל ופיסיקה יישומית    ",
+    "en": ""
+  },
+  "periodName": {
+    "he": "סמסטר א",
+    "en": "Semester A"
+  },
+  "ectsCredits": null,
+  "degreeLevel": null,
+  "creditPoints": "5",
+  "academicYear": null,
+  "semester": "1",
+  "department": {
+    "he": "מתמטיקה",
+    "en": "Mathematics"
+  },
+  "facultyCode": null,
+  "campusName": {
+    "he": "אדמונד י' ספרא",
+    "en": "Edmond J. Safra"
+  },
+  "building": null,
+  "room": null,
+  "courseCoordinator": {
+    "he": null,
+    "en": null
+  },
+  "coordinatorEmail": null,
+  "teachers": {
+    "he": "ד\"ר אורי רוזנשטיין\nמר אור קופרמן\nמר שחר בוכריס",
+    "en": "Dr. Ori Rosenstein\nMr. Or Kuperman\nMr. Shahar Boukris"
+  },
+  "officeHours": {
+    "he": null,
+    "en": null
+  },
+  "contactHours": null,
+  "teachingLanguage": {
+    "he": "עברית",
+    "en": "Hebrew"
+  },
+  "courseDescription": {
+    "he": "בקורס זה תלמדו את יסודות תורת ההסתברות, בשילוב קורס מזורז בנושאי מתמטיקה דיסקרטית.\r\nהקורס הוא זהה ל- וינוהל במקביל אל קורס 80430 וסילבוס ההסתברות שלו זהה, ויובא כאן במלואו.\r\nההבדל הוא בשבועיים וחצי הראשונים של הקורס, שבהם רק 80431 מעביר נושאי מתמטיקה דיסקרטית.",
+    "en": "In this course, you will learn the basics of probability theory, combined with a crash course in discrete mathematics.\r\nThe course is identical to and will be administered concurrently with the 80430 course and its probability syllabus is identical, and is reproduced here in its entirety.\r\nThe difference is in the first two and a half weeks of the course, in which only 80431 covers discrete mathematics topics."
+  },
+  "courseAims": {
+    "he": "התלמיד ירכוש חשיבה הסתברותית. \r\nהתלמיד יהיה מסוגל למדל מערכת הסתברותית פשוטה ולנתח אותה. \r\nהתלמיד יבין את ההבדל בין הסתברות לסטטיסטיקה. \r\nהתלמיד יוכל לחשב חסמים הסתברותיים בסיסיים על בסיס מומנטים ופונקציה יוצרת מומנטים.",
+    "en": "The student will acquire probabilistic thinking.\r\nThe student will be able to model a simple probabilistic system and analyze it.\r\nThe student will understand the difference between probability and statistics.\r\nThe student will be able to calculate basic probabilistic bounds based on moments and a moment generating function."
+  },
+  "learningOutcomes": {
+    "he": "לבנות מרחבי הסתברות בדידים,\r\nלחשב הסתברויות עבור מודלים בדידים,\r\nלחשב הסתברויות מותנות ולהפעיל את כלל בייס,\r\nלנצל אי-תלות בפתרון בעיות\r\nלחשב תוחלת, שונות ושונות משותפת של משתנים מקריים בדידים ורציפים\r\nלחשב התפלגות של סכום של משתנים מקריים בלתי-תלויים\r\nלחשב צפיפות והתפלגות של משתנים מקריים\r\nלתרגם תכונות של משתנה מקרי לתכונות של פונקציית ההתפלגות שלו\r\nלנצל את ליניאריות התוחלת\r\nלהוכיח את התוצאות הבסיסיות של התורה\r\nלהבחין בין סוגי התכנסות שונים\r\nלהוכיח את החוק החלש של  המספרים הגדולים\r\nלהבין וליישם את משפט הגבול המרכזי.",
+    "en": "Construct discrete probability spaces,\r\nCalculate probabilities for discrete models,\r\nCalculate conditional probabilities and apply Bayes' rule,\r\nExploit independence in problem solving\r\nCalculate the expectation, variance, and covariance of discrete and continuous random variables\r\nCalculate the distribution of a sum of independent random variables\r\nCalculate the density and distribution of random variables\r\nTranslate properties of a random variable into properties of its distribution function\r\nExploit linearity of the expectation\r\nProve the basic results of the theory\r\nDistinguish between different types of convergence\r\nProve the weak law of large numbers\r\nUnderstand and apply the central limit theorem."
+  },
+  "courseContent": {
+    "he": "מתמטיקה דיסקרטית\r\n* תורת הקבוצות - קבוצה, איבר, הכלה, פעולות (איחוד, חיתוך, הפרש, קבוצת חזקה ועוד), פונקציות ותכונות (חח\"ע, על, צמצום והרכבה)\r\n* שיטות מנייה ויישומן\r\n* יש אפשרות שניגע במושגים רלוונטים מתורת הגרפים\r\nתורת ההסתברות: \r\n*  מרחבי הסתברות,  הסתברות מותנית,  תלות ואי-תלות, \r\n*  משתנים מקריים בדידים ורציפים-בהחלט, תוחלת ושונות,  סוגי התכנסות.\r\n* תוצאות יסודיות: נוסחת בייס,  אי-שוויונות מרקוב וצ'בישב, החוק החלש של המספרים הגדולים, משפט הגבול המרכזי. \r\n* יתכן שילמדו נושאים נוספים.",
+    "en": "Discrete Mathematics\r\n* Set Theory - Set, Element, Containment, Operations (Union, Intersection, Difference, Power Set, etc.), Functions and Properties (Injection ,Surjection, Restriction, and Composition)\r\n* Enumeration Methods of finite sets and Their Application\r\n* We may touch on relevant concepts from graph theory\r\nProbability Theory:\r\n* Probability Spaces, Conditional Probability, Dependence and Independence,\r\n* Discrete and Absolutely-Continuous Random Variables, Expectation and Variance, Types of Convergence.\r\n* Fundamental Results: Bayes' Formula, Markov and Chebyshev Inequalities, The Weak Law of Large Numbers, The Central Limit Theorem.\r\n* Additional topics may be taught."
+  },
+  "attendanceRequirements": {
+    "he": "0",
+    "en": "0"
+  },
+  "teachingMethod": {
+    "he": "הקורס נלמד במספר מופעים מקבילים ומשלימים.\r\n\r\nרוב החומר נלמד בהרצאות. שם נראה משפטים, הוכחות וטכניקות. שם נסביר גם את המשמעויות וההשלכות של הנושאים השונים.\r\n\r\nהתרגולים הם שעתיים בשבוע עם עוזרי ההוראה של הקורס, שם תראו דוגמאות לשימוש במה שראיתם בכיתה, וגם תראו משפטים קצרים וטיעונים נוספים, שישלימו ויוסיפו לחומר ההרצאה.\r\n\r\nתינתן מטלת בית כתובה בכל שבוע. תגישו את הפתרונות כשבוע לאחר פרסומם ויינתן ציון על הגשתם. הפתרונות שלנו יפורסמו באתר האינטרנט כדי שתוכלו להשוות את עבודתכם לציפיות שלנו.\r\n\r\nבנוסף, תרגיל בית מקוון יפורסם באתר מדי שבוע.\r\n\r\nכל שבועיים-שלושה יתקיים בוחן בן חצי שעה בנושאים של השבועות שחלפו מאז המבחן הקודם. פרטים מדויקים כמו תאריך וחומר יפורסמו מראש. בעזרת בחנים אלו תתרגלו גם את פורמט המבחן האקדמי בצורה מיניאטורית, וגם נקבל (אתם ואנחנו) אינדיקציה עד כמה אתם עומדים בקצב החומר.\r\n\r\nסגל הקורס יקיים שעות קבלה בהן תוכלו לשאול על כל נושא הקשור לקורס, החל מפתרונות תרגילים ועד להשלכות הפילוסופיות של התואר.",
+    "en": "The course will be taught in several parallel and complementary sessions.\r\n\r\nMost of the material will be taught in lectures. There we will see theorems, proofs and techniques. There we will also explain the meanings and implications of the various topics.\r\n\r\nThe TA sessions are two hours a week with the course's teaching assistants, where you will see examples of using what you saw in class, and you will also see some additional propositions and arguments, which will complement and add to the lecture material.\r\n\r\nA written homework assignment will be given each week. You will submit the solutions about a week after they are published and a grade will be given for their submission. Our solutions will be published on the website so that you can compare your work to our expectations.\r\n\r\nIn addition, an online homework exercise will be published on the website every week.\r\n\r\nEvery two to three weeks, a half-hour quiz will be held on the topics of the weeks that have passed since the previous one. Exact details such as date and material will be published in advance. With these quizzes, you will practice the academic exam format in miniature, and we will also receive (you and us) an indication of how well you are keeping up with the material.\r\n\r\nThe course faculty will hold reception hours where you can ask about any topic related to the course, from exercise solutions to the philosophical implications of the degree."
+  },
+  "requiredReading": {
+    "he": "",
+    "en": ""
+  },
+  "additionalReading": {
+    "he": "רשימות הקורס שיפורסמו באתר",
+    "en": "Course notes, published on the website"
+  },
+  "evaluation": {
+    "he": null,
+    "en": null
+  },
+  "additionalInfo": {
+    "he": "An Introduction to Probability Theory and Its Applications, Volume 1",
+    "en": "An Introduction to Probability Theory and Its Applications, Volume 1"
+  },
+  "degreeName": {
+    "he": "תואר ראשון",
+    "en": "First degree"
+  },
+  "grade1Description": {
+    "he": null,
+    "en": null
+  },
+  "writtenExamPercentage": null,
+  "oralExamPercentage": null,
+  "presentationPercentage": null,
+  "activeParticipationPercentage": null,
+  "midtermExamsPercentage": null,
+  "assignmentPercentage": null,
+  "grade7Percentage": null,
+  "grade8Percentage": null,
+  "grade9Percentage": null,
+  "grade10Percentage": null,
+  "grade11Percentage": null,
+  "otherGradeDescription": null,
+  "grades": [
+    {
+      "code": "10",
+      "name": {
+        "he": "מבחן בכתב",
+        "en": "Written Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 93,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "50",
+      "name": {
+        "he": "תרגילים",
+        "en": "Exercises"
+      },
+      "groupUniqueName": "routine_assignments",
+      "groupName": {
+        "he": "מטלות שוטפות",
+        "en": "Routine Assignments"
+      },
+      "weight": 2,
+      "assWithFeedback": 0,
+      "assWithoutFeedback": 11
+    },
+    {
+      "code": "89",
+      "name": {
+        "he": "בחני אמצע",
+        "en": "Quizzes"
+      },
+      "groupUniqueName": "mid_terms",
+      "groupName": {
+        "he": "מבחני/בחני אמצע",
+        "en": "Mid-Terms"
+      },
+      "weight": 5,
+      "assWithFeedback": 5,
+      "assWithoutFeedback": 0
+    }
+  ],
+  "gradesOther": [],
+  "syllabusApiVersion": "v2",
+  "updatedBy": null,
+  "levelUpdated": null,
+  "timesUpdated": null,
+  "updateDate": "2026-09-10T10:09:51",
+  "fetchedAt": "2026-11-06T13:15:31.670053"
+}

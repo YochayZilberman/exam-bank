@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t17",
+    "t03",
+    "t16"
+  ],
+  "summary": "Fraunhofer far-field diffraction pattern of a 2D square aperture (side 2a) for a plane EM wave, then of a square obstacle (Babinet), then of a square aperture with a smaller central square block (a>b)."
+}

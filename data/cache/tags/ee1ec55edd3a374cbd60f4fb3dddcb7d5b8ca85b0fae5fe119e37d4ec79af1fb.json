@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t22"
+  ],
+  "summary": "DC resistive circuit with three voltage sources: find all branch currents via Kirchhoff's laws, Thevenin equivalent between terminals a-b, power of each source (supplied/absorbed), then with switch closed and an ideal diode find the open-circuit voltage a-b."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t09"
+  ],
+  "summary": "Poisson(4) number of people open a fridge, each eats the chocolate cake with prob 1/2 if not yet eaten: find probability cake is eaten, and conditional distribution of number of people given cake eaten / not eaten (thinning of Poisson)."
+}

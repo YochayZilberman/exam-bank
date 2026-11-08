@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t06",
+    "t12"
+  ],
+  "summary": "Urn with black, red, white balls; each draw replaces drawn ball with a red one until all red: find P(Z=3), expectations of Y (draws until two red) and Z (total draws, geometric sums), and probability that one step before stopping urn has exactly one black and two red."
+}

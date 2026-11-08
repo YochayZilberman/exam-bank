@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10",
+    "t04"
+  ],
+  "summary": "State and prove a necessary and sufficient condition for recurrence of a state in a discrete-time Markov chain (e.g., sum of n-step return probabilities diverges / expected number of visits infinite)."
+}

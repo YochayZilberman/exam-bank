@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04",
+    "t15"
+  ],
+  "summary": "Classify the second-order PDE 2u_xx - 5u_xy + 2u_yy + 36x + 18y = 0 (hyperbolic), reduce it to canonical form, find the general solution, and solve the Cauchy problem with u(x,0)=4x^3+3x, u_y(x,0)=12x^2+4."
+}

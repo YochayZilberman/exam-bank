@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t13",
+    "t03"
+  ],
+  "summary": "(a) Find the Green's function of the Euler-type operator x^2y''+2xy'-μ(μ+1)y on [0,∞) with y(0)=y(∞)=0 using power solutions x^α; (b) solve the degenerate-kernel integral equation f(x)/√x = 1/√x + λ∫_0^1 x√y f(y)dy, determine for which λ a solution exists, and compare with the Neumann series to second order in small λ."
+}

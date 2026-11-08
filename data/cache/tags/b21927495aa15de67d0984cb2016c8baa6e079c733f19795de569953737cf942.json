@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t10",
+    "t11"
+  ],
+  "summary": "RL circuit with switches, current source, capacitor and parallel LC: find inductor currents at 0-/0+, transfer function I/Vs and filter type, power factor at ω=10, effect of capacitor at low frequency, and frequencies where |H|=1/(R1+R2) with LC resonance."
+}

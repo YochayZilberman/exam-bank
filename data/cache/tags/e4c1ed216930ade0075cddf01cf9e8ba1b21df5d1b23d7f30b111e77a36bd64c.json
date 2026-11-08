@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t13"
+  ],
+  "summary": "Solve the Volterra integral equation u(x)=1+ε∫_0^x u(t)dt (a) via Neumann series and (b) directly (by converting to an ODE), giving u=e^{εx}."
+}

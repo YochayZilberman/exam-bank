@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t13"
+  ],
+  "summary": "Series RLC circuit (L1||L2 inductors, C, R) with 3-position switch: find impulse response voltage on R, response to initial capacitor charge from DC source V0, response to cos(t)u(t) via convolution/integral, choose C for maximum power on R (resonance), and effect of initial conditions."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11"
+  ],
+  "summary": "Complex impedance Z=R+jX of a component in sinusoidal steady state: (a) find R, X and phase θ from oscilloscope plots of voltage and current waveforms; (b) express |Z|, |X|, R in terms of measured V_RMS, I_RMS and average power P_avg."
+}

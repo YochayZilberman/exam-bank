@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t07"
+  ],
+  "summary": "Solve the diffusion equation with linear decay term u_t = D u_xx - αu on [0,L] with inhomogeneous boundary conditions u(0,t)=1, u(L,t)=0 and zero initial condition, via steady-state plus separation of variables."
+}

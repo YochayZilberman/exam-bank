@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t19",
+    "t20"
+  ],
+  "summary": "AC steady-state circuit with two pairs of mutually coupled inductors (L1,L2,M1,M2) and resistors R1,R2: find average power in R2, derive and sketch transfer function |H(ω)|=|V_R2/Vs|, and find resonance frequency when coupling is maximal and R1 replaced by capacitor C."
+}

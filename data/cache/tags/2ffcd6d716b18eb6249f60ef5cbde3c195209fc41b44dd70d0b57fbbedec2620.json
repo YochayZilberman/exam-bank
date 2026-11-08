@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04",
+    "t15"
+  ],
+  "summary": "Find the general solution u(x,y) of the second-order hyperbolic PDE 2u_xx+6u_xy+4u_yy+u_x+u_y=0 by reducing it to canonical form via characteristics."
+}

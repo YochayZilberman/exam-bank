@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t16"
+  ],
+  "summary": "Solve the 3D wave equation u_tt = c^2 ∇^2 u for a spherically symmetric function u(r,t) on 0≤r<∞ with initial displacement φ(r) and zero initial velocity (reduce via ru to 1D d'Alembert)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the inhomogeneous wave equation u_tt - u_xx = A (constant) on [0,L] with mixed boundary conditions u(L,t)=0, u_x(0,t)=1 and initial data u(x,0)=A/2(3L^2-x^2)+x-L, u_t(x,0)=0, via a steady-state shift and separation of variables."
+}

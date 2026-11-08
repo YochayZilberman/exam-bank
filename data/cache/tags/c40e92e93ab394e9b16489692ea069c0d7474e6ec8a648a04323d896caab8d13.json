@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t11",
+    "t03"
+  ],
+  "summary": "Coupled inductors (mutual inductance M) circuit with sinusoidal source, capacitor and load: find Thevenin equivalent (open-circuit voltage, short-circuit current), average power on resistive load, power for multi-frequency cosine sum source, and power when replaced by ideal n:1 transformer."
+}

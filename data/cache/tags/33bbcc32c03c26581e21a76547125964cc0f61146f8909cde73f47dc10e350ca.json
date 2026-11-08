@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t12",
+    "t11"
+  ],
+  "summary": "Rectangular wave packet (width L, amplitude u) moving right in a non-dispersive medium with ω=vk: find an integral (Fourier) expression for the pulse shape at time t and explain physically (shape propagates unchanged)."
+}

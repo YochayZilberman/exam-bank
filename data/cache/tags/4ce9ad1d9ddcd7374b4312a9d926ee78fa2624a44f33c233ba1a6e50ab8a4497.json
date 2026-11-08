@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t13"
+  ],
+  "summary": "Solve the Fredholm integral equation with degenerate kernel φ(x)=1+λ∫_0^π cos(x+t)φ(t)dt on 0<x<π for real parameter λ, including characteristic values."
+}

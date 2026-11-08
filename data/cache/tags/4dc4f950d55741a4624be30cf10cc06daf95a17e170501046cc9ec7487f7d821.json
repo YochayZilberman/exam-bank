@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t07"
+  ],
+  "summary": "Find harmonic function u(r,θ) in an annular sector R1≤r≤R2, 0≤θ≤α solving Laplace equation in polar coordinates with Dirichlet BCs: u=3sin(2π ln(r/R1)/ln(R2/R1)) on θ=α, zero elsewhere, via separation of variables."
+}

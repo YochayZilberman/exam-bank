@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t12",
+    "t09"
+  ],
+  "summary": "Using the variational (Rayleigh quotient) principle for the Sturm–Liouville problem (P u')' + q u + λu = 0 with Dirichlet BCs, show eigenvalues satisfy λ > -q_max; then apply it to diffusion with position-dependent coefficient D(x) on a rod with zero boundary values to find the limit of n(x,t) as t→∞."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10"
+  ],
+  "summary": "Continuous random variable with density a(1-x^3) on [0,1/2]: find normalizing constant a, compute expectation E[X], and find the density of 2X."
+}

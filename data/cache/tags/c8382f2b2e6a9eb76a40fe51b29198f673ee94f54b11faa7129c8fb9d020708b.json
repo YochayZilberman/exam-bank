@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t11"
+  ],
+  "summary": "Continuous RV with density (3e^{-x}+3e^{-3x})/c on x>0: find normalizing constant c, expectation E(X) (prove existence), compute MGF and apply Chernoff bound with t=1/2 to bound P(X>=a)."
+}

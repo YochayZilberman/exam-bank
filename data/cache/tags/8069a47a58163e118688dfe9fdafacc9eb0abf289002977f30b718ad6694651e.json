@@ -1,0 +1,4 @@
+{
+  "topic_ids": [],
+  "summary": "Probability question (true/false with proof or counterexample): for events A,B, (a) if P(A^c)≤α and P(B^c)≤β then P(A∩B)≥1−α−β; (b) if P(A)=P(B)=γ and A≠B then P(A∩B)≤γ²."
+}

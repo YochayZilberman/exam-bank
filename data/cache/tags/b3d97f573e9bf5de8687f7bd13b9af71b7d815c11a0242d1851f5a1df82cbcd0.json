@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t05",
+    "t13"
+  ],
+  "summary": "Simple random walk on the integers: compute probability of being at position k after n steps, asymptotics of return probability P(A_0) via Stirling for p=q=1/2, and prove the probability of ever returning to the origin (recurrence)."
+}

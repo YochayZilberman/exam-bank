@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t08"
+  ],
+  "summary": "Second-order RLC circuit (C, Vs with R1, L with R2 in parallel branches): derive the differential equation for inductor current I_L(t), find dI_L/dt(0-) from initial conditions, then compute ZIR, ZSR for a step input Vs=3u(t), and the complete response."
+}

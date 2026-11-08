@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11"
+  ],
+  "summary": "Find R, X and phase θ of a complex impedance from oscilloscope voltage/current sinusoid graphs (phase shift), then express |Z|, |X|, R from measured V_RMS, I_RMS, P_avg and discuss whether sign of X/θ can be determined."
+}

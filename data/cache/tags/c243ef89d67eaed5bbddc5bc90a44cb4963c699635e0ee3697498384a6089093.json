@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t11"
+  ],
+  "summary": "Solve the forced 1D wave equation on the infinite line with source ε sin(k0 x) e^{-γt}, Gaussian initial displacement α e^{-x²/l²} and zero initial velocity (d'Alembert/Duhamel)."
+}

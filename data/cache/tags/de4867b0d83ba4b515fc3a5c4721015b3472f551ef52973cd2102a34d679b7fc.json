@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t04",
+    "t05"
+  ],
+  "summary": "Hypothesis testing for discrete distributions: define type I error α and type II error β for tests T, T', when one test is better; state and prove Neyman-Pearson lemma (stochastic or deterministic) showing non-NP tests are not optimal."
+}

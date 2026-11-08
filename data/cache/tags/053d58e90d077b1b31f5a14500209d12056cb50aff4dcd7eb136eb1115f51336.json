@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t19",
+    "t18"
+  ],
+  "summary": "Find eigenvalues and eigenfunctions of a 3D homogeneous Fredholm integral equation with separable (degenerate) kernel (1+|x'|)/(1+|x|) over the unit ball |x'|<1."
+}

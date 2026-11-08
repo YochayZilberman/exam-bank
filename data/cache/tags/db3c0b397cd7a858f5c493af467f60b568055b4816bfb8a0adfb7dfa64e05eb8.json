@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t04",
+    "t02"
+  ],
+  "summary": "Solve the free-particle 1D Schrödinger equation on the whole line with initial wavefunction Ψ0, finding Ψ(x,t) for t>0 (via Fourier transform / heat-kernel-type propagator)."
+}

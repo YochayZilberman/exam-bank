@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t08",
+    "t02"
+  ],
+  "summary": "Find a particular solution of the forced wave equation u_tt - c^2 u_xx = ε e^{-t/τ} δ(x) on -L<x<L with Dirichlet boundary conditions u(±L,t)=0."
+}

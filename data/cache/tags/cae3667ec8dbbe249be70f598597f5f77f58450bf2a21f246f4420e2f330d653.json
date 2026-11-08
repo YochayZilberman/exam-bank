@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04"
+  ],
+  "summary": "Three drawers each with gold, silver, copper coin; random coin moved top→middle, then middle→bottom, then coin drawn from bottom: find P(gold), P(coin originated from top drawer), and P(middle drawer still has gold | gold drawn)."
+}

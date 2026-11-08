@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t06",
+    "t01"
+  ],
+  "summary": "Prove continuity of probability measure for increasing unions and decreasing intersections of events, then show probability of intersection of countably many independent events equals infinite product of probabilities."
+}

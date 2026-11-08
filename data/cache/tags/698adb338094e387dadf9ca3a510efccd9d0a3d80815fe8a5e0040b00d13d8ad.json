@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t12",
+    "t03"
+  ],
+  "summary": "Find all extremals of the functional F[y]=∫_0^1 (y'^2+x^2)dx subject to the isoperimetric constraint ∫_0^1 y^2 dx=2 with boundary conditions y(0)=y(1)=0 (Lagrange multiplier, eigenvalue problem)."
+}

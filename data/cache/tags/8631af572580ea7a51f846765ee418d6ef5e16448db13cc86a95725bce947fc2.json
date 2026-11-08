@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t12",
+    "t10"
+  ],
+  "summary": "Sinusoidal steady-state circuit: current source driving series LC branch in parallel with resistor R; find input impedance, frequency of minimum impedance and source power there, transfer function H=IR/Is with magnitude sketch, 3dB points, bandwidth and application (notch/band-stop filter)."
+}

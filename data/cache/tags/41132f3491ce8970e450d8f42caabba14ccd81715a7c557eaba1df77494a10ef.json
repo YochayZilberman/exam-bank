@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t09"
+  ],
+  "summary": "Exam set: source-free series RLC current i(t) for overdamped/critically damped/underdamped cases with sketches; RL switched circuit (S1 closes at t=0, S2 at t=2s) find inductor current i(t) and values at t=1s, 5s; convolution of two rectangular pulses x1 (3 on 0-2) and x2 (2 on 1-3)."
+}

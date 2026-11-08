@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t10"
+  ],
+  "summary": "Two players with equal independent win chances play 7 domino games; find probability last game decides winner, conditional probability winner won at most 5 games, and conditional expectations of each player's win counts given one is overall winner (binomial)."
+}

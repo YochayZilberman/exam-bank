@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t13"
+  ],
+  "summary": "Time-focused Gaussian pulse, linearly polarized at 45° in a birefringent crystal with different dispersion relations along parallel and perpendicular axes: explain what output polarization depends on, and find crystal thickness so the pulse center (k=k0) converts from linear to circular polarization (quarter-wave phase difference)."
+}

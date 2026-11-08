@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t13"
+  ],
+  "summary": "Series RLC ignition circuit (12V battery, R=4Ω, L=200mH, capacitor C) switched at t=0: write differential equation and initial conditions for inductor current, characteristic roots in terms of R,L,C, choose roots so current reaches 1A within 100ms and stays above 1A for ~1s, find C, and find capacitor discharge wait time after disconnect."
+}

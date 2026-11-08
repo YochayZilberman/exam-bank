@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Joint density f(x,y)=(5/2)x on 0<=x<=1, 0<=y<=sqrt(x): verify it is a valid joint pdf, determine whether X and Y are independent, and compute the density of Z=Y*sqrt(X)."
+}

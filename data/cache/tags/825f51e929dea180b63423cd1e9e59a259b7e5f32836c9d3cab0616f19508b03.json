@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t06"
+  ],
+  "summary": "Solve 2D diffusion equation u_t = Laplacian u + q (constant source) on rectangle [0,π]×[0,π/2] with Neumann boundary conditions and initial condition cos(2x)cos(2y); discuss existence of stationary solution, and whether one exists when one Neumann condition is replaced by Dirichlet u=0 at x=0."
+}

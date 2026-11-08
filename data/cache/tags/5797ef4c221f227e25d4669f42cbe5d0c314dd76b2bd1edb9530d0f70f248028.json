@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t15",
+    "t13"
+  ],
+  "summary": "Hypothesis testing for discrete distributions: define type I error α and type II error β for tests T, T', compare tests, and state and prove the Neyman-Pearson lemma on optimality of likelihood-ratio tests (stochastic or deterministic version)."
+}

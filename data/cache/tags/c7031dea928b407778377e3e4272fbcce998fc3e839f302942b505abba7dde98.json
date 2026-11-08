@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t13",
+    "t16"
+  ],
+  "summary": "Linearly polarized rectangular pulse with equal TE and TM components hits a birefringent block at Brewster angle: describe reflected/transmitted pulses and their polarizations, find optimal length d for both polarizations to exit in phase given velocities v1, v2, and intensity distribution on a distant screen."
+}

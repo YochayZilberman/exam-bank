@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t20",
+    "t19",
+    "t05"
+  ],
+  "summary": "Parallel RLC circuit driven by sinusoidal current source in steady state: where to add resistor R2 to reduce R1 power tenfold, add L2/C2 keeping power unchanged, power factor change when adding capacitor, and find C3/C1 ratio for added series RLC load given average power."
+}

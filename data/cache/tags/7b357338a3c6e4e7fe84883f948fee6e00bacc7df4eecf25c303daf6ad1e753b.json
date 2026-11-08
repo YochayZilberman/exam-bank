@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t12"
+  ],
+  "summary": "Q5 (with Q4 on same page): n people with random black/white hats, indicators X_ij of same-colored pairs i<j; prove pairwise independence, find f(n) so normalized sum converges in distribution to 1 (WLLN/Chebyshev), and compute variance of X12+X23 given exactly half black. Q4: density (cx^2-bx) on [0,10], find b,c from F(5)=1/2, mean/variance of X^2, CDF of ceil(X)^2."
+}

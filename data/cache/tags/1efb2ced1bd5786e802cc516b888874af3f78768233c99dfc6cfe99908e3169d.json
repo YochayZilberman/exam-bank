@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t10"
+  ],
+  "summary": "Heat equation outside a sphere of radius R with Neumann boundary condition dT/dr = a sin^2θ at r=R and zero initial temperature; find the steady-state temperature T_s(r,θ) as t→∞ by solving Laplace's equation in spherical coordinates (Legendre expansion)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t07"
+  ],
+  "summary": "Solve the inhomogeneous heat equation u_t = a^2 u_xx + q on [0,l] with Dirichlet condition u(0,t)=u0, Neumann condition u_x(l,t)=b, and initial condition u(x,0)=u0 - qx^2/(2a^2), using a steady-state shift and separation of variables."
+}

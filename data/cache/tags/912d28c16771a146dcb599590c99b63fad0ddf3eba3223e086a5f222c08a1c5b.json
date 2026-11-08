@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t01"
+  ],
+  "summary": "Find the internal energy U of a solid of N atoms at temperature T and explain why (equipartition: U=3NkT, Dulong-Petit)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t01",
+    "t06",
+    "t05"
+  ],
+  "summary": "Resistive circuit with voltage source vs, current sources I and is: write KCL at nodes A–D and check independence, find power of source I via superposition as function of R, is, vs for given values, then replace sources and a 2R resistor by a capacitor to find the capacitor's zero-state impulse response voltage."
+}

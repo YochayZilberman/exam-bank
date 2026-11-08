@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t13",
+    "t19"
+  ],
+  "summary": "Series RL circuit with two mutually coupled inductors (L, M) and two parallel resistors: derive the differential equation for I(t), find step and impulse responses (ZSR), sketch with time constants, superpose delayed impulses, then find the transfer function H(jω) in sinusoidal steady state, sketch |H|, and relate the cutoff frequency to the time constant."
+}

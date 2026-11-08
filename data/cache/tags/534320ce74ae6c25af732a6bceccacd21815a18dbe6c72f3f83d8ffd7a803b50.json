@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t07",
+    "t09"
+  ],
+  "summary": "Find distribution of sum of independent Poisson variables, express P(sum of n Poisson(1) ≤ n) as e^{-n}Σn^i/i!, and use the CLT to show this limit equals 1/2."
+}

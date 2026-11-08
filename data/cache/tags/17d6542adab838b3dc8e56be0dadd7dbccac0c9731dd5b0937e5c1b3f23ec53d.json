@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t15",
+    "t03"
+  ],
+  "summary": "Laser pulse driver: capacitor charged from 12V via R1 and discharged through 1Ω laser by switches at 10kHz; find discharge current pulse, peak, FWHM, 5τ, R1 for 99.9% charging, source energy and efficiency, then replace R1 with inductor (LC resonant charging from 6V) to choose L and switch timing for 100% efficiency."
+}

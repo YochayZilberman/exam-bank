@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t05"
+  ],
+  "summary": "First-order linear PDE u_x + u_y - (x+y)u = 0 on the whole plane: find the general solution by characteristics, then the particular solution satisfying u = x+1 on the line x+y=1."
+}

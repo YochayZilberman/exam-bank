@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t02"
+  ],
+  "summary": "State and prove the union bound (Boole's inequality) for finitely many events, then apply it to the birthday problem to show P(at least two of n people share a birthday) ≤ C(n,2)/365."
+}

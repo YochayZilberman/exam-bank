@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t05"
+  ],
+  "summary": "Lottery with n+1 participants each winning independently with probability p, prize of 1 split equally among winners: compute expected total prize, prove E[X]=(1-(1-p)^{n+1})/(n+1) for Amir's share, and derive E[1/(1+Y)] for Y~Bin(n,p) via conditioning on Amir winning."
+}

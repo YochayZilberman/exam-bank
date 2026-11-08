@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t05",
+    "t18"
+  ],
+  "summary": "Series AC voltage source and DC current source driving a resistor: find resistor voltage, instantaneous and average power of resistor and each source, then with series RL load find Vab in sinusoidal steady state (superposition of DC and AC phasor)."
+}

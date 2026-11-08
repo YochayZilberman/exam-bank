@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t10"
+  ],
+  "summary": "Parallel RC circuit driven by current source Is(t) with switch closing at t=0 (uncharged capacitor): write the first-order ODE for Vc(t), identify the correct response graph for sinusoidal input sin(10πt) with R=1Ω, C=1F, find the phasor transfer function Vc/Is, compute the -3dB cutoff frequency, sketch |H(ω)|, and identify the filter type (low-pass)."
+}

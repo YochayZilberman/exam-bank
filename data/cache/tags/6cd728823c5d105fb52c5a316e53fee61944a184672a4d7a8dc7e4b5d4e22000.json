@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10"
+  ],
+  "summary": "Find the images of regions under the complex exponential map w=e^z: (a) rectangle α<x<β, γ<y<δ with δ−γ<2π; (b) half-strip x>0, 0<y<α≤2π (conformal mapping)."
+}

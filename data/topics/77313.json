@@ -1,0 +1,78 @@
+{
+  "course": "77313",
+  "source": "https://shnaton.huji.ac.il/api/syllabus?courseCode=77313&year=2027",
+  "fetched_at": "2026-11-06T15:58:41",
+  "note": "Hand-cleaned 2026-11-07 from the Shnaton syllabus (Hebrew and English merged into one list).",
+  "topics": [
+    {
+      "id": "t01",
+      "he": "אנליזה וקטורית בקואורדינטות עקומות",
+      "en": "Vector analysis in curvilinear coordinates"
+    },
+    {
+      "id": "t02",
+      "he": "פונקציות מוכללות (פונקציית דלתא)",
+      "en": "Generalized functions (delta function)"
+    },
+    {
+      "id": "t03",
+      "he": "בעיית שטורם-ליוביל ובעיות שפה למד\"ר",
+      "en": "Sturm–Liouville theory and ODE boundary-value problems"
+    },
+    {
+      "id": "t04",
+      "he": "פונקציית גרין",
+      "en": "Green's function"
+    },
+    {
+      "id": "t05",
+      "he": "מד\"ח מסדר ראשון – שיטת הקרקטריסטיקות",
+      "en": "First-order PDEs: method of characteristics"
+    },
+    {
+      "id": "t06",
+      "he": "מיון מד\"ח מסדר שני וצורות קנוניות; בעיות קושי, דירכלה ונוימן",
+      "en": "Second-order PDEs: classification, canonical forms; Cauchy, Dirichlet and Neumann problems"
+    },
+    {
+      "id": "t07",
+      "he": "משוואת הגלים – נוסחת ד'אלמבר",
+      "en": "Wave equation: d'Alembert's formula"
+    },
+    {
+      "id": "t08",
+      "he": "משוואת הגלים – מיתר וממברנה, הפרדת משתנים",
+      "en": "Wave equation: string and membrane, separation of variables"
+    },
+    {
+      "id": "t09",
+      "he": "משוואת החום / הדיפוזיה",
+      "en": "Heat (diffusion) equation"
+    },
+    {
+      "id": "t10",
+      "he": "משוואות לפלס ופואסון",
+      "en": "Laplace and Poisson equations"
+    },
+    {
+      "id": "t11",
+      "he": "בעיות לא הומוגניות",
+      "en": "Inhomogeneous problems"
+    },
+    {
+      "id": "t12",
+      "he": "חשבון וריאציות – משוואת אוילר-לגרנז'",
+      "en": "Calculus of variations: Euler–Lagrange equation"
+    },
+    {
+      "id": "t13",
+      "he": "משוואות אינטגרליות",
+      "en": "Integral equations"
+    }
+  ],
+  "raw": {
+    "he": "אנליזה וקטורית וקואורדינטות עקומות.\r\n מבוא לפונקציות מוכללות. משוואות דיפרנציאליות בנגזרות רגילות: \r\nבעיית Sturm-Liouville. משוואות דיפרנציאליות בנגזרות חלקיות מסדר ראשון, \r\nשיטת הקרקטריסטיקות. משוואות דיפרנציאליות בנגזרות חלקיות מסדר שני: \r\nמיון וצורותיהן הקנוניות. משוואות היפרבוליות: גלים. \r\nשיטת\r\n .D'Alembert בעיות שפה. מיתר, ממברנה, הפרדת משתנים. \r\nמשוואות פרבוליות: משוואת החום, משוואת הדיפוזיה ושיטות לפתרונן. \r\nבעיות שפה. בעיות לא אחידות. משוואות אליפטיות: משוואות Laplace \r\n ו-Poisson, יחידות הפתרון, שיטות לפתרונן. \r\nחשבון ווריאציות: פונקציונל, בעיית קיצון, משוואת Euler-Lagrange. \r\nמבוא למשוואות אינטגרליות.",
+    "en": "Vector analysis in curvilinear coordinates. An introduction to generalized functions. The boundary value\r\nproblem and the Sturm-Liouville theory. The Green function. Partial differential equations\r\n(PDEs) of first order: the method of characteristics. PDEs of the second order: classification and\r\ncanonical forms. Cauchy, Dirichlet and Neumann problems. The wave equation: the d’Alembert’s\r\nformula, vibrating string, vibrating membrane. The heat equation. The Laplace equation. Inhomogeneous\r\nproblems. An intro to variational calculus. An intro to integral\r\nequations."
+  },
+  "edited": "2026-11-07"
+}

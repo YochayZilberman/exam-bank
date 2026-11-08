@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t06"
+  ],
+  "summary": "State and prove Markov's and Chebyshev's inequalities; for i.i.d. X,Y with variance 1, prove P(X ≥ Y+5) ≤ 1/10 using Chebyshev on X−Y."
+}

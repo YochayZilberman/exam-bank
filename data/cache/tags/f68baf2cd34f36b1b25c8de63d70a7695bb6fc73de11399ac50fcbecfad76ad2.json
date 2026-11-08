@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09"
+  ],
+  "summary": "Two thin lenses separated by distance d form a beam expander/reducer for a laser beam of width A and power P; find focal lengths f1,f2 so output beam is parallel with 10 times the intensity (power per area), considering both convex-convex and concave-convex options."
+}

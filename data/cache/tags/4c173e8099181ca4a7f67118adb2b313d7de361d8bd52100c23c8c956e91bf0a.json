@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t02",
+    "t13"
+  ],
+  "summary": "Compute the m-th distributional (generalized) derivative of the 2-periodic sawtooth function f(x)=x on (-1,1), involving periodic delta function combs."
+}

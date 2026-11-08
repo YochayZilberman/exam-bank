@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t02"
+  ],
+  "summary": "Solve the ODE 2y''+y'-y=δ(x) on the whole real line with y→0 as x→±∞, i.e., find the Green's function with jump conditions at x=0."
+}

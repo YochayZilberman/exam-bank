@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t21",
+    "t06"
+  ],
+  "summary": "Define mutual inductance; compute M21 and M12 and the induced voltages v1, v2 for two magnetically coupled coils (N1, N2 turns) driven by current sources, plus the stored energy and coupling coefficient k."
+}

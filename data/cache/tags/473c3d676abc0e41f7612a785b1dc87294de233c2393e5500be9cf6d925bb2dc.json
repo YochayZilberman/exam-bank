@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t20",
+    "t19",
+    "t18"
+  ],
+  "summary": "Parallel circuit with current source, series LC branch and resistor R in sinusoidal steady state: find input impedance, frequency of minimum impedance and power delivered, transfer function H=IR/Is and its magnitude sketch, 3dB points and bandwidth (band-stop/notch filter)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t12",
+    "t13"
+  ],
+  "summary": "Two loops coupled by mutual inductance M with impedances Z: write coupled differential equations for i1,i2 (Z=R), prove transfer function I2/Vin, find resonance frequencies from given Vin/I1 form, express source power and determine if source supplies or absorbs power.\n"
+}

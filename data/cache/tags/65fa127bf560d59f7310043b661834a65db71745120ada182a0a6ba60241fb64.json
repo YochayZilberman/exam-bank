@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t05"
+  ],
+  "summary": "Two basketball players alternate turns shooting until success with probabilities p and q (geometric variables): find probability of 8 consecutive shots, find p,q given expectation 7 and variance 18 of shots until second turn, and determine whether the average of ratios Z_n converges in distribution to a constant (law of large numbers)."
+}

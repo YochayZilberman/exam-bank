@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t03"
+  ],
+  "summary": "Solve the 1D wave equation on 0<x<L with Dirichlet at x=0 and Neumann at x=L, initial displacement sin(5πx/2L) and initial velocity sin(πx/2L), via separation of variables (vibrating string)."
+}

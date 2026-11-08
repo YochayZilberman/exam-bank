@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t04",
+    "t03"
+  ],
+  "summary": "(a) Find extremals of functional ∫(y'^2+2x^2)dx on [0,1] with isoperimetric constraint ∫y^2dx=1/2 and Neumann conditions y'(0)=y'(1)=0; (b) find Green's function for e^{-2x}y''-2e^{-2x}y'-μ(μ+2)e^{-2x}y=δ(x-x') on [0,1] with y(0)=y(1)=0."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t19",
+    "t05"
+  ],
+  "summary": "Resistive network with two voltage sources: find Thevenin resistance, open-circuit voltage and short-circuit current between a,b; then with impedances Z=18+j300ω at 100Hz find Z_ab and design the load impedance (passive RLC realization) for maximum power transfer."
+}

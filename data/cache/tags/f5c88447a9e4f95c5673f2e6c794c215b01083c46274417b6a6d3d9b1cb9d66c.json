@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the inhomogeneous diffusion equation u_t = a^2 u_xx + q cos(pi(x-L)/L) on [0,L] with u(0)=0, u_x(L)=0 and initial condition u(x,0) = -(qL^2/(a^2 pi^2)) cos(pi x/L), using eigenfunction expansion / separation of variables."
+}

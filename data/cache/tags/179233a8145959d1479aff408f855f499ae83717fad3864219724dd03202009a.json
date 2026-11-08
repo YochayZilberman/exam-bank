@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the 1D heat equation with constant internal heat source q in a slab -a≤x≤a, zero boundary temperature and zero initial temperature; find T(x,t) (steady-state plus separation-of-variables series)."
+}

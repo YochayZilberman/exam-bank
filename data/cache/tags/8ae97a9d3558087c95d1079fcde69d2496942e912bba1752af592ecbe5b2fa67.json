@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "X counts how many of the independent Bernoulli(2^{-i}) variables B_i, i≥0, equal 1; find E(X) and Var(X), and use Chebyshev's inequality to bound P(X>a) for a≥E(X)."
+}

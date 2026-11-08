@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t08"
+  ],
+  "summary": "Given a standard normal random variable X, find the probability density functions of |X|, X^2, 1/X, and 1/X^2 (transformations of continuous random variables)."
+}

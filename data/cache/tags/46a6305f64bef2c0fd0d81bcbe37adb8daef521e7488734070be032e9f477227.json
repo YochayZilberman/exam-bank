@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03",
+    "t11"
+  ],
+  "summary": "AC phasor circuit with current source 3∠30°, capacitors -3j, -2j, inductor 4j, resistors 4Ω and 2Ω at ω=10 rad/s: find C and L values, Thévenin/Norton equivalent seen by 2Ω load, reactive power of capacitors and inductor, complex power supplied by source and power factor."
+}

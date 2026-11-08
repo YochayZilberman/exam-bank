@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t06",
+    "t03"
+  ],
+  "summary": "Urn with 2 black, 2 white, 1 yellow ball drawn without replacement until yellow; X black and Y white drawn: compute P(X=Y), P(Y=0|X=a) for a=0,1,2, and conditional expectation E(X|Y=0)."
+}

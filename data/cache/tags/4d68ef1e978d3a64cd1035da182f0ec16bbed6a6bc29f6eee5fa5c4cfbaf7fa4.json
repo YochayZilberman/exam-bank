@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t08"
+  ],
+  "summary": "Second-order RLC circuit with current source, R1, R2, L, C: derive differential equation for inductor current, find initial dI_L/dt, then compute ZIR, ZSR for Is=6u(t), and total response."
+}

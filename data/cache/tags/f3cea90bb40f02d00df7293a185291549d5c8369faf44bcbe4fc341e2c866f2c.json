@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t01",
+    "t11",
+    "t02"
+  ],
+  "summary": "Resistive circuit with voltage source vs and current sources I, is: find power delivered/absorbed by vs symbolically (superposition suggested), numerically for given values, and instantaneous and average power when vs=10cos(wt)."
+}

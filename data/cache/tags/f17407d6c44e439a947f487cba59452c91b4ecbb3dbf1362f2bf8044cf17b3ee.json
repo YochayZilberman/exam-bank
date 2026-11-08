@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t06"
+  ],
+  "summary": "Second-order RLC circuit with current source, R1, inductor, capacitor and R2: derive the differential equation for the inductor current, find the step response from a given ODE, and compute the ZSR for Is=e^{-2t}u(t) via convolution."
+}

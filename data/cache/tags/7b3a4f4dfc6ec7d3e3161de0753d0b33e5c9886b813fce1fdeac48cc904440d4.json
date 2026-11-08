@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t16",
+    "t15",
+    "t10"
+  ],
+  "summary": "EM wave of wavelength λ in a tube with a mirror at one end and detector beside the source; find tube lengths giving minimum detected intensity, then replace mirror with surface of index n and find n so max/min energy ratio is 6:1 (interference with partial reflection)."
+}

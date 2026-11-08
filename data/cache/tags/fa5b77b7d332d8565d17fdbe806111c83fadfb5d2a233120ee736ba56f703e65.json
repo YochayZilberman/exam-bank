@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "For X ~ Exp(λ), compute E(X) and Var(X); for independent Y ~ Exp(η), find the CDF and PDF of Z = min(X,Y)."
+}

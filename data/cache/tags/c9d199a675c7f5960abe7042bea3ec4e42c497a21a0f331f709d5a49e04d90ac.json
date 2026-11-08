@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Joint continuous density f(x,y)=3/2 on region 0<x<1, x^2≤y≤1: find conditional density of Y given X, conditional expectation E(Y|X), and E(Y)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t08"
+  ],
+  "summary": "Second-order RC ladder circuit (Vs, R1, C1, R2, C2): derive differential equation for C2 voltage, find initial conditions from capacitor currents, compute ZIR and ZSR for step input Vs=2u(t), and steady-state capacitor voltages."
+}

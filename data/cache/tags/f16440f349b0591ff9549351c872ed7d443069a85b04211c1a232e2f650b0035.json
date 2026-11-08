@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t14"
+  ],
+  "summary": "AC circuit with voltage source, CCVS r_m·I_R, parallel L=1.2mH and R=1.5Ω: find units of r_m, r_m for |H(jω)|=1/4, source frequency for unity power factor after adding temperature-dependent capacitor, and r_m for max reactive power in inductor with CCVS r_m·I_L."
+}

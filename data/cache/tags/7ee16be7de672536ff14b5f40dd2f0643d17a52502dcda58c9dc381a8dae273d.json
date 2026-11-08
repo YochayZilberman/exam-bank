@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t07"
+  ],
+  "summary": "List of one million reals with mean 10 and mean of squares 101; X a uniformly random element: find E(X), Var(X), use Chebyshev to bound P(X≥14), and bound the number of list elements ≥14."
+}

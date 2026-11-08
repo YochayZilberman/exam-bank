@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t02",
+    "t04"
+  ],
+  "summary": "Coin tossed 8 times: H0 fair vs H1 biased with P(heads)=0.75; construct optimal (Neyman-Pearson) test at significance alpha=37/256, show number of heads is a sufficient statistic, and compute the test's power using binomial distribution."
+}

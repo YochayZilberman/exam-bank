@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "Bulb lifetime ~ Exp(0.1): compute the moment generating function with its domain, then use a Chernoff bound (optimized via MGF) to bound probability that total lifetime of 50 bulbs used sequentially exceeds 570 hours."
+}

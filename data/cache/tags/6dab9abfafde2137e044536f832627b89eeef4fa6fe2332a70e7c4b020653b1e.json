@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t17"
+  ],
+  "summary": "Find the harmonic function (Laplace equation solution) in the annulus between concentric infinite cylinders R1=1 and R2=2 with Dirichlet data u=1+cos^2φ on inner and u=sin^2φ on outer surface, via separation of variables in polar coordinates."
+}

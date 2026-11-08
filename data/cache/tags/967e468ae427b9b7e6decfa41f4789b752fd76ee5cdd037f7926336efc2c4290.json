@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t10",
+    "t11"
+  ],
+  "summary": "Parallel RLC driven by sinusoidal current source: find first time resistor instantaneous power is minimal, how to add N capacitors and N inductors keeping resonance frequency and resulting average resistor power, impulse response for capacitor voltage, and condition on phase for maximal instantaneous power with a second current source."
+}

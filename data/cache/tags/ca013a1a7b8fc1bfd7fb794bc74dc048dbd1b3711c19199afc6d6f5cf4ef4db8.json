@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12"
+  ],
+  "summary": "Wave packet sin(k1x)sin(k2x) in infinite waveguide with dispersion ω=bk/sqrt(1-(a/k)^2): find pulse shape at time t, phase and group velocities of components, and required dispersion of second medium (length 2L) so pulse recovers original shape."
+}

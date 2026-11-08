@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t02",
+    "t13"
+  ],
+  "summary": "Find the Green function for the operator Ly = y'' - y on the whole real line with bounded solutions (decaying at ±infinity)."
+}

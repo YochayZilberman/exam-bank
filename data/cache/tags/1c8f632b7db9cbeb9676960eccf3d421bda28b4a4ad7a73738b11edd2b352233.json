@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the 1D diffusion equation n_t = D n_xx + a x on a tube [-L,L] with open ends (n=0 at x=±L) and zero initial concentration, finding n(x,t) for t>0 using a steady-state part plus an eigenfunction expansion."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09",
+    "t13"
+  ],
+  "summary": "Laser beam of radius r0 and power P0 passes through two thin lenses separated by distance d forming a beam expander/reducer; find focal-length ratio f1/f2 (two options: converging/diverging) so the output beam is parallel with intensity 100 times larger, then how to adjust when d doubles and which parameter must change."
+}

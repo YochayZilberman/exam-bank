@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t10",
+    "t14"
+  ],
+  "summary": "Sinusoidal steady-state parallel circuit with current source, L1, L2, series RC branch and a CCCS (Ics=αIcr) behind a switch: find input impedance seen by Is, resonance frequency with switch open/closed, existence of resonance vs α, and average power of the controlled source and α values for which it supplies power."
+}

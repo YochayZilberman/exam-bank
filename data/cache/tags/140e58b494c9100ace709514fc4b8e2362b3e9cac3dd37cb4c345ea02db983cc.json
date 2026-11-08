@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t20",
+    "t05"
+  ],
+  "summary": "Sinusoidal steady-state RLC circuit (R1-L1 series feeding L2-R2 branch parallel with capacitor): find input impedance, resonance frequencies, transfer function Vout/Vin, power dissipated in R1 and power factor for 30cos(10t+40°), and capacitor/inductor element to add for maximum power factor."
+}

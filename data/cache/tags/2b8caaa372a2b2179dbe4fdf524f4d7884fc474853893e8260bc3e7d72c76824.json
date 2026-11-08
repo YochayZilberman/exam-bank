@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03"
+  ],
+  "summary": "Find the Green's function of the operator L y = x^2 y'' + 2x y' (Euler-type, self-adjoint form (x^2 y')') on 1<x<2 with Dirichlet boundary conditions y(1)=y(2)=0."
+}

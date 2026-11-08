@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t16",
+    "t07"
+  ],
+  "summary": "Police sound-wave speed gun: Doppler-shifted wave reflected from moving car, superposition with transmitted wave giving beats; find beat and envelope frequencies, frequency driver must emit to fake speed 0 or v/2, and speed resolution given 100 MHz source and 100 kHz beat resolution."
+}

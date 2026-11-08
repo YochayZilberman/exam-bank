@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t07",
+    "t03"
+  ],
+  "summary": "Solve the diffusion equation with radioactive decay term n_t = D n_xx - βn on a channel of length L with open end n(0)=0 and closed end n_x(L)=0, initial concentration a sin(πx/2L); find n(x,t) via separation of variables."
+}

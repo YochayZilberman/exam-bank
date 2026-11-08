@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t05",
+    "t03"
+  ],
+  "summary": "Solve an RL circuit with source v(t) and initial current I0 using Laplace transform to find i(t), evaluate for a step input with R=10Ω, L=5H, I0=3A; also phasor analysis of an AC circuit (voltages and currents) and Thevenin equivalent of a resistive network with 32V and 2A sources to find load current for RL=6,16,36Ω."
+}

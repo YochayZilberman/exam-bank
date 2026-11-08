@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t06"
+  ],
+  "summary": "Classify the second-order PDE u_xy + u_x = 0 and solve the Cauchy problem on the whole plane with data u=sin x and u_x=1 given on the line y=x."
+}

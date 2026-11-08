@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t17"
+  ],
+  "summary": "Find conformal maps taking various planar domains (lens of two disks, crescent, plane slit along [-i,i], strip between lines y=x and y=x+h, region between circles, region outside two disks in upper half plane, half-disk slit along segment) onto the upper half-plane."
+}

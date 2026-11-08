@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t14"
+  ],
+  "summary": "A list of 10^6 real numbers has mean 10 and mean of squares 101; X is a uniformly random element of the list. Find E(X) and Var(X), use Chebyshev's inequality to bound P(X≥14), then bound how many list elements are at least 14."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t01"
+  ],
+  "summary": "Second-order RLC circuit driven by current source Is (R1, R2, L, C): derive the differential equation for inductor current IL, find dIL/dt(0-) initial condition, compute zero-input response, zero-state response to Is=6u(t), and total solution."
+}

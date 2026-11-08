@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t05",
+    "t03"
+  ],
+  "summary": "RC circuit with 30V source, 10k/20k/10k resistors, 100µF capacitor and 1.5A current source; switch closes at t=0 shorting a node to ground; find current i(t) through the 20kΩ resistor for t>0 using initial steady state and first-order transient analysis."
+}

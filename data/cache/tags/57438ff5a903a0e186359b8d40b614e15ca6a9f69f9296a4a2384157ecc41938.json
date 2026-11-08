@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13"
+  ],
+  "summary": "Given a standard normal random variable X, derive the probability density functions of the transformed variables |X|, X^2, 1/X, and 1/X^2."
+}

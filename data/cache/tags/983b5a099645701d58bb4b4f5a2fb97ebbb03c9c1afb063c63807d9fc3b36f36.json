@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t14"
+  ],
+  "summary": "For i.i.d. Bernoulli(1/2) X_i, with Y_i=max(X_i,X_{i+1}) and Z_n=sum Y_i, compute E and Var of Z_n (with covariances of dependent neighbors), show P(Z_n=n/2)->0, and prove Z_n/n converges in probability to 3/4."
+}

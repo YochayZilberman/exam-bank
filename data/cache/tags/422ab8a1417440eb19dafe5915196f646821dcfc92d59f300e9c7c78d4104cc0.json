@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t11",
+    "t10"
+  ],
+  "summary": "AC circuit with source, inductor L, and parallel RC (Zc=-2j, R=1): find input impedance, L for resonance with C=25mF, average power delivered, load impedance Z_L at a-b to keep resonance at ω=100 with 0.5W load power, and ratio of source powers for two source amplitudes/phases."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t06"
+  ],
+  "summary": "Prove Chebyshev's inequality and the Chernoff bound P(X≥a) ≤ M_X(t)e^{-at} for a discrete random variable with moment generating function, using Markov's inequality."
+}

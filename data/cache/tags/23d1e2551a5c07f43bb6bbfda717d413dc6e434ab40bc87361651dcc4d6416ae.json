@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t09"
+  ],
+  "summary": "Parallel RLC circuit driven by current source (series LC branch parallel to R): derive 2nd-order ODE for inductor current, find initial derivative from IL(0), VC(0), find unit step ZSR and response to Is=e^{-2t}u(t)."
+}

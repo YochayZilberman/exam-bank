@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t13"
+  ],
+  "summary": "Solve integral equations via Fourier transform: (a) f(x)=e^{-α|x|}+λ∫e^{-α|x-y|}f(y)dy with α>2λ; (b) express Fourier transform of f for f(x)=h(x)+λ∫g(x+y)f(y)dy in terms of G,H and find formal solution."
+}

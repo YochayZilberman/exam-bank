@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t12",
+    "t11"
+  ],
+  "summary": "Sinusoidal steady-state circuit with two pairs of coupled inductors (L1,L2 with mutual M1,M2), resistors R1,R2 and source Vs: find average power in R2, transfer function VR2/Vs and sketch |H(ω)|, then with maximum (ideal) coupling and R1 replaced by capacitor C find resonance frequency."
+}

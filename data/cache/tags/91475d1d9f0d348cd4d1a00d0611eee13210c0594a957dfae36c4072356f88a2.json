@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t11",
+    "t10"
+  ],
+  "summary": "AC circuit with voltage sources Vs and current sources Is and equal resistors R: find Thevenin/Norton equivalents between nodes a-b, then average power delivered to a 50Ω load, maximum power transfer load, and power with a 30pF capacitor load."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13"
+  ],
+  "summary": "Discrete random variables X,Y on the same probability space: define equality in distribution and almost-sure equality, prove a.s. equality implies equality in distribution, and prove X =d Y implies g(X) =d g(Y) for any function g:R→R."
+}

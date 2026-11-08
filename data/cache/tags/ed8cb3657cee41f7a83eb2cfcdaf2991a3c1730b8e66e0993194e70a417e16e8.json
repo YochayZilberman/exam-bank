@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t04"
+  ],
+  "summary": "For discrete random variables X,Y on the same probability space: define equality in distribution and almost-sure equality, prove a.s. equality implies equality in distribution, and prove g(X) and g(Y) are equal in distribution if X and Y are."
+}

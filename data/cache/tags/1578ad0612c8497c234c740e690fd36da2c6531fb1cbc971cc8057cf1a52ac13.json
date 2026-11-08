@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10"
+  ],
+  "summary": "For X ~ Exponential(1): find the moment generating function M_X(t), find the density of Y = 1/X, and determine whether E[Y] exists, with proof."
+}

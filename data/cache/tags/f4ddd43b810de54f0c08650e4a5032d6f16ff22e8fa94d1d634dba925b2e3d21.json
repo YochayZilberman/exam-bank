@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t06",
+    "t07"
+  ],
+  "summary": "Random black/white coloring of an (n+1)x(n+1) grid: check independence/pairwise independence of adjacency-same-color events, compute expectation and variance of number of connected pairs Z_n, and prove a weak law (concentration) via Chebyshev."
+}

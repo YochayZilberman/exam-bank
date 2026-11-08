@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t03",
+    "t11"
+  ],
+  "summary": "Sinusoidal steady-state circuit with source, resistor and coupled inductors L1, L2 (M): find Thevenin equivalent at terminals A-B for M=0 and M=1, design load (R, L, C) for maximum power transfer and compute power, and find max-power load behind a 1:3 ideal transformer with Z_T=3+j."
+}

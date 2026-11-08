@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Two bulbs with independent Geometric(1/3) burn-out times X1, X2: find expected time until first burns out (min), show min(X1,X2) independent of indicator 1(X1=X2), and find probability both burn out in same minute given neither burned in first minute."
+}

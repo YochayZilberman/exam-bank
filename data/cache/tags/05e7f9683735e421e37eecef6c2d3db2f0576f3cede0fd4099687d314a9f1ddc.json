@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t06"
+  ],
+  "summary": "Define equality in distribution for discrete random variables, prove the sum of independent Bin(n,p) and Bin(m,p) is Bin(n+m,p), and state and prove the law of total probability."
+}

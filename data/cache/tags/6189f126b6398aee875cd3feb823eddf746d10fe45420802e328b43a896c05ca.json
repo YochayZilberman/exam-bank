@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t21",
+    "t05"
+  ],
+  "summary": "Sinusoidal steady-state circuit with source, parallel L=1.2mH and R=1.5Ω, and CCVS r_m·I_R: find units of r_m, r_m for |H(jw)|=1/4, source frequency for unity power factor after adding temperature-dependent capacitor, and r_m for max reactive power in inductor with CCVS r_m·I_L."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t12",
+    "t10"
+  ],
+  "summary": "Sinusoidal steady-state circuit with source, series R1, two coupled inductors L with mutual inductance M in parallel, and load RL; with switch closed find the equivalent inductance, transfer function Vout/Vin with a qualitative magnitude plot, and input impedance; with switch open find H(ω) and its limit as L→∞, M→L (ideal transformer), explaining the result."
+}

@@ -1,0 +1,160 @@
+{
+  "courseCode": "83325",
+  "year": 2027,
+  "courseName": {
+    "he": "גלים ויסודות פיסיקה א",
+    "en": "WAVES AND FUNDAMENTALS OF MODERN PHYSICS I"
+  },
+  "periodName": {
+    "he": "סמסטר א",
+    "en": "Semester A"
+  },
+  "ectsCredits": null,
+  "degreeLevel": null,
+  "creditPoints": "6",
+  "academicYear": null,
+  "semester": "1",
+  "department": {
+    "he": "פיסיקה יישומית",
+    "en": "Applied Physics"
+  },
+  "facultyCode": null,
+  "campusName": {
+    "he": "אדמונד י' ספרא",
+    "en": "Edmond J. Safra"
+  },
+  "building": null,
+  "room": null,
+  "courseCoordinator": {
+    "he": null,
+    "en": null
+  },
+  "coordinatorEmail": null,
+  "teachers": {
+    "he": "פרופ ניר בר-גיל\nמר יואב בן חיים\nיוגב קורן",
+    "en": "Prof. Nir Bar-Gill\nMr. Yoav Ben-Haim\nYogev Koren"
+  },
+  "officeHours": {
+    "he": null,
+    "en": null
+  },
+  "contactHours": null,
+  "teachingLanguage": {
+    "he": "עברית",
+    "en": "Hebrew"
+  },
+  "courseDescription": {
+    "he": "מטרת הקורס היא ללמד את התכונות היסודיות של תופעות הגלים. במעבר לוגי רציף לעבור לקונספטים של תורת הקוואנטים. יבנו משוואות הגלים השונים מתוך חוקי היסוד של הפיסיקה. משואת הגלים תנותח והתכונות הבסיסיות של הפתרונות ילמדו.כאינטרמצו בהוראת תופעות גליות תהיה כניסה לאופטיקה גיאומטרית אשר תתווה את חוקי האופטיקה הבסיסיים, מבנה מערכות אופטיות הבסיסיות כמערכות ליניאריות מדמות ואוספות אנרגיה קרינתית, יסודות הרדיומטריה. אינטגרל קירכהוף-הלמורץ יפותח ויוצג כבסיס הכללי לפתרון בעיות התפשטות גלים א\"מ. תופעות האופטיקה הפיסיקלית של התפשטות והתאבכות יינתנו כפועל יוצא של אינטגרל העקיפה. המגע באינטראקציה של קרינה או חומר תינתן ברמה הקלאסית של דו קוטב דינמי.",
+    "en": "The course aims to teach the basic features of waves. Logical transition continuously move to concepts of quantum theory . Build various wave equations from the basic laws of physics. Wave equation will be analyzed and the basic features of the suggested will be studied . Entering geometrical optics which will dictate the basic laws of optics, structure of optical systems foundation for a linear figure and collect Energy Radiation elements radiometer . Integral Kirchhoff - Hlmortz will be developed and will be presented as a basis for resolving waves equations. phenomena of physical optics propagation and interference will be provided as a result of indirect integral. touch interaction of radiation given material current classic  level of dynamic dipolar."
+  },
+  "courseAims": {
+    "he": "מטרת הקורס היא ללמד את התכונות היסודיות של תופעות הגלים. במעבר לוגי רציף לעבור לקונספטים של תורת הקוואנטים. יבנו משוואות הגלים השונים מתוך חוקי היסוד של הפיסיקה. משואת הגלים תנותח והתכונות הבסיסיות של הפתרונות ילמדו.כאינטרמצו בהוראת תופעות גליות תהי כניסה לאופטיקה גיאומטרית אשר תתווה את חוקי האופטיקה הבסיסיים.",
+    "en": "•\tSimple harmonic motion\r\n•\tNormal modes\r\n•\tCoupled oscillations\r\n•\tForced vibrations\r\n•\tResonance\r\n•\tDriven coupled oscillators \r\n•\tMechanical vibrations and waves - wave equations\r\n•\tVibrations of continuous systems\r\n•\tReflection (impedance matching) and refraction.\r\n•\tPhase velocity, group velocity, and dispersion.\r\n•\tWave solutions to Maxwell's equations\r\n•\tPolarization\r\n•\tSnell's Law\r\n•\tFermat principle\r\n•\tFresnel equations\r\n•\tWaveguides\r\n•\tInterference, thin films \r\n•\tHuygens's principle\r\n•\tFraunhofer diffraction\r\n•\tGratings \r\n•\tSimple optical elements\r\n•\tRayleigh Scattering  (if time allow)"
+  },
+  "learningOutcomes": {
+    "he": "ידע של משואות הגל, חבילת גלים העברות החזרות בליעה ופיזורים.\r\nואופטיקה בסיסית",
+    "en": "Knowledge of wave equations, waves package transfers Returns swallowing and dissipations.\r\nAnd basic optics"
+  },
+  "courseContent": {
+    "he": "- תנועה הרמונית\r\n- ריסון ורזוננס (תהודה)\r\n- התמרות פורייה\r\n- מערכות מצומדות, מודים נורמליים\r\n- משוואת הגלים\r\n- גלים במיתר\r\n- החזרה והעברה\r\n- עכבות\r\n- אנרגיה\r\n- גלים עומדים\r\n- דיספרסיה (נפיצה)\r\n- חבורות גלים ומהירות חבורה\r\n- גלים אלקטרומגנטיים (א\"מ)\r\n- גלים א\"מ בחומר - מודל לורנץ\r\n- החזרה והעברה של גלי אור\r\n- התאבכות (interference)\r\n- עקרון הויגנס - עקיפה\r\n- אינטרפרומטרים\r\n- אופטיקה גאומטרית",
+    "en": "- Harmonic motion\r\n- Restraint and resonance\r\n- Fourier transforms\r\n- Conjugate systems, normal modes\r\n- Wave equation\r\n- Waves on a string\r\n- Reflection and transmission\r\n- Impedance\r\n- Energy\r\n- Standing waves\r\n- Dispersion\r\n- Wave bunches and bunch velocity\r\n- Electromagnetic waves (EM)\r\n- EM waves in matter - Lorentz model\r\n- Reflection and transmission of light waves\r\n- Interference\r\n- Huygens' principle - Diffraction\r\n- Interferometers\r\n- Geometric optics"
+  },
+  "attendanceRequirements": {
+    "he": "0",
+    "en": "0"
+  },
+  "teachingMethod": {
+    "he": "פרונטאלית",
+    "en": "Regular class teaching"
+  },
+  "requiredReading": {
+    "he": "NA",
+    "en": "NA"
+  },
+  "additionalReading": {
+    "he": "גלים ואופטיקה - האוניברסיטה הפתוחה\r\nWaves - Berkeley course",
+    "en": "Waves and Optics - Open University\r\nWaves - Berkeley course"
+  },
+  "evaluation": {
+    "he": null,
+    "en": null
+  },
+  "additionalInfo": {
+    "he": "- הבחנים יינתנו כ- 4-5 פעמים במהלך הסמסטר, במסגרת השיעור/תרגול, למשך כ- 10 דק'.\r\nהם מהווים 15% מהציון הסופי כמגן.\r\nהם חובה, ונדרשת הגשה של לפחות 80% מהבחנים כדי לגשת לבחינה הסופית.\r\nכ- 15% מהסטודנטים ייבחרו אקראית יום אחרי כל בוחן ויידרשו להגיע פיזית למפגש עם הבודקים לבחינת תשובותיהם (לוודא שעבדו עצמאית).\r\n\r\n- תרגילי הבית מהווים 15% מהציון הסופי.\r\nקיימת חובת הגשה, ונדרשת הגשה של לפחות 80% מתרגילי הבית כדי לגשת לבחינה הסופית.\r\nכ- 15% מהסטודנטים ייבחרו אקראית יום אחרי מועד הגשת כל תרגיל בית ויידרשו להגיע פיזית למפגש עם הבודקים לבחינת תשובותיהם (לוודא שעבדו עצמאית).\r\n\r\n- הבחינה הסופית מהווה 70% מהציון הסופי.\r\nנדרש ציון של לפחות 60 במבחן כדי לעבור את הקורס.",
+    "en": "- The exams will be given about 4-5 times during the semester, as part of the class/practice, for about 10 minutes.\r\nThey constitute 15% of the final grade as a defense.\r\nThey are mandatory, and submission of at least 80% of the exams is required in order to take the final exam.\r\nAbout 15% of the students will be randomly selected the day after each exam and will be required to physically attend a meeting with the examiners to review their answers (to ensure that they worked independently).\r\n\r\n- The homework exercises constitute 15% of the final grade.\r\nThere is a submission obligation, and submission of at least 80% of the homework exercises is required in order to take the final exam.\r\nAbout 15% of the students will be randomly selected the day after the submission date of each homework exercise and will be required to physically attend a meeting with the examiners to review their answers (to ensure that they worked independently).\r\n\r\n- The final exam constitutes 70% of the final grade.\r\nA score of at least 60 on the test is required to pass the course."
+  },
+  "degreeName": {
+    "he": "תואר ראשון",
+    "en": "First degree"
+  },
+  "grade1Description": {
+    "he": null,
+    "en": null
+  },
+  "writtenExamPercentage": null,
+  "oralExamPercentage": null,
+  "presentationPercentage": null,
+  "activeParticipationPercentage": null,
+  "midtermExamsPercentage": null,
+  "assignmentPercentage": null,
+  "grade7Percentage": null,
+  "grade8Percentage": null,
+  "grade9Percentage": null,
+  "grade10Percentage": null,
+  "grade11Percentage": null,
+  "otherGradeDescription": null,
+  "grades": [
+    {
+      "code": "10",
+      "name": {
+        "he": "מבחן בכתב",
+        "en": "Written Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 70,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "50",
+      "name": {
+        "he": "תרגילים",
+        "en": "Exercises"
+      },
+      "groupUniqueName": "routine_assignments",
+      "groupName": {
+        "he": "מטלות שוטפות",
+        "en": "Routine Assignments"
+      },
+      "weight": 15,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "89",
+      "name": {
+        "he": "בחני אמצע",
+        "en": "Quizzes"
+      },
+      "groupUniqueName": "mid_terms",
+      "groupName": {
+        "he": "מבחני/בחני אמצע",
+        "en": "Mid-Terms"
+      },
+      "weight": 15,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    }
+  ],
+  "gradesOther": [],
+  "syllabusApiVersion": "v2",
+  "updatedBy": null,
+  "levelUpdated": null,
+  "timesUpdated": null,
+  "updateDate": "2026-10-04T09:15:58",
+  "fetchedAt": "2026-11-06T13:15:31.669969"
+}

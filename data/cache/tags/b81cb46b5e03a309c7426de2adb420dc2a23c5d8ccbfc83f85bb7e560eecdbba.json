@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t11",
+    "t07"
+  ],
+  "summary": "String with mass density on elastic foundation (spring constant per length) in viscous fluid with damping: derive damped Klein-Gordon-type wave equation, dispersion relation and long-wavelength linear approximation, impedances and reflection/transmission coefficients at junction with free string, and qualitative behavior for imaginary wavenumber."
+}

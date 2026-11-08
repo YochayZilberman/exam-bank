@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t05"
+  ],
+  "summary": "Solve the inhomogeneous wave equation u_tt = u_xx + a x(L-x) on 0≤x≤L with zero initial displacement and velocity and homogeneous Dirichlet boundary conditions (vibrating string with source, separation of variables/eigenfunction expansion)."
+}

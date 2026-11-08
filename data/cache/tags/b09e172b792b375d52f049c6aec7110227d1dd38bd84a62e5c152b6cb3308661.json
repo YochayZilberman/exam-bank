@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t05",
+    "t19"
+  ],
+  "summary": "Ideal transformer circuit with source resistance 32Ω driving a speaker (series L and 8Ω R) through reactive Zx: find turns ratio and Zx for maximum average power transfer, then compute speaker power factor and the component needed for unity power factor."
+}

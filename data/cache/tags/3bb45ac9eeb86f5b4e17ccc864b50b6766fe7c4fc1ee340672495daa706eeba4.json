@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t12",
+    "t03"
+  ],
+  "summary": "Estimate the ground-state energy of a particle in a 1D box on [-a,a] using the Ritz variational method with trial function ψ(x)=a²−x² (no variational parameter)."
+}

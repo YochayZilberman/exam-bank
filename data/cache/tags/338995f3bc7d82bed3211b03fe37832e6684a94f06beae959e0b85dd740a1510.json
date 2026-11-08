@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06"
+  ],
+  "summary": "Car ignition RLC circuit: after switching at t=0, find initial conditions of capacitor voltage/current, derive and solve the second-order (underdamped LC with R) differential equation for Vc(t), find conditions for |Vc|≥3000V, sketch Vc(t) for R=1Ω, L=1H, C=16µF, time of first maximum, and energy-based condition for |Vc|≥300V."
+}

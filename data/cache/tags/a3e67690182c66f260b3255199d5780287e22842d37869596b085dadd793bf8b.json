@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t13"
+  ],
+  "summary": "Hypothesis testing for whether a flower is edible based on k independent expert identifications (prob 0.5 under H0, 0 under H1): describe Neyman-Pearson test family, compute significance level and power as functions of k, and use Bayes with prior p to find minimal k so posterior of inedible exceeds edible when no expert identifies it."
+}

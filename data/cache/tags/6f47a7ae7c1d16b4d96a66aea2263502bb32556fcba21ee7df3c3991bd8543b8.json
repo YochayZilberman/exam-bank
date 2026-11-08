@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Solve Laplace's equation inside a circular sector of angle 60° and radius R with Neumann condition on θ=0, Dirichlet zero on θ=60°, and u(R,θ)=θ on the arc, via separation of variables in polar coordinates."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Find the steady-state temperature T(r,φ) in an annular-sector rod cross-section a<r<b, 0<φ<α, with face r=b held at T0 and the other faces at zero (Laplace equation in polar coordinates, separation of variables)."
+}

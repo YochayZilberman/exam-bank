@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "Maxwell-Wien bridge (L1, R, W, variable Z parallel C): find balance expressions for inductance and its series resistance, then with detector removed compute circuit power factor and the component needed to correct PF to 1."
+}

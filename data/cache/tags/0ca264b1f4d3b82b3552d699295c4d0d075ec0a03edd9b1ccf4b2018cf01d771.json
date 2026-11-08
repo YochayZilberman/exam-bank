@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t12",
+    "t10"
+  ],
+  "summary": "Parallel RLC resonant circuit driven by a sinusoidal current source: find admittance, impedance, resonant frequency, quality factor Q and bandwidth, sketch |H(ω)| and explain bandwidth dependence on Q."
+}

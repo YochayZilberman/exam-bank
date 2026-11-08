@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03"
+  ],
+  "summary": "Find the Green's function of the Euler-type operator L y = -x^2 y'' - x y' + λ^2 y on 0<x<1 with boundary conditions |y(0)|<∞ and y(1)=0, λ≠0."
+}

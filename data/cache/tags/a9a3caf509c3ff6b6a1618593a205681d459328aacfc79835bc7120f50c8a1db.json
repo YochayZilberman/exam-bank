@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t06",
+    "t01"
+  ],
+  "summary": "RC circuit with R1 series and C1, R2, C2 in parallel: derive first-order ODE for Vo vs Vs, find step response, initial conditions giving constant output, response to exponential input e^{-t/4} (resonant-like case), and instantaneous power dissipated in resistors."
+}

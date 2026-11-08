@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t09",
+    "t03"
+  ],
+  "summary": "Solve the 1D diffusion equation with radioactive decay term n_t = D n_xx − βn on [0,L], with the end x=0 open (n=0) and the end x=L closed (zero flux), given initial concentration a·sin(πx/2L); find n(x,t) for t>0."
+}

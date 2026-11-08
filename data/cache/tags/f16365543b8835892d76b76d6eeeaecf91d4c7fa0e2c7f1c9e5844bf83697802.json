@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t04",
+    "t03"
+  ],
+  "summary": "(a) Find the general solution of 2u_xx+6u_xy+4u_yy=0 by reducing it to canonical form; (b) find the Green's function for y''-k^2y=f0 e^{2x} on [0,π] with y(0)=y(π)=0 and write the solution as an integral."
+}

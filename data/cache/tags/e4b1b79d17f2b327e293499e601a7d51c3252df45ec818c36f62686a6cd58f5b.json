@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t13"
+  ],
+  "summary": "Sinusoidal steady-state RLC circuit with a voltage-controlled voltage source (μVc): find phasor Vo in terms of Vs, input impedance, resonance frequency, instantaneous resistor power for Vs=5cos(3t), and average power on the resistor and inductor."
+}

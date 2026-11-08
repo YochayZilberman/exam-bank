@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11"
+  ],
+  "summary": "String of length l at rest for t<0, both ends moved by prescribed piecewise-linear (triangular pulse) f(t); find u(x,t) for t>0 by reducing to homogeneous boundary conditions and solving the inhomogeneous wave equation via separation of variables."
+}

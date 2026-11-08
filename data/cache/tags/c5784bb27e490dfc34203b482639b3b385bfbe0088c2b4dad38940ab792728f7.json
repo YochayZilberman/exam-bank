@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t06"
+  ],
+  "summary": "Batman fights Joker, Penguin, Bane tomorrow with probabilities 0.4, 0.3, 0.2: lower-bound probability of fighting none (union bound), construct sample space where it is strictly larger, compute expected number of enemies fought, and upper-bound the no-fight probability under independence."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t17"
+  ],
+  "summary": "Find temperature profile T(x,t) in a rod of length L with T=0 at x=0, constant heat flux q entering at x=L, zero initial temperature, conductivity K and heat capacity C (heat equation with inhomogeneous Neumann boundary condition)."
+}

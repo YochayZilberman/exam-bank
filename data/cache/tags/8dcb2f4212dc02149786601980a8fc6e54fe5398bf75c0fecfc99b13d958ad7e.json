@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t07"
+  ],
+  "summary": "Solve the 1D heat equation T_t = K T_xx + q with constant internal heat source in a slab -a≤x≤a, faces held at zero temperature and zero initial temperature; find T(x,t) (inhomogeneous problem via steady state plus separation of variables)."
+}

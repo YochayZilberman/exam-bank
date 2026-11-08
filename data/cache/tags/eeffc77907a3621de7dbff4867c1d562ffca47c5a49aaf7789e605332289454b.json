@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t17"
+  ],
+  "summary": "Find bounded harmonic function (Laplace equation) outside a sphere of radius R with Dirichlet boundary condition u(R,θ,φ)=a sin²θ, using Legendre polynomial expansion in spherical coordinates."
+}

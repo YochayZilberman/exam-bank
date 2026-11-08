@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t02",
+    "t17"
+  ],
+  "summary": "Solve the 1D free-particle Schrödinger equation on the whole line (parabolic, heat-like PDE) with initial wavefunction Ψ0, finding Ψ(x,t) for t>0 via Fourier transform / fundamental solution."
+}

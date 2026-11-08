@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t19",
+    "t18"
+  ],
+  "summary": "First-order RL circuit (R2 series, L parallel R1): derive inductor current ODE, solve full response with i(0-)=2A for sin(5t)u(t) and cos(5t)u(t) inputs, compare with phasor steady-state, find transfer function VL/Vs and identify filter type (high-pass) with magnitude sketch."
+}

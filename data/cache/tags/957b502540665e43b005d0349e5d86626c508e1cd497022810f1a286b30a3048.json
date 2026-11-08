@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t20",
+    "t14"
+  ],
+  "summary": "Parallel RLC circuit with two current sources (L1,C1 and L2,C2 joined via switches s1,s2 through R): derive the differential equation for the resistor voltage, find the ZSR to unit-step sources and its oscillation frequency, find resonance frequencies w1, w2, w0 for different switch states, and compare w0 with the natural oscillation frequency."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t14"
+  ],
+  "summary": "Pólya urn with b black and r red balls (draw, return with c more of same color), three draws: draw tree diagram, compute P(black,black,red), P(third red), Bayes P(first red | second red), and P(second black and third red)."
+}

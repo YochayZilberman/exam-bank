@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10"
+  ],
+  "summary": "(a) Find the optimal (Neyman-Pearson) test with type I error ≤ 1/128 for one observation X on {0,1,2,3}, H0: Bin(3,1/8) vs H1: Uniform{0,1,2,3}; (b) determine whether T = X(1−X/n) is an unbiased estimator of Var(X) for X~Bin(n,p)."
+}

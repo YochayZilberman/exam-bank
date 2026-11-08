@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t13",
+    "t14"
+  ],
+  "summary": "Neyman-Pearson optimal test for exponential decay time X~Exp(1) vs Exp(0.01) of radioactive stone, find test at significance e^-1 and its power, then Bayes posterior probability of type A given no decay in first 50 minutes with prior 1%."
+}

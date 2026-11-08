@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t07"
+  ],
+  "summary": "Solve Laplace's equation on the semi-infinite strip 0<x<1, y>0 with u=0 on x=0, x=1 and as y→∞, and u=1 on y=0, using separation of variables (Fourier sine series)."
+}

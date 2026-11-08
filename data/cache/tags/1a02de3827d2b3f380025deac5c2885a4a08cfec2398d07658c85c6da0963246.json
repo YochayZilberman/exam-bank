@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the inhomogeneous heat equation u_t = a^2 u_xx + q on [0,l] with Dirichlet u(0,t)=u0, Neumann u_x(l,t)=b, and initial condition u(x,0)=u0 - q x^2/(2a^2), via steady-state plus separation of variables."
+}

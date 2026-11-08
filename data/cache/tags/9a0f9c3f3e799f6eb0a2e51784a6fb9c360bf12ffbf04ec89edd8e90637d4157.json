@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t03",
+    "t04"
+  ],
+  "summary": "Carnot refrigerator with ideal gas (f degrees of freedom): find heat absorbed Qc in isothermal expansion and rejected Qh in isothermal compression from P,V of points, work per cycle, COP in terms of Tc,Th, heat extracted per second for 300 W at Tc=300K, Th=600K, and total entropy change of universe per cycle."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t06"
+  ],
+  "summary": "State and prove the weak law of large numbers, explicitly noting any difference between the theorem's hypotheses and those used in the proof (e.g., finite variance via Chebyshev)."
+}

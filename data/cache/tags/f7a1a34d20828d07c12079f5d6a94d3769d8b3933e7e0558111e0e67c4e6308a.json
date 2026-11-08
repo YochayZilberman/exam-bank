@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t07"
+  ],
+  "summary": "Prove Chebyshev's inequality P(|X-E[X]|>=a) <= Var X/a^2 and the Chernoff bound P(X>=a) <= M_X(t)e^{-at} for a discrete random variable with moment generating function, using Markov's inequality."
+}

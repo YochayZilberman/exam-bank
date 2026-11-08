@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t03"
+  ],
+  "summary": "Fair coin tossed infinitely; X_n = toss index of the n-th heads (negative binomial): compute P(X_10=30), find E[X_n], and determine whether X_n/n converges in probability (weak law of large numbers)."
+}

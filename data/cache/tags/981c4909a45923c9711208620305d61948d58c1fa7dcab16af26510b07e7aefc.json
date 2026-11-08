@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10",
+    "t12"
+  ],
+  "summary": "Two players alternately shoot baskets until scoring (geometric with p, q): find probability of 8 consecutive shots, find p,q from mean 7 and variance 18 of shots until second turn, and determine whether the average of ratios Z_n converges in distribution to a constant."
+}

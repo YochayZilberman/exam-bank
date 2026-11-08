@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t14",
+    "t10"
+  ],
+  "summary": "Ideal transformer coupling a 32Ω-source to a speaker (series L and 8Ω R) through reactive Zx: find turns ratio and Zx for maximum average power transfer, then compute speaker power factor and the component needed for power factor correction."
+}

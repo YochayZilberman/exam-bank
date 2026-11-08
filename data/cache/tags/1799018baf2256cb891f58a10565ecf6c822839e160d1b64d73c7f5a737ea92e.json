@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t10"
+  ],
+  "summary": "Coin with p in {1/3,2/3}, estimator T_n = sample proportion of heads: check unbiasedness and consistency, and find n so a threshold test at 1/2 has type I and II error ≤ 0.001 (via Chebyshev bound)."
+}

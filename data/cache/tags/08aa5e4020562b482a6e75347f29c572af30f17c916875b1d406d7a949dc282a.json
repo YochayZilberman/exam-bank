@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t01"
+  ],
+  "summary": "Compute the multivalued complex logarithm Ln of given complex numbers: Ln(-2+3i), Ln(2-3i), Ln((1±i)/√2), Ln i, Ln 4 (at least three)."
+}

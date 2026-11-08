@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "X,Y independent Uniform[0,1], Z=XY: find the density of Z, E[Z], and E[Z | X<Y<1/2]."
+}

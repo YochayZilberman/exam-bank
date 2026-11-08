@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t15",
+    "t06"
+  ],
+  "summary": "State and prove a necessary and sufficient condition for recurrence of a state in a discrete-time Markov chain (e.g., sum of return probabilities diverges)."
+}

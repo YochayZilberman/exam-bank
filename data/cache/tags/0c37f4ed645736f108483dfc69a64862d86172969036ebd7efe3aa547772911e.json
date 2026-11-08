@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t13"
+  ],
+  "summary": "Find eigenvalues and eigenfunctions of a 3D Fredholm integral equation with separable kernel (1+|x'|)/(1+|x|) over the unit ball |x'|<1."
+}

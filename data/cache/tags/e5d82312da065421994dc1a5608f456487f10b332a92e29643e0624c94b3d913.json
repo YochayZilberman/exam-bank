@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t01"
+  ],
+  "summary": "Double pendulum: mass m on 2 m string with second mass m on 4 m string below; write equations of motion and find normal mode frequencies and mode shapes for small oscillations along x."
+}

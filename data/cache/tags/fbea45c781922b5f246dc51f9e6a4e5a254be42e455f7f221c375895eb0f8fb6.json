@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t06"
+  ],
+  "summary": "Urn with 4 balls each independently black/white w.p. 1/2, drawn with replacement: find distribution of first black draw time given 3 black balls, posterior probability of 3 black given X1=0,X2=1 (Bayes), and show limiting probability that sample mean S_n is near k/4 equals binomial P(Y=k) via weak law of large numbers."
+}

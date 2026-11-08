@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "For independent discrete random variables X,Y, prove inequalities on conditional expectation: a ≤ E(X|X>a), E(X|X≤a) ≤ E(X) ≤ E(X|X>a), E(X) ≤ E(X|X>Y), and for identically distributed X,Y, E(Y|X>Y) ≤ E(X) ≤ E(X|X>Y)."
+}

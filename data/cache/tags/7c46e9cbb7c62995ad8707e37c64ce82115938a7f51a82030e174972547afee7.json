@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t09",
+    "t10"
+  ],
+  "summary": "Fair coin chooses which of two dice (blue/red) is rolled; X indicator of blue, Z die result: define independence/uncorrelatedness of discrete RVs, prove independence implies uncorrelated, show X,Z independent iff dice have same distribution and uncorrelated iff same expectation."
+}

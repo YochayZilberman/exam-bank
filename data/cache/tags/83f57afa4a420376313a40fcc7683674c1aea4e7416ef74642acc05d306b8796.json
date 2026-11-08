@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t17",
+    "t19"
+  ],
+  "summary": "Series RLC circuit (R=3Ω, C=1/2F, two parallel inductors 2H) with a 3-position switch: find the impulse response (resistor voltage), the resistor voltage after switching to a 2V DC source, the response to cos(t)u(t) via convolution, how to change C for maximum power in R, and the effect of a different initial switch position."
+}

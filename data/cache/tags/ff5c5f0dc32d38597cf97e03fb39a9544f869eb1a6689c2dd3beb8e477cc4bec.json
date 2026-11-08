@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09",
+    "t20"
+  ],
+  "summary": "AC phasor circuit with current sources, R, L=j, C=-j: find current in R1 via mesh analysis, Thevenin/Norton equivalent, load for maximum power transfer and its power, and component needed for resonance at ω=500 rad/s with L=20mH."
+}

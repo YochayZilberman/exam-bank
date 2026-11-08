@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t07",
+    "t03"
+  ],
+  "summary": "Solve reaction-diffusion equation u_t = u_xx + u on [-L,L] with Neumann boundary conditions and step-function initial condition via separation of variables; find long-time behavior for L < π/2."
+}

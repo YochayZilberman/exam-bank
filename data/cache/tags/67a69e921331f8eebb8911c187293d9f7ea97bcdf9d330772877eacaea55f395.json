@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t08",
+    "t11"
+  ],
+  "summary": "Joint density f(x,y)=8xy on 0<y<x<1: check independence of X and Y, find the density of Y/X and identify it, and find a<1 with P(sum of n iid copies of X ≤ n/2) ≤ a^n (exponential Chernoff-type bound)."
+}

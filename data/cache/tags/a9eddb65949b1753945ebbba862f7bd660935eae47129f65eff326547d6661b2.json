@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t06"
+  ],
+  "summary": "For i.i.d. Poisson(λ) variables with Y_i = X_i+X_{i+1}+X_{i+2}, find the constant c such that S_n/n converges in probability to c and prove it; give an exponential (Chernoff-type) bound for P(R_n ≥ 100λn); and find the CLT normalization for R_n."
+}

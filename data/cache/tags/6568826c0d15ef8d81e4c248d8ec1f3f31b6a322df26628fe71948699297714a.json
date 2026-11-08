@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t12"
+  ],
+  "summary": "Find the extremal y(x) minimizing the functional I[y]=∫_0^1 (-y'^2/4 + x y y'/2) dx with boundary conditions y(0)=0, y(1)=2 via the Euler–Lagrange equation."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09",
+    "t18"
+  ],
+  "summary": "Sinusoidal steady-state circuit with current source, capacitors, resistors, unknown impedance Zx and DC source: find C1, C2 values, Thevenin voltage at a-b as function of Zx, reactive Zx for zero phase difference with a load, and instantaneous power in 1/3 ohm load."
+}

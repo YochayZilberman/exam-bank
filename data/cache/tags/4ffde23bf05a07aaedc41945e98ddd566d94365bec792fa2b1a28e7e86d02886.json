@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t05"
+  ],
+  "summary": "Exponential waiting time for proton emission from rock type A (Exp(1)) vs B (Exp(0.01)): formulate Neyman-Pearson optimal tests, find test with alpha=e^{-1} and its power, then with prior 1% type A compute posterior probability of type A given no emission in first 50 minutes via Bayes."
+}

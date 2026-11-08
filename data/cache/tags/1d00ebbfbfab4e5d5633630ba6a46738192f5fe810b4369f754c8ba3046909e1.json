@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t08"
+  ],
+  "summary": "RC circuit with R1, parallel C1, R2, C2: derive first-order ODE for Vo vs Vs, find step response, initial capacitor voltage making Vo constant for u(t), response to e^{-t/4} input (resonant-like case) and instantaneous power in resistors."
+}

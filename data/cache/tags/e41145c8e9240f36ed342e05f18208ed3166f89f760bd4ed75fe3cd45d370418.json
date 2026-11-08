@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t14",
+    "t13"
+  ],
+  "summary": "Resistive circuit with voltage source vs and current sources I, is: write KCL at nodes A-D, find power of source I via superposition for given values, then replace sources and a 2R resistor with capacitor to find capacitor voltage ZSR impulse response of first-order RC circuit."
+}

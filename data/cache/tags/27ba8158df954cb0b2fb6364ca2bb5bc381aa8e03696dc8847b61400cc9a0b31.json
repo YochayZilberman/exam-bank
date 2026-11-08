@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t10"
+  ],
+  "summary": "Parallel RLC circuit (current source step, L, series C1-C2, R1||R2): find ODE for output voltage, R2 for critical damping, step response for R2=3Ω, power ratio at two times in underdamped response, and steady-state power as t→∞."
+}

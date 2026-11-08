@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Hedgehog and frog each roll a fair die repeatedly; with X, Y, Z the waiting times until the hedgehog rolls a 1, the frog rolls a 1, and the frog rolls a 2, find the distributions of min(Y,Z) and min(X,Z) (geometric) and compute E(Z|Y=1)."
+}

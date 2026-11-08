@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t03",
+    "t02"
+  ],
+  "summary": "Diesel engine cycle (adiabatic compression, isobaric combustion, adiabatic expansion, isochoric exhaust) for ideal gas with f degrees of freedom: find heat absorbed Qh, heat rejected Qc, net work, efficiency in terms of compression ratios and gamma, numerical estimate for air, and show efficiency is below Carnot."
+}

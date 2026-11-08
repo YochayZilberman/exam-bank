@@ -1,0 +1,145 @@
+{
+  "courseCode": "83911",
+  "year": 2027,
+  "courseName": {
+    "he": "פיסיקה תרמית וסטטיסטית",
+    "en": "Thermal and statistical physics"
+  },
+  "periodName": {
+    "he": "סמסטר א",
+    "en": "Semester A"
+  },
+  "ectsCredits": null,
+  "degreeLevel": null,
+  "creditPoints": "4",
+  "academicYear": null,
+  "semester": "1",
+  "department": {
+    "he": "פיסיקה יישומית",
+    "en": "Applied Physics"
+  },
+  "facultyCode": null,
+  "campusName": {
+    "he": "אדמונד י' ספרא",
+    "en": "Edmond J. Safra"
+  },
+  "building": null,
+  "room": null,
+  "courseCoordinator": {
+    "he": null,
+    "en": null
+  },
+  "coordinatorEmail": null,
+  "teachers": {
+    "he": "ד\"ר לירון שטרן\nמר קונסטנטין חריזמן",
+    "en": "Dr. Liron Stern\nMr. Konstantin Khrizman"
+  },
+  "officeHours": {
+    "he": null,
+    "en": null
+  },
+  "contactHours": null,
+  "teachingLanguage": {
+    "he": "עברית",
+    "en": "Hebrew"
+  },
+  "courseDescription": {
+    "he": "מושגי יסוד בפיזיקה סטטיסטית של מערכות בשיווי משקל תרמי",
+    "en": "Basic concepts in statistical physics of systems in thermodynamical equilibrium"
+  },
+  "courseAims": {
+    "he": "חשיפה לרעיונות המרכזיים בפיזיקה תרמית וסטטיסטית.",
+    "en": "Exposure to the fundamental ideas of thermal and statistical physics."
+  },
+  "learningOutcomes": {
+    "he": "לחשב גדלים תרמודינמיים והתפלגויות סטטיסטיות של מערכות בשיווי משקל.",
+    "en": "Calculate thermodynamical quantities and statistical distributions for systems in thermodynamical equilibrium."
+  },
+  "courseContent": {
+    "he": "1.מבוא –מהי טמפרטורה ?\r\n2. חוק הגז האידאלי\r\n3. חום ועבודה: תהליכים קווזי סטטיים. \r\n4. אנטרופיה והחוק השני של התרמודינמיקה.\r\n5. מנועים ומקררים.\r\n6. פוטנציאלים תרמודינמיים (אנטלפיה, אנרגיה חופשית של המהולץ ושל גיבס)\r\n7. סטטיסטיקת בולצמן\r\n8. אנסמבלים סטטיסטים – התפלגויות מיקרו, מאקרו וגראנד קנוני.\r\n9. גז אידאלי של פרמיונים וישום במתכות.\r\n10. גז אידאלי של בוזונים וישום עבור קרינת גוף שחור, והתעבות בוזה-איינשטיין.",
+    "en": "1. Introduction – what is temperature ?\r\n2. Law of ideal gas.\r\n3. Heat and work: quasi-static processes. \r\n4. Entropy and the second law of thermodynamics. \r\n5. Engines and refrigerators. \r\n6. Thermodynamic potentials (Enthalpy,\r\nHelmholtz Free Energy,\r\nGibbs Free Energy)\r\n7. Boltzmann Statistics. \r\n8.  Statistical ensembles: micro canonical, canonical and grand-canonical distributions.\r\n9. Ideal gas of fermions. Application to metals.  \r\n10. Ideal gas of bosons.  Application to black body radiation and Bose-Einstein condensation."
+  },
+  "attendanceRequirements": {
+    "he": "100",
+    "en": "100"
+  },
+  "teachingMethod": {
+    "he": "",
+    "en": ""
+  },
+  "requiredReading": {
+    "he": "על פי השיעור והתרגיל.",
+    "en": "According to class and lecture."
+  },
+  "additionalReading": {
+    "he": "",
+    "en": ""
+  },
+  "evaluation": {
+    "he": null,
+    "en": null
+  },
+  "additionalInfo": {
+    "he": "",
+    "en": ""
+  },
+  "degreeName": {
+    "he": "תואר ראשון",
+    "en": "First degree"
+  },
+  "grade1Description": {
+    "he": null,
+    "en": null
+  },
+  "writtenExamPercentage": null,
+  "oralExamPercentage": null,
+  "presentationPercentage": null,
+  "activeParticipationPercentage": null,
+  "midtermExamsPercentage": null,
+  "assignmentPercentage": null,
+  "grade7Percentage": null,
+  "grade8Percentage": null,
+  "grade9Percentage": null,
+  "grade10Percentage": null,
+  "grade11Percentage": null,
+  "otherGradeDescription": null,
+  "grades": [
+    {
+      "code": "10",
+      "name": {
+        "he": "מבחן בכתב",
+        "en": "Written Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 90,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "88",
+      "name": {
+        "he": "מבחני אמצע",
+        "en": "Mid-term Exams"
+      },
+      "groupUniqueName": "mid_terms",
+      "groupName": {
+        "he": "מבחני/בחני אמצע",
+        "en": "Mid-Terms"
+      },
+      "weight": 10,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    }
+  ],
+  "gradesOther": [],
+  "syllabusApiVersion": "v2",
+  "updatedBy": null,
+  "levelUpdated": null,
+  "timesUpdated": null,
+  "updateDate": "2026-10-13T23:16:11",
+  "fetchedAt": "2026-11-06T12:59:39.9083228"
+}

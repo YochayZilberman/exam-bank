@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t21",
+    "t19"
+  ],
+  "summary": "Sinusoidal steady-state circuit with mutually coupled inductors and a VCCS: find Thevenin equivalent at a,b, load for maximum average power transfer, power dissipated, realize load with R/L/C, and transfer function Vab/Vin."
+}

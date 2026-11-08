@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14"
+  ],
+  "summary": "State and prove Poisson's limit theorem: binomial distribution Bin(n,p_n) with np_n→λ converges to the Poisson(λ) distribution."
+}

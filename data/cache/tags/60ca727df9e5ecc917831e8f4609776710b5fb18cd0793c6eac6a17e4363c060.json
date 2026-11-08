@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t02"
+  ],
+  "summary": "Solve the inhomogeneous heat equation u_t - u_xx = δ'(x) on -π<x<π with zero Dirichlet boundary conditions and zero initial condition (eigenfunction expansion with derivative of delta source)."
+}

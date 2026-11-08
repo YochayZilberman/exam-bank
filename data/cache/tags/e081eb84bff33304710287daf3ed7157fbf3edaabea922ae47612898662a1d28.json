@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t21",
+    "t09"
+  ],
+  "summary": "First-order RL circuit with a switched 100 mA current source and a voltage-controlled voltage source (0.8Vo): find the inductor initial condition, the differential equation and step response for Vo(t), whether the dependent source supplies or absorbs power and how much, and the time-varying Thevenin/Norton equivalent seen by a parallel load."
+}

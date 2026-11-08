@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve inhomogeneous diffusion equation u_t = a^2 u_xx + q sin(pi x/2L) on [0,L] with u(0,t)=u0, u_x(L,t)=0 and initial condition u(x,0)=u0+2sin(3pi x/2L), via steady state plus eigenfunction expansion."
+}

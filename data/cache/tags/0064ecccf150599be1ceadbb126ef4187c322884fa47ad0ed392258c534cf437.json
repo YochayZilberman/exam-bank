@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t08"
+  ],
+  "summary": "Parallel current source, series LC branch and resistor R: derive second-order ODE for inductor current vs source current, find initial derivative from I_L(0), V_C(0), compute ZSR step response and ZSR to Is=e^{-2t}u(t)."
+}

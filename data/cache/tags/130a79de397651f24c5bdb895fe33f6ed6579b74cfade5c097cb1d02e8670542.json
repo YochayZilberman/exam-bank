@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "Complex impedance Z=R+jX under sinusoidal steady state: find R, X, theta from oscilloscope voltage/current waveforms (amplitude and phase shift), then express |Z|, |X|, R from RMS voltage, RMS current and average power and discuss whether sign of X/theta can be determined."
+}

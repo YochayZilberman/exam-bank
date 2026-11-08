@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t09"
+  ],
+  "summary": "X uniform on {1,2,3}, Y|X=m ~ Geometric(m/4): find the PMF of Y, the conditional distribution of X given Y=2 (Bayes), and the probability that Y is even."
+}

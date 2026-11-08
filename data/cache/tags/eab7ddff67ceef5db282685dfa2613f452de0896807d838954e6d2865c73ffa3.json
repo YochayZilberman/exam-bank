@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11"
+  ],
+  "summary": "Solve the forced wave equation u_tt - u_xx = 2 for a string on [0,π] with mixed boundary conditions u_x(0,t)=0, u(π,t)=1 and initial data u(x,0)=1, u_t(x,0)=cos(7x/2), via separation of variables."
+}

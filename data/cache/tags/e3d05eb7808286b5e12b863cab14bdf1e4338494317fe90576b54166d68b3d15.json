@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t08",
+    "t17"
+  ],
+  "summary": "Second-order RLC circuit with voltage source Vs, R1, inductor L, series R2-C branch and current source is: derive ODE for capacitor voltage Vc, find initial condition Vc'(0+), compute step response for given ODE Vc''+10Vc'+16Vc=Vs-2Is', and find inductor current as t→∞ for DC sources."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t19",
+    "t18"
+  ],
+  "summary": "Sinusoidal steady-state circuit with two mutually coupled inductors (M) and a switch: find equivalent inductance, transfer function H(ω)=Vout/Vin and its magnitude sketch, input impedance; then with switch open find H(ω) and its limit as L→∞, M→L (ideal transformer)."
+}

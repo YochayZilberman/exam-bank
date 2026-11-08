@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t15",
+    "t10"
+  ],
+  "summary": "Series circuit with 3V DC source plus small AC source 0.1cos(10πt), 2Ω resistor, 1H inductor and Schottky diode I=e^V−1: find DC operating diode voltage, then small-signal diode voltage VD(t) in sinusoidal steady state and sketch it."
+}

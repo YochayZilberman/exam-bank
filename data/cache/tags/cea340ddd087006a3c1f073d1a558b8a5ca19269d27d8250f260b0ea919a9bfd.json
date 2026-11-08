@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t13",
+    "t12"
+  ],
+  "summary": "Series RLC circuit with parallel capacitors C1,C2 and switch: find V_R(t) step response from DC source V0 (second-order transient, time constants, settling time, R change), impulse response, transfer function H(jω)=V_R/V_s, plot |H| with resonance, bandwidth, filter type, relation of bandwidth to settling time."
+}

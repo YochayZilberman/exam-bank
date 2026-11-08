@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t07",
+    "t04"
+  ],
+  "summary": "Urn with black, white, gray balls; draw until black, white returned, gray removed: find probability gray remains at end, distribution of number of draws k, and conditional probability of k draws given gray remains."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t17"
+  ],
+  "summary": "Solve the Poisson equation ∇²u = sinθ/R² inside a half-disk sector (180°, radius R) with boundary conditions u(r,0)=0, u(r,π)=u0, u(R,θ)=θu0/π, using a particular solution f(r)sinθ+g(θ) plus separation of variables in polar coordinates."
+}

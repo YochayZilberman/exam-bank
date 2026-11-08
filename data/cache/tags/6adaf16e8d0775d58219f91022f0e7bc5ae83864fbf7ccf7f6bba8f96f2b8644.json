@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t01"
+  ],
+  "summary": "Linear CO2 molecule modeled as three masses (O-C-O, masses m, M, m) connected by springs k: write equations of motion and find the normal mode frequencies and how many there are, given zero angular momentum."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t19",
+    "t05"
+  ],
+  "summary": "AC circuit with two voltage sources and a current source feeding load Z_L=2R through RLC branches: find Thevenin/Norton equivalent, frequency for max power, average load power, stored average energy in L and C, and power with superposition of different-frequency sources."
+}

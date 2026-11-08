@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t14",
+    "t09"
+  ],
+  "summary": "Find Thevenin equivalent at terminals a,b of a resistor bridge circuit with current and voltage sources; then analyze switched circuit with mutually coupled inductors (M) and RL branches to find initial condition, differential equation, and full ZIR+ZSR solution for current through Rth, impulse response Vab(t), and sinusoidal steady-state via phasors."
+}

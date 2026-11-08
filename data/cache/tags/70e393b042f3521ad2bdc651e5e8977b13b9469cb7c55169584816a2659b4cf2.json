@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t12"
+  ],
+  "summary": "X uniform on (0,1), then n Bernoulli(X) trials: find distribution of number of successes S_n, conditional density of X given S_n=k (Bayes, Beta posterior), and probability the (n+1)-th trial succeeds given k successes (Laplace rule of succession)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t06",
+    "t10"
+  ],
+  "summary": "Batman fights Joker/Penguin/Bane with probabilities 0.4, 0.3, 0.2: lower bound on probability he fights none (union bound), construct a sample space where it is strictly larger, expected number of enemies fought (indicator linearity), and exact probability of fighting none under independence."
+}

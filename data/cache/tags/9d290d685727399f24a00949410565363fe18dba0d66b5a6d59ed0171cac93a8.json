@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t02",
+    "t06"
+  ],
+  "summary": "Two identical masses on a taut string (tension T), one end fixed and the other driven by an oscillator h(t)=h0 cos(wt); find transverse displacements y1(t), y2(t) for small oscillations starting from rest at y=0 (normal modes, forced coupled oscillators)."
+}

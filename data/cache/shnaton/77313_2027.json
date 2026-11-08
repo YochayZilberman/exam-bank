@@ -1,0 +1,166 @@
+{
+  "courseCode": "77313",
+  "year": 2027,
+  "courseName": {
+    "he": "משוואות של פיסיקה מתמטית",
+    "en": "Equations of Mathematical Physics"
+  },
+  "periodName": {
+    "he": "סמסטר א",
+    "en": "Semester A"
+  },
+  "ectsCredits": null,
+  "degreeLevel": null,
+  "creditPoints": "6",
+  "academicYear": null,
+  "semester": "1",
+  "department": {
+    "he": "פיסיקה",
+    "en": "Physics"
+  },
+  "facultyCode": null,
+  "campusName": {
+    "he": "אדמונד י' ספרא",
+    "en": "Edmond J. Safra"
+  },
+  "building": null,
+  "room": null,
+  "courseCoordinator": {
+    "he": null,
+    "en": null
+  },
+  "coordinatorEmail": null,
+  "teachers": {
+    "he": "פרופ מיכאל אסף\nמר בנימין וילק\nמר רביד אחיטוב",
+    "en": "Prof. Michael Assaf\nMr. Binyamin Vilk\nMr. Ravid Achituv"
+  },
+  "officeHours": {
+    "he": null,
+    "en": null
+  },
+  "contactHours": null,
+  "teachingLanguage": {
+    "he": "עברית",
+    "en": "Hebrew"
+  },
+  "courseDescription": {
+    "he": "שיטות של פיסיקה מתמטית",
+    "en": "Methods of Mathematical Physics"
+  },
+  "courseAims": {
+    "he": "ללמד את הסטודנטים שיטות מתמטיות מתקדמות שהן חיוניות לפיסיקה ולמדעים מדוייקים אחרים",
+    "en": "To teach the students advanced mathematical methods which are extensively used in physics and other sciences"
+  },
+  "learningOutcomes": {
+    "he": "להתמחות בשיטות מתמטיות\r\n מתקדמות שיעזרו להם בקורסי פיסיקה",
+    "en": "master advanced mathematical methods which will help them in physics courses"
+  },
+  "courseContent": {
+    "he": "אנליזה וקטורית וקואורדינטות עקומות.\r\n מבוא לפונקציות מוכללות. משוואות דיפרנציאליות בנגזרות רגילות: \r\nבעיית Sturm-Liouville. משוואות דיפרנציאליות בנגזרות חלקיות מסדר ראשון, \r\nשיטת הקרקטריסטיקות. משוואות דיפרנציאליות בנגזרות חלקיות מסדר שני: \r\nמיון וצורותיהן הקנוניות. משוואות היפרבוליות: גלים. \r\nשיטת\r\n .D'Alembert בעיות שפה. מיתר, ממברנה, הפרדת משתנים. \r\nמשוואות פרבוליות: משוואת החום, משוואת הדיפוזיה ושיטות לפתרונן. \r\nבעיות שפה. בעיות לא אחידות. משוואות אליפטיות: משוואות Laplace \r\n ו-Poisson, יחידות הפתרון, שיטות לפתרונן. \r\nחשבון ווריאציות: פונקציונל, בעיית קיצון, משוואת Euler-Lagrange. \r\nמבוא למשוואות אינטגרליות.",
+    "en": "Vector analysis in curvilinear coordinates. An introduction to generalized functions. The boundary value\r\nproblem and the Sturm-Liouville theory. The Green function. Partial differential equations\r\n(PDEs) of first order: the method of characteristics. PDEs of the second order: classification and\r\ncanonical forms. Cauchy, Dirichlet and Neumann problems. The wave equation: the d’Alembert’s\r\nformula, vibrating string, vibrating membrane. The heat equation. The Laplace equation. Inhomogeneous\r\nproblems. An intro to variational calculus. An intro to integral\r\nequations."
+  },
+  "attendanceRequirements": {
+    "he": "0",
+    "en": "0"
+  },
+  "teachingMethod": {
+    "he": "",
+    "en": ""
+  },
+  "requiredReading": {
+    "he": "אין",
+    "en": "None"
+  },
+  "additionalReading": {
+    "he": "",
+    "en": ""
+  },
+  "evaluation": {
+    "he": null,
+    "en": null
+  },
+  "additionalInfo": {
+    "he": "",
+    "en": ""
+  },
+  "degreeName": {
+    "he": "תואר ראשון",
+    "en": "First degree"
+  },
+  "grade1Description": {
+    "he": null,
+    "en": null
+  },
+  "writtenExamPercentage": null,
+  "oralExamPercentage": null,
+  "presentationPercentage": null,
+  "activeParticipationPercentage": null,
+  "midtermExamsPercentage": null,
+  "assignmentPercentage": null,
+  "grade7Percentage": null,
+  "grade8Percentage": null,
+  "grade9Percentage": null,
+  "grade10Percentage": null,
+  "grade11Percentage": null,
+  "otherGradeDescription": null,
+  "grades": [
+    {
+      "code": "10",
+      "name": {
+        "he": "מבחן בכתב",
+        "en": "Written Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 85,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "50",
+      "name": {
+        "he": "תרגילים",
+        "en": "Exercises"
+      },
+      "groupUniqueName": "routine_assignments",
+      "groupName": {
+        "he": "מטלות שוטפות",
+        "en": "Routine Assignments"
+      },
+      "weight": 5,
+      "assWithFeedback": 13,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "89",
+      "name": {
+        "he": "בחני אמצע",
+        "en": "Quizzes"
+      },
+      "groupUniqueName": "mid_terms",
+      "groupName": {
+        "he": "מבחני/בחני אמצע",
+        "en": "Mid-Terms"
+      },
+      "weight": 10,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    }
+  ],
+  "gradesOther": [
+    {
+      "type": "בחינה בעל פה",
+      "weight": 0,
+      "description": "חלק מהתלמידים יידרשו להציג את פתרון הבחינה בעל פה מיד לאחר הבחינה או מספר ימים לאחר מכן, על מנת לוודא שהבחינה נעשתה ללא עזרים חיצוניים.  הציון במקרה הזה ייקבע על פי שקלול בין הבחינה בכתב לבחינה בעל פה."
+    }
+  ],
+  "syllabusApiVersion": "v2",
+  "updatedBy": null,
+  "levelUpdated": null,
+  "timesUpdated": null,
+  "updateDate": "2026-10-07T12:00:52",
+  "fetchedAt": "2026-11-06T13:15:31.6736257"
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t14",
+    "t03"
+  ],
+  "summary": "Defibrillator series RLC discharge circuit (charged capacitor 6000V, R=50Ω heart): identify damping type from voltage graph, write differential equation for current, initial conditions, find damped frequency ωd from graph, compute L and C, and full current expression."
+}

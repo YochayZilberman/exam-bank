@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t06"
+  ],
+  "summary": "Series RLC-type circuit (L1, R1 source branch, R2 parallel C1): write differential equation for capacitor voltage, find impulse response (zero initial conditions, aδ(t) source), and use convolution to find response to pulse u(t)-u(t-3)."
+}

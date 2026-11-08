@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t11",
+    "t12"
+  ],
+  "summary": "Solve y''+ω²y=f0 sin t cos t on [0,π] with y(0)=y(π)=0 via Green's function; find extremal of functional ∫(x²y'²+3/4 y²)dx with y(1)=1,y(2)=0; solve integral equation f(x)=x+λ∫xy²f(y)dy by Neumann series to second order and exactly, comparing results."
+}

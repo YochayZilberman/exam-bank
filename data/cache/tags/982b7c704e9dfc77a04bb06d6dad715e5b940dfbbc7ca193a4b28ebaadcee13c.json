@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "For i.i.d. Bernoulli(1/2) variables, Y_i = max(X_i, X_{i+1}) and Z_n = sum of Y_i: compute E and Var of Z_n (with dependent terms), show P(Z_n = n/2) tends to 0, and prove Z_n/n converges in probability to 3/4 via Chebyshev."
+}

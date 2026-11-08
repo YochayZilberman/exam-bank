@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t06"
+  ],
+  "summary": "Series RL source driving parallel R2–C1 (second-order RLC circuit): write the differential equation for the capacitor voltage, find the impulse response Vs=aδ(t) for the underdamped case with zero initial conditions, and use convolution to find the response to the pulse u(t)−u(t−3)."
+}

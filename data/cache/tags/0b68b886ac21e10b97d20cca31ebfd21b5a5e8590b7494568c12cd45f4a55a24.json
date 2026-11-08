@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t21"
+  ],
+  "summary": "Find steady-state mesh current i1(t) in an AC circuit with source 15cos(50t+30°), 5Ω resistor, 5mF capacitor, 50mH inductor and a current-controlled voltage source 10i1, using phasor mesh analysis."
+}

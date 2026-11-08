@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t14"
+  ],
+  "summary": "Given n i.i.d. uniform variables on [m], Y_n counts pairs that are cyclically consecutive (|a-b|=1 or {1,m}); compute E[Y_n] and Var(Y_n) via indicators and covariances, and show Y_n/n^2 converges in distribution to a constant c, finding c."
+}

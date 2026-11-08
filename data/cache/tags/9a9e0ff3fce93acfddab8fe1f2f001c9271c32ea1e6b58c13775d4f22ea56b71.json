@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t18",
+    "t07"
+  ],
+  "summary": "Derive the Euler-Lagrange equation for the functional ∬_D (z_x^2 - z_y^2) dx dy (yielding the wave equation z_xx - z_yy = 0) and find its general solution z(x,y) via d'Alembert form f(x+y)+g(x-y)."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Find harmonic function u(r,θ) solving Laplace's equation in an annular sector R1≤r≤R2, 0≤θ≤α with u=0 on three sides and u(r,α)=3sin(2π ln(r/R1)/ln(R2/R1)), via separation of variables in polar coordinates."
+}

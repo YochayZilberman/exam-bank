@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t11"
+  ],
+  "summary": "n people in a queue each hold small/large/no umbrella (prob 1/3 each); large umbrella covers holder and next person; find expectation and variance of number of unprotected people X_n and show (X_n-E X_n)/n concentrates (Chebyshev/WLLN)."
+}

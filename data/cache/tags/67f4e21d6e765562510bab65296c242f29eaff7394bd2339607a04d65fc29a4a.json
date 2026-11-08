@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t02",
+    "t08"
+  ],
+  "summary": "Find the entropy change ΔS of an ideal gas of N molecules expanding from volume V_i to a larger volume V_f (free expansion)."
+}

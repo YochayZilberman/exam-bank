@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t10"
+  ],
+  "summary": "For independent X,Y ~ Uniform[0,1] and Z=XY, find the density of Z, E[Z], and E[Z | X<Y<1/2]."
+}

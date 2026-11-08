@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t02"
+  ],
+  "summary": "Compute real and imaginary parts of at least 5 complex expressions: Arctg(3-2i), Arccos(3/(3-i)), Arcsin 2i, ctg(pi/4 - i ln2), sin(2i), tg(2-i), cos(2+i)."
+}

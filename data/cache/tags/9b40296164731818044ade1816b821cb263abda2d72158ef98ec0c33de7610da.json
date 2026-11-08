@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t19"
+  ],
+  "summary": "Thin plano-convex hemispherical lens (radius R, index n1) in air: write ray transfer (ABCD) matrices, find focal length, then for graded index n1=1+h/R find focal length as function of ray height h, determine converging/diverging regions, and sketch ray paths."
+}

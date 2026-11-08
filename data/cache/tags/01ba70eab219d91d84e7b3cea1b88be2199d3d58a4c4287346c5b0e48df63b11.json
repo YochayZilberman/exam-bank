@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t10"
+  ],
+  "summary": "Find conformal maps sending given planar domains (intersection of discs, slit plane, strip between lines, region between circles, half-disc with slit, etc.) onto the upper half-plane."
+}

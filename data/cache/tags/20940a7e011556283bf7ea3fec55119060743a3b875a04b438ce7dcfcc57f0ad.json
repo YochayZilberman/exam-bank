@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t03"
+  ],
+  "summary": "AC phasor circuit with inductor, resistor, capacitor and current-controlled voltage source (Vx=2I): given measured open-circuit Vab, find L and C, the instantaneous current in a load Z=2+j5, the load Z for maximum average power transfer and that power, and the frequency at which load voltage and Ix are in phase."
+}

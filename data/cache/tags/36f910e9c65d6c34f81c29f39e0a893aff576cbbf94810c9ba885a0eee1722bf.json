@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t05"
+  ],
+  "summary": "Solve the forced wave equation u_tt - c^2 u_xx = kx for a string of length L fixed at x=0 and x=L with zero initial displacement and velocity; find the string shape for t>0 (inhomogeneous problem, separation of variables)."
+}

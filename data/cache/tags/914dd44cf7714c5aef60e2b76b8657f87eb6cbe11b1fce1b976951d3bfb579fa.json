@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Solve the 1D heat equation u_t=u_xx on 0≤x≤1 with zero initial condition and inhomogeneous boundary conditions u(0,t)=0, u(1,t)=1 (steady state plus separation of variables)."
+}

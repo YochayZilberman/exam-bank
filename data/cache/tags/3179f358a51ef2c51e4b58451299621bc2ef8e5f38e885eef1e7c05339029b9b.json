@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "Parallel RLC circuit driven by sinusoidal voltage and current sources at different frequencies: find voltage-source current via phasors and superposition, C minimizing current amplitude, instantaneous and average power of the voltage source, averaging period, and average power on L and C."
+}

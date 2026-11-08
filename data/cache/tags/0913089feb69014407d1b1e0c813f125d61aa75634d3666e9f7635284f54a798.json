@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t02"
+  ],
+  "summary": "Find all values of multivalued complex powers such as i^(3+2i), (3-4i)^(1+i), (-3+4i)^(1+i), ((1-i)/sqrt2)^(1+i), 1^(-i) using the complex logarithm."
+}

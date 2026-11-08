@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t20",
+    "t19",
+    "t15"
+  ],
+  "summary": "Parallel RLC radio receiver driven by current source with two carriers (100kHz desired, 105kHz interferer): find output-voltage ODE, capacitor value for resonance at f0, resistor for 5dB selectivity, settling time constant and half-power bandwidth, and sketch transfer function H(ω)."
+}

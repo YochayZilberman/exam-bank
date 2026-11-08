@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t21",
+    "t05"
+  ],
+  "summary": "AC steady-state circuit with current source, coupled inductors (mutual inductance M), capacitor, and CCVS αI2: find phasor currents I1(t), I2(t), choose load ZL for maximum power transfer, compute stored and dissipated energy per cycle in an RL load, and average power of the dependent source vs α."
+}

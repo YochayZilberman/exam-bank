@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11"
+  ],
+  "summary": "Solve the 2D Poisson equation ∇²u = A/r³ outside a disk of radius R in polar coordinates with boundary condition u(R,θ)=a cos(2θ) and u bounded as r→∞."
+}

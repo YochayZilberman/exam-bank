@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t14",
+    "t12"
+  ],
+  "summary": "Two coupled phasor circuits with cross-dependent voltage sources (γi2 and μVout): find Va, express V2=Ai2+B, find Thevenin/Norton equivalent seen by Vout, and derive transfer function H(ω)=Vout/V1 and classify filter type."
+}

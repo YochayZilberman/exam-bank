@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t11",
+    "t10"
+  ],
+  "summary": "Resistive circuit with 12V source and 2mA current source: find open-circuit voltage A-B, Thevenin/Norton equivalent, load for maximum power transfer; then with sinusoidal source (ω=150) and series/parallel RLC load find delivered and per-element power, and capacitor for unity power factor."
+}

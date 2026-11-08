@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t16"
+  ],
+  "summary": "For the lattice dispersion ω²=(4α/m)sin²(ka/2), find phase and group velocities and the optimal frequency for fastest wave packet; then two pulses at ω1<ω2 in a waveguide combine at a junction to a detector—describe detected intensity vs time (beating/interference), effects of small loss, and which case gives max intensity when ω1=ω2."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t03"
+  ],
+  "summary": "Find harmonic function u(x,y) in semi-infinite strip 0<x<∞, 0<y<1 with u(x,0)=0, u(x,1)=1, u(0,y)=y+sin(2πy), via subtracting steady part and separation of variables."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06"
+  ],
+  "summary": "Series RLC engine ignition circuit (12V, R=4Ω, L=200mH, unknown C) switched at t=0: write the differential equation and initial conditions for the inductor current, find characteristic roots in terms of R, L, C, choose roots and C so the current reaches 1A within 100ms and stays above 1A for about 1s, and find the waiting time after the switch is disconnected before the engine can be restarted."
+}

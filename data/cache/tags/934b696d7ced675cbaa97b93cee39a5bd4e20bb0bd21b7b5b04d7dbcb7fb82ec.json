@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t04",
+    "t12"
+  ],
+  "summary": "Infinite 2D lattice of masses m connected by horizontal and vertical springs (spacings a, b): write equations of motion for decoupled horizontal and vertical motion, derive small-oscillation dispersion relations, find how a pulse linearly polarized at 45° changes shape after propagating distance d, and whether and how its polarization changes."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t04",
+    "t08"
+  ],
+  "summary": "Mixing N molecules of type A with N molecules of type B: find the entropy change ΔS of mixing (entropy after minus before)."
+}

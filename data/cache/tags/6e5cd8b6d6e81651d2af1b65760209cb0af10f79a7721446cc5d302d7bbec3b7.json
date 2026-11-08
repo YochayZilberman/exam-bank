@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t21",
+    "t09",
+    "t19"
+  ],
+  "summary": "Coupled inductors (mutual inductance M) driving a capacitor and load: find Thevenin equivalent (open-circuit voltage, short-circuit current), average power on resistive load for sinusoidal and multi-frequency cosine-sum source, then with ideal n:1 transformer replacing coils."
+}

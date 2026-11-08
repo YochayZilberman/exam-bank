@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t14",
+    "t09"
+  ],
+  "summary": "n people in a row toss biased coins (heads prob p); Y_n counts people whose outcome differs from right neighbor; find P(Y_n=1|X_n=1), mean and variance of Y_n (using covariance of dependent indicators), and prove Y_n/n converges in distribution to 2p(1-p)."
+}

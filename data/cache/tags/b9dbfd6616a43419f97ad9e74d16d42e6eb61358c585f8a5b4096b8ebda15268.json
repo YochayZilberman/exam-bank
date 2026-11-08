@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t09"
+  ],
+  "summary": "Traffic light waiting time uniform on [0,a] with 3 i.i.d. samples: design optimal (Neyman-Pearson) test of a=1 vs a=2 with 90% significance, and find an unbiased estimator of the variance and compute it for samples 1,3,5."
+}

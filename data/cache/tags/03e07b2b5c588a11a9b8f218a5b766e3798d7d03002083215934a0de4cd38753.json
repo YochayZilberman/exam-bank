@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t10",
+    "t14"
+  ],
+  "summary": "Fair coin tossed infinitely; X_n is toss index of n-th heads (negative binomial): find P(X_10=30), compute E[X_n], and decide whether X_n/n converges in probability (to 2)."
+}

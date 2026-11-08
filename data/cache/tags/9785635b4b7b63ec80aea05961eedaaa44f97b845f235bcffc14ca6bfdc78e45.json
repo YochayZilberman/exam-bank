@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t09",
+    "t05"
+  ],
+  "summary": "AC phasor circuit with inductor, resistor, capacitor and current-controlled voltage source: from measured open-circuit Vab find L and C, find load current for Z=2+j5, choose Z for maximum average power transfer and that power, and find the frequency giving zero phase between load voltage and Ix."
+}

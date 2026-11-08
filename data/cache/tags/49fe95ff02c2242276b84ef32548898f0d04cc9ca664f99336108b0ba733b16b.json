@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t02"
+  ],
+  "summary": "Maxwell-Wien AC bridge with inductor L1, resistors W, R, and variable Z in parallel with C: find the balance condition for L (and its series resistance R_L), then with the detector removed compute the circuit power factor and choose a component to correct PF to 1."
+}

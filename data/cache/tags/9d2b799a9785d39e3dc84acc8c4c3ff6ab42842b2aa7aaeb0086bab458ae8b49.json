@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t10",
+    "t06"
+  ],
+  "summary": "State and prove Markov's inequality; state and prove Hoeffding's inequality bounding the tail probability of a sum of i.i.d. zero-mean random variables bounded in [-1,1], using Hoeffding's lemma E(e^{tX}) ≤ exp(t^2/2)."
+}

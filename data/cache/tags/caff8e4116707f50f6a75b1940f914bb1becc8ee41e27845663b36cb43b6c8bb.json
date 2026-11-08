@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t10",
+    "t11"
+  ],
+  "summary": "Parallel RLC circuit driven by current source cos(ωt): derive differential equation and steady-state voltage, find resonance frequency and sketch frequency response H(ω)=Vout/Is for R=L=C=1, and compute average power and energy per cycle dissipated in the resistor at ω=5."
+}

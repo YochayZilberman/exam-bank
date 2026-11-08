@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t19",
+    "t20"
+  ],
+  "summary": "AC circuit with sine source, current-controlled voltage source A*I_out, R, L, C: find Z_out for maximum power transfer via Thevenin equivalent, compute max power, then remove the dependent source and find resonance frequencies."
+}

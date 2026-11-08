@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03",
+    "t01"
+  ],
+  "summary": "Solve Laplace's equation outside a sphere of radius R with piecewise boundary potential V/−V/V in θ (bands at π/3, 2π/3), bounded at infinity: write general Legendre series solution with integral coefficients, find leading term for r>>R, interpret it physically (multipole) and find r-dependence of next nonzero term."
+}

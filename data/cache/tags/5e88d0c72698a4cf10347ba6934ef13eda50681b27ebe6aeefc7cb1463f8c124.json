@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t17",
+    "t14"
+  ],
+  "summary": "Series RLC-type circuit (L1, R1 in series feeding R2 parallel C1) driven by impulse Vs=aδ(t): derive differential equation for capacitor voltage, find underdamped impulse response with zero initial conditions, and use convolution to find response to a pulse u(t)-u(t-3)."
+}

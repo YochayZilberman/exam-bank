@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "Maxwell-Wien bridge with inductor L1, variable resistors W, Z, capacitor C and R: find L (and its series resistance R_L) at balance using phasor impedances, then with detector removed compute circuit power factor and determine compensating element to make PF=1."
+}

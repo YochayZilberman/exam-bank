@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06"
+  ],
+  "summary": "Find harmonic function u(ρ,θ) in annulus a<ρ<b between concentric cylinders with u=0 at ρ=a and u=(A b²/2) sin²θ at ρ=b (Dirichlet problem for Laplace equation in polar coordinates via separation of variables)."
+}

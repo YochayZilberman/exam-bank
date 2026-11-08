@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11"
+  ],
+  "summary": "Maxwell-Wien AC bridge: derive inductance and coil resistance at balance in terms of W, R, Z, C, then with detector removed compute the circuit's power factor and find a compensating element for unity power factor."
+}

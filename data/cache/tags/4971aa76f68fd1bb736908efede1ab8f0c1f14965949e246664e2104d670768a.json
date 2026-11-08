@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t18",
+    "t19"
+  ],
+  "summary": "Integral equations on the real line: solve f(x)=e^{-α|x|}+λ∫e^{-α|x-y|}f(y)dy via Fourier transform (convolution kernel), and for f(x)=h(x)+λ∫g(x+y)f(y)dy express F(k) via G(k),H(k) and find formal solution."
+}

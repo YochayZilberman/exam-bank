@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t12",
+    "t03"
+  ],
+  "summary": "Wave packet ψ(x,0)=A sin(k1x)sin(k2x) in an infinite waveguide with dispersion ω(k)=bk/√(1-(a/k)^2): find the pulse shape at time t, the condition on k1,k2 for returning to the initial state after finite time, and how the shape evolves when k1=k2."
+}

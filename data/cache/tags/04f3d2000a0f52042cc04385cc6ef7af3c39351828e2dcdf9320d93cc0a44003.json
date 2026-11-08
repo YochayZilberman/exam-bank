@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t06"
+  ],
+  "summary": "RC circuit (R1 in series, R2 parallel with C): derive ODE for Vc(t) and step response, find R1 voltage as t→∞, design C for a 20kHz low-pass filter via -3dB condition, and find/sketch magnitude and phase of transfer function VR1/Vin."
+}

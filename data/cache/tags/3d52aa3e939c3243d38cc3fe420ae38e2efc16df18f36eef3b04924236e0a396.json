@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t17",
+    "t03",
+    "t16"
+  ],
+  "summary": "Gaussian laser beam illuminates an opaque plate with a square aperture of side d; find far-field (Fraunhofer) diffraction pattern for d<<beam width and d~beam width, then write the Fresnel near-field integral when the screen is close."
+}

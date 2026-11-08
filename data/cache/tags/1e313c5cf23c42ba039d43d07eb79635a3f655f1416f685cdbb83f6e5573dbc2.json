@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t05",
+    "t13"
+  ],
+  "summary": "Toss n fair coins, re-toss those showing white; find expectation and variance of number showing black, and conditional distribution (binomial) of final white count given m white after second round."
+}

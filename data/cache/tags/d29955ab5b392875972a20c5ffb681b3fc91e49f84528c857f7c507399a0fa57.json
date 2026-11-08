@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t02",
+    "t04"
+  ],
+  "summary": "Simple random walk on the integers starting at 0 with step probabilities p, q: find P(position k after n steps) (binomial), asymptotics of return probability P(A_0) for p=q=1/2 via Stirling's formula, and probability of eventual return to origin (recurrence)."
+}

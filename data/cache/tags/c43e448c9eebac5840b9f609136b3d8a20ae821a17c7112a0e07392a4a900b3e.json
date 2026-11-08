@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t09"
+  ],
+  "summary": "Solve the inhomogeneous wave equation u_tt - u_xx = 2 for a forced string on 0≤x≤π with mixed boundary conditions u_x(0,t)=0, u(π,t)=1 and initial data u(x,0)=1, u_t(x,0)=cos(7x/2), via separation of variables / eigenfunction expansion."
+}

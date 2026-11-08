@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t06",
+    "t12"
+  ],
+  "summary": "Resistive network with two DC sources and capacitor C1: find Thévenin equivalent seen by the capacitor, ZSR of capacitor voltage for step sources, frequency response H(ω) and sinusoidal steady-state capacitor voltage for V2=0.2cos(50t), and with a diode in parallel use small-signal resistance to find capacitor voltage."
+}

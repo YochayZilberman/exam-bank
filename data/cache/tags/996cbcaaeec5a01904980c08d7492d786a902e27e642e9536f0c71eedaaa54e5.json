@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "Shuffled deck of n black and n red cards; Y_n counts adjacent pairs of different colors: compute expectation and variance via indicators, and bound P(Y_n >= 3n/4) (Chebyshev) tending to zero."
+}

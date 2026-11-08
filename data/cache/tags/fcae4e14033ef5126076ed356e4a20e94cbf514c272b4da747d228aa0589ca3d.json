@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t07",
+    "t03"
+  ],
+  "summary": "Solve the diffusion-convection equation u_t = 2u_xx - u_x on 0<x<1 with zero Dirichlet boundary conditions and initial condition u(x,0) = -2e^{x/4} sin(3πx), using an exponential substitution followed by separation of variables."
+}

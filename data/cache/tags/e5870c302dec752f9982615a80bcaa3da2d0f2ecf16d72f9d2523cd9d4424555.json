@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Prove the tail-sum formula E(X)=sum P(X>=n) for nonnegative integer random variables, then use it to show that for independent Bernoulli((k-p)/k) variables, the expectation of the first index with B_k=1 equals e^p."
+}

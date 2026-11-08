@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "Bernoulli trials: find distribution of waiting times W_i (geometric) and T_m (negative binomial), their expectations and variances, and limit of P(α ≤ standardized T_m ≤ β) via the Central Limit Theorem."
+}

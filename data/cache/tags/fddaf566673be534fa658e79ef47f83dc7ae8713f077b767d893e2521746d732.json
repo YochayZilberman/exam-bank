@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t07",
+    "t09"
+  ],
+  "summary": "Solve the 2D inhomogeneous diffusion equation u_t = Laplacian u + q on a rectangle [0,π]×[0,π/2] with Neumann boundary conditions and initial condition cos2x cos2y via separation of variables; determine whether a stationary solution exists, and whether it exists if one boundary is changed to Dirichlet."
+}

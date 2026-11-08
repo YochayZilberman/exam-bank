@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t03",
+    "t12"
+  ],
+  "summary": "Given a sound pulse's frequency spectrum B(ω)=V0 sin[(ω−ω0)τ]/((ω−ω0)τ), find the pulse shape in time (rectangular modulated carrier) and the field B(t) after a narrow filter passing only ω0."
+}

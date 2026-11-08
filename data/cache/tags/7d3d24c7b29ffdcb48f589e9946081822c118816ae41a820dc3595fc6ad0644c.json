@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Solve Laplace's equation in a 90° annular sector (R1=1/2, R2=1) with zero Dirichlet conditions on the radial edges and u=a sin4θ on the inner arc, u=b sin2θ on the outer arc, via separation of variables in polar coordinates."
+}

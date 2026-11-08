@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t03"
+  ],
+  "summary": "For a 1D bound-state Schrödinger particle, prove energy levels are non-degenerate (via Wronskian) and that the wavefunction ψ(x) can be chosen real up to a constant complex factor."
+}

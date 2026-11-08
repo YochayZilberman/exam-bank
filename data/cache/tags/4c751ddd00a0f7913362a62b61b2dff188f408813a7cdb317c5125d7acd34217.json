@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t14",
+    "t19"
+  ],
+  "summary": "Resistive circuit with capacitor load and two sources: find Thevenin equivalent seen by capacitor, ZSR capacitor voltage for step inputs (first-order), transfer function H(ω) and steady-state voltage for sinusoidal source using phasors, and small-signal effect of a diode added in parallel."
+}

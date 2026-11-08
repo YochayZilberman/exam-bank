@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t09"
+  ],
+  "summary": "Series RLC circuit with parallel capacitors C1,C2 and a three-position switch: find impulse response current through R, resistor voltage after switching from shorted position to a DC source V0, response to exponential source e^{-2t}u(t), and effect of nonzero initial capacitor voltage (ZIR/ZSR)."
+}

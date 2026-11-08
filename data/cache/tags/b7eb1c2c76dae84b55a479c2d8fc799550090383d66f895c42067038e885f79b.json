@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t05",
+    "t03"
+  ],
+  "summary": "Urn with 5 black and 3 white balls, draw pairs without replacement until a same-color pair appears; find joint distribution of X (total balls drawn) and Y (indicator last pair white), check independence, expected number of black balls drawn, and conditional expectation of X given the last pair is white."
+}

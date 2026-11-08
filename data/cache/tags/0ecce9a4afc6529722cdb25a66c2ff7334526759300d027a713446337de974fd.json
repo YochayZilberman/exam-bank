@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "From oscilloscope plots of sinusoidal voltage and current across a complex-impedance element, find R, X and phase θ; then express |Z|, |X|, R in terms of measured V_RMS, I_RMS and average power."
+}

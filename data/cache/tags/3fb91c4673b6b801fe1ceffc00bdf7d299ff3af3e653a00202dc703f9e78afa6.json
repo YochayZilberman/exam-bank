@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12"
+  ],
+  "summary": "Prove continuity of probability measure for increasing sequence of events, and prove countable subadditivity (union bound) for infinite sequence of events using finite union bound."
+}

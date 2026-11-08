@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03",
+    "t06"
+  ],
+  "summary": "Find harmonic function u(x,y) in semi-infinite strip 0<x<∞, 0<y<L with u(x,0)=0, u_y(x,L)=0, u(0,y)=f(y), u→0 as x→∞ via separation of variables (Laplace equation, mixed Dirichlet/Neumann)."
+}

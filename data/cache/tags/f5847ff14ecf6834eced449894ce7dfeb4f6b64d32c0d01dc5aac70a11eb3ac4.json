@@ -1,0 +1,6 @@
+{
+  "topic_ids": [
+    "t06"
+  ],
+  "summary": "Find the general solution u(x,y) of the second-order constant-coefficient hyperbolic PDE 2u_xx+6u_xy+4u_yy+u_x+u_y=0 by reducing it to canonical form via characteristic coordinates."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t07",
+    "t06"
+  ],
+  "summary": "For n independent coin tosses with P(1)=p, X_n counts occurrences of the pattern 111; compute E(X_n) via indicator variables, and prove a Hoeffding/Chernoff-type concentration bound P(X_n/(n-2) - p^3 > a) ≤ 3exp(-(n-2)^2 a^2/(18⌈n/3⌉)) by splitting into 3 independent subsums."
+}

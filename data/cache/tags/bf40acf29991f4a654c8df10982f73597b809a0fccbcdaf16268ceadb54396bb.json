@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t09",
+    "t06"
+  ],
+  "summary": "First-order RC circuit with current source Is, R1, R2 and capacitor: derive the differential equation for Vc(t), find the impulse response (ZSR), then use convolution to compute Vc for an input of two rectangular pulses, evaluate the ratio RES=Vc(0.5Δ)/Vc(1.5Δ) for different Δ/(R1C), and find the minimum Δ/(R1C) for which RES≥2 (pulse/information recovery)."
+}

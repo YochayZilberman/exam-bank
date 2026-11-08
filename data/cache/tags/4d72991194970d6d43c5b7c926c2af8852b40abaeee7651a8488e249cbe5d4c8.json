@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t08",
+    "t10"
+  ],
+  "summary": "Random vector (X,Y) uniform on region under parabola 0≤y≤(3-3x²)/4; find marginal densities of X and Y, expectation of Z=X+Y, and probability P(3-3X<4Y) (region between line and parabola)."
+}

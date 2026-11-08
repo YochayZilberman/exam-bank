@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t05"
+  ],
+  "summary": "n people in a row each toss a biased coin (heads prob p); X_n = number of heads, Y_n = number of people whose result differs from right neighbor; find P(Y_n=1|X_n=1), E and Var of Y_n (indicator sums with dependence), and prove Y_n/n converges in distribution and find its limit (WLLN/Chebyshev)."
+}

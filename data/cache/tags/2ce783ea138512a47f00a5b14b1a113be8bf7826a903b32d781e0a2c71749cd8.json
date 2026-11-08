@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t15"
+  ],
+  "summary": "For X ~ Exponential(1): find the moment generating function M_X(t), find the density of Y = 1/X, and determine whether Y has a finite expectation, with proof."
+}

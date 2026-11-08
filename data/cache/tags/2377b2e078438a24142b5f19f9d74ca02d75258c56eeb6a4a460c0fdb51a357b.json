@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t02",
+    "t01"
+  ],
+  "summary": "Damped mass-spring oscillator (m=5g, k=0.1 N/m, Q=50): find time for amplitude to decay by factor 1/e (multiple choice)."
+}

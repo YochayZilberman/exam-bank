@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t01",
+    "t03",
+    "t15"
+  ],
+  "summary": "DC resistive circuit with three voltage sources: find all branch currents via KVL/KCL, Thevenin equivalent at terminals a-b, power delivered/absorbed by each source, and output voltage when a switch closes adding an ideal diode branch."
+}

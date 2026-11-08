@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t19",
+    "t05"
+  ],
+  "summary": "AC circuit with sinusoidal voltage and current sources and resistors: find Thevenin/Norton equivalent (Rth, Vth) between nodes a-b, then compute average power delivered to a 50Ω load, the load for maximum power transfer, and power with a 30pF capacitor load."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t07",
+    "t06"
+  ],
+  "summary": "Hypothesis testing with one sample: null X~Uniform[0,10] vs alternative X~Exponential(0.2); find optimal (Neyman-Pearson) test at level 0.05 and its power, a test with level 0 and positive power, and the limiting distribution of (sum X_i - 5n)/sqrt(n) under each hypothesis via CLT."
+}

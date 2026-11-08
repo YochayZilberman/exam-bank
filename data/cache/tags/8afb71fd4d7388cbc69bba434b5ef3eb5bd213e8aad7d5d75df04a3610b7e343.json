@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06"
+  ],
+  "summary": "Defibrillator series RLC circuit (precharged 6000V capacitor discharging through inductor into 50Ω heart resistor): identify damping type from voltage graph, write current ODE, initial conditions, find damped frequency ωd, compute L and C, and full current expression."
+}

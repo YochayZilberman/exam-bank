@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t14"
+  ],
+  "summary": "FET high-frequency model circuit with current source, R1, C1, C2 (and R2), VCCS gmV1: derive ODE for V1 (with ZIR), ODE for V2, initial capacitor current, transfer function V2/V1 with Bode/asymptotic magnitude and phase, and average power of the controlled source in sinusoidal steady state."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Polya urn (start 1 black, 2 white; draw a ball, return it with one more of the same color): find E(B_{n+1}|B_n), E(B_n), and the expected proportion of black balls before the n-th draw."
+}

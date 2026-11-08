@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t12",
+    "t14"
+  ],
+  "summary": "Random black/white coloring of a (2n+1)x(2n+1) grid: find the limit of the fraction of monochromatic edges (convergence in probability), check independence of horizontal edge indicators for p=1/2 vs p=1/3, and prove an exponential concentration (large deviation) bound for the number of vertical monochromatic edges."
+}

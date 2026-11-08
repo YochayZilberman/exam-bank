@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t07",
+    "t05"
+  ],
+  "summary": "Flip a fair coin until heads (X = number of flips, geometric), then roll X fair dice with sum Y; find E[Y] (Wald/total expectation) and E[X | X=Y] (conditional expectation)."
+}

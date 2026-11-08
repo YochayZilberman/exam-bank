@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t10"
+  ],
+  "summary": "(a) Classify the PDE u_xx+2u_xy+5u_yy+2u_x+2u_y=0 and reduce it to canonical form; (b) solve Laplace's equation on rectangle 0≤x≤L, 0≤y≤2L with sinusoidal Dirichlet data on x=L and y=2L, zero on other sides, via separation of variables."
+}

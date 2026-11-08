@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t09",
+    "t10"
+  ],
+  "summary": "Minimize the Dirichlet functional I[u]=1/2∬|∇u|^2 over the disk x^2+y^2<R^2 with boundary condition u=a x^2: derive Euler-Lagrange (Laplace equation), solve the Dirichlet problem in the disk, and compute the minimum value of I."
+}

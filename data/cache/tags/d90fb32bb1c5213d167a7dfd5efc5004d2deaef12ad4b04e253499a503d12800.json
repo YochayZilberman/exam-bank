@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t01",
+    "t13"
+  ],
+  "summary": "Quantum angular momentum commutators with noncommuting position operators [x_i,x_j]=iħ/(m²c²)ε_ijk L_k: find linear combination J_i=αx_i+βL_i obeying angular momentum algebra, and show position eigenvalues are quantized in multiples of Compton wavelength."
+}

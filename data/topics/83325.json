@@ -1,0 +1,107 @@
+{
+  "course": "83325",
+  "source": "https://shnaton.huji.ac.il/api/syllabus?courseCode=83325&year=2027",
+  "fetched_at": "2026-11-06T15:58:41",
+  "note": "Edit freely. Each topic needs a unique 'id'; tags reference these ids. This file is not overwritten on re-runs unless you pass --force.",
+  "topics": [
+    {
+      "he": "תנועה הרמונית",
+      "en": "Harmonic motion",
+      "id": "t01"
+    },
+    {
+      "he": "ריסון ורזוננס (תהודה)",
+      "en": "Restraint and resonance",
+      "id": "t02"
+    },
+    {
+      "he": "התמרות פורייה",
+      "en": "Fourier transforms",
+      "id": "t03"
+    },
+    {
+      "he": "מערכות מצומדות, מודים נורמליים",
+      "en": "Conjugate systems, normal modes",
+      "id": "t04"
+    },
+    {
+      "he": "משוואת הגלים",
+      "en": "Wave equation",
+      "id": "t05"
+    },
+    {
+      "he": "גלים במיתר",
+      "en": "Waves on a string",
+      "id": "t06"
+    },
+    {
+      "he": "החזרה והעברה",
+      "en": "Reflection and transmission",
+      "id": "t07"
+    },
+    {
+      "he": "עכבות",
+      "en": "Impedance",
+      "id": "t08"
+    },
+    {
+      "he": "אנרגיה",
+      "en": "Energy",
+      "id": "t09"
+    },
+    {
+      "he": "גלים עומדים",
+      "en": "Standing waves",
+      "id": "t10"
+    },
+    {
+      "he": "דיספרסיה (נפיצה)",
+      "en": "Dispersion",
+      "id": "t11"
+    },
+    {
+      "he": "חבורות גלים ומהירות חבורה",
+      "en": "Wave bunches and bunch velocity",
+      "id": "t12"
+    },
+    {
+      "he": "גלים אלקטרומגנטיים (א\"מ)",
+      "en": "Electromagnetic waves (EM)",
+      "id": "t13"
+    },
+    {
+      "he": "גלים א\"מ בחומר - מודל לורנץ",
+      "en": "EM waves in matter - Lorentz model",
+      "id": "t14"
+    },
+    {
+      "he": "החזרה והעברה של גלי אור",
+      "en": "Reflection and transmission of light waves",
+      "id": "t15"
+    },
+    {
+      "he": "התאבכות (interference)",
+      "en": "Interference",
+      "id": "t16"
+    },
+    {
+      "he": "עקרון הויגנס - עקיפה",
+      "en": "Huygens' principle - Diffraction",
+      "id": "t17"
+    },
+    {
+      "he": "אינטרפרומטרים",
+      "en": "Interferometers",
+      "id": "t18"
+    },
+    {
+      "he": "אופטיקה גאומטרית",
+      "en": "Geometric optics",
+      "id": "t19"
+    }
+  ],
+  "raw": {
+    "he": "- תנועה הרמונית\r\n- ריסון ורזוננס (תהודה)\r\n- התמרות פורייה\r\n- מערכות מצומדות, מודים נורמליים\r\n- משוואת הגלים\r\n- גלים במיתר\r\n- החזרה והעברה\r\n- עכבות\r\n- אנרגיה\r\n- גלים עומדים\r\n- דיספרסיה (נפיצה)\r\n- חבורות גלים ומהירות חבורה\r\n- גלים אלקטרומגנטיים (א\"מ)\r\n- גלים א\"מ בחומר - מודל לורנץ\r\n- החזרה והעברה של גלי אור\r\n- התאבכות (interference)\r\n- עקרון הויגנס - עקיפה\r\n- אינטרפרומטרים\r\n- אופטיקה גאומטרית",
+    "en": "- Harmonic motion\r\n- Restraint and resonance\r\n- Fourier transforms\r\n- Conjugate systems, normal modes\r\n- Wave equation\r\n- Waves on a string\r\n- Reflection and transmission\r\n- Impedance\r\n- Energy\r\n- Standing waves\r\n- Dispersion\r\n- Wave bunches and bunch velocity\r\n- Electromagnetic waves (EM)\r\n- EM waves in matter - Lorentz model\r\n- Reflection and transmission of light waves\r\n- Interference\r\n- Huygens' principle - Diffraction\r\n- Interferometers\r\n- Geometric optics"
+  }
+}

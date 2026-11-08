@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t11",
+    "t03"
+  ],
+  "summary": "Find the temperature profile T(x,t) in a rod of length L with end x=0 held at zero temperature, constant heat flux q entering at x=L, zero initial temperature, given conductivity K and heat capacity C."
+}

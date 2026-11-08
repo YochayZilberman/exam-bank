@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "RLC circuit with sinusoidal voltage source 2cos(t) and 4A DC current source (superposition, different frequencies): find steady-state current through voltage source, plot it over 0-7s with max/min, compute instantaneous and average power of the source, and whether resistors absorb average power."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t05",
+    "t07"
+  ],
+  "summary": "Pólya urn starting with 1 black and 2 white balls (draw, return with one extra of same color): compute conditional expectation E(B_{n+1}|B_n), E(B_n), and expected proportion of black balls before the n-th draw."
+}

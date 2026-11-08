@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t03"
+  ],
+  "summary": "Find the harmonic function (Laplace equation) in the semi-infinite strip 0<x<∞, 0<y<L with u(x,0)=0, u_y(x,L)=0, u(0,y)=f(y), u(∞,y)=0 via separation of variables and a Sturm-Liouville eigenfunction expansion."
+}

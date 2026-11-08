@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t07",
+    "t03"
+  ],
+  "summary": "Solve the 1D heat equation u_t = a^2 u_xx on 0<x<L with insulated end at x=0 (Neumann), fixed temperature u1 at x=L, and initial condition u(x,0)=u1 x/L, via steady-state shift and separation of variables."
+}

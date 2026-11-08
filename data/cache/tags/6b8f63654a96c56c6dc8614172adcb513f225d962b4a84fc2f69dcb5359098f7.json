@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t16",
+    "t19",
+    "t18"
+  ],
+  "summary": "(a) Prove whether an element with I_out = cos(ω0 t)·V(t−τ) is linear and time-invariant; (b) given LTI input 8+4cos(2π500t+π/4)+cos(2π1000t) and output 2+cos(2π500t·...) sinusoid, select all transfer-function amplitude graphs (filters: LPF, HPF, notch, bandpass) consistent with the output."
+}

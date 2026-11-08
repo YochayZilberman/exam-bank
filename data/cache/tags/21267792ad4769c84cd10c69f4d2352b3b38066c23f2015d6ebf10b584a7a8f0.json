@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t01"
+  ],
+  "summary": "Parallel RLC circuit driven by current source with given ODE V''+4V'+3V=Is': find impulse response, determine R and L, find resistor current for step input, analyze R→∞ case and response to Is=6e^{-√3 t}."
+}

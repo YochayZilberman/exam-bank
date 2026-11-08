@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t13",
+    "t14"
+  ],
+  "summary": "Poisson(4) number of people open fridge, each eats cake with prob 1/2 if uneaten; find probability cake is eaten and conditional distribution of number of openers given cake eaten / not eaten (Poisson thinning, Bayes)."
+}

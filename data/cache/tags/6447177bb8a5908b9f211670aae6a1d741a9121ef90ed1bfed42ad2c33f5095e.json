@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t11"
+  ],
+  "summary": "Parallel RLC circuit (L, series C1-C2, R1||R2) driven by step current source: derive ODE for output voltage, find R2 for critical damping, step response for R2=3Ω, compare instantaneous power in R2 at two times, and final power as t→∞."
+}

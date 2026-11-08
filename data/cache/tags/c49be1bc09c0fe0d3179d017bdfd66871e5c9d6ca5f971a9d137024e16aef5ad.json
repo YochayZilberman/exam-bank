@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03",
+    "t15"
+  ],
+  "summary": "Solve the first-order PDE y u_x + x u_y = 0 by the method of characteristics: find the general solution u(x,y)=f(x^2-y^2) and the particular solution satisfying u(0,y)=cos(y^2)."
+}

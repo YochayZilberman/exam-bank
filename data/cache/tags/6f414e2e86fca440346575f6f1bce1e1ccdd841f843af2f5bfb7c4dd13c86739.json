@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t07",
+    "t13"
+  ],
+  "summary": "For i.i.d. Bernoulli(p) X_n and Y_n = X_n(1-X_{n+1})X_{n+2}, interpret Y_n, find constant C with (1/n)ΣY_i →d C via a weak law for 2-dependent variables, and prove a Hoeffding-type tail bound 3exp(-a²n/6) by splitting into three independent subsequences."
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t19",
+    "t11"
+  ],
+  "summary": "Two parallel laser beams at 400 THz and 620 THz pass through thin lenses (R=20 cm, linear dispersion n=4; R=40 cm, frequency-dependent dispersion k(ω)); find each beam's focal point via the lensmaker formula, then use paraxial ray-transfer matrices to find the image size at 6 cm for the shorter wavelength."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t12",
+    "t13"
+  ],
+  "summary": "Solve y''+ω²y=f0 sin t cos t on [0,π] with y(0)=y(π)=0 via Green's function; find extremal of ∫₁²(x²y'²+¾y²)dx with y(1)=1,y(2)=0; solve Fredholm integral equation f(x)=x+λ∫₀¹xy²f(y)dy by Neumann series to second order and exactly, then compare."
+}

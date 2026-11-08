@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t11",
+    "t15"
+  ],
+  "summary": "Rainbow: light ray with impact parameter b enters spherical water drop, reflects once internally and exits; find deflection angle θ(n,R,b), find stationary (maximum intensity) angle for n≈1.33, and explain rainbow color order using dispersion n_red=1.33, n_blue=1.34."
+}

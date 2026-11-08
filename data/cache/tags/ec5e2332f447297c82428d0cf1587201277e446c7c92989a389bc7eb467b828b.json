@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t17"
+  ],
+  "summary": "Solve the Poisson equation ∇²u=1 inside the unit disk (0≤r<1) with Dirichlet boundary condition u(1,θ)=cos(3θ), using polar coordinates and separation of variables."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t14",
+    "t06"
+  ],
+  "summary": "Restaurant seating process: n people enter, each joins previous person's table w.p. p or sits at new table; find distribution of number of tables X, expectation and variance of number of people sitting alone Y_n, and show Y_n/n converges in distribution to a constant."
+}

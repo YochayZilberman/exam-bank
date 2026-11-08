@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t22",
+    "t12",
+    "t11"
+  ],
+  "summary": "Circuit with current source, resistors, nonlinear exponential diode and switched capacitor: find DC steady-state diode and capacitor voltage/current, then small-signal diode voltage and current for a sinusoidal source."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03",
+    "t02"
+  ],
+  "summary": "Find the Green's function for the operator L y = y'' - y on the whole real line with y bounded as x→±∞."
+}

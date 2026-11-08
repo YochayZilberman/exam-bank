@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04"
+  ],
+  "summary": "Polya urn with b black and r red balls, draw and return with c extra of same color, three draws: tree diagram, probability of black-black-red, probability third is red, Bayes probability first red given second red, probability second black and third red."
+}

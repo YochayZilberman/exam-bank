@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t04",
+    "t03"
+  ],
+  "summary": "DC resistive circuit with current sources I, is and voltage source vs: write KCL at nodes A-D and KVL equations, find power in branch AC via superposition as function of R, is, vs, evaluate for given values, and choose source values maximizing delivered power."
+}

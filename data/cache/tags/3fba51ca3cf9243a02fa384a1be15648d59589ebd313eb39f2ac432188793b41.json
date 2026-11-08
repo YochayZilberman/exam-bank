@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t09",
+    "t14"
+  ],
+  "summary": "People enter a restaurant one by one; each after the first joins the previous person's table with prob p or opens a new table with prob 1-p. Find the distribution of the number of tables X (1 + Binomial), the expectation and variance of the number Y_n of people sitting alone (using indicators and covariance), and show Y_n/n converges in distribution to a constant."
+}

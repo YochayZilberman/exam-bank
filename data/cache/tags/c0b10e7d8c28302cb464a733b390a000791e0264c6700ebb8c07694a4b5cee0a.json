@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t02",
+    "t08",
+    "t06"
+  ],
+  "summary": "2D ideal gas in an a×b box: kinetic derivation of pressure P·A=N m<v²>/2, canonical single-particle and N-particle partition functions (Z1>>N), Helmholtz free energy and pressure P=-(∂F/∂A), temperature interpretation, and extracting Boltzmann constant from fitted area-vs-pressure data."
+}

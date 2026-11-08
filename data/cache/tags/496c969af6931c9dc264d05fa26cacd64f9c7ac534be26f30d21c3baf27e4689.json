@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t10"
+  ],
+  "summary": "Second-order circuit with R1||C in series feeding R2||L: derive the differential equation for the inductor voltage, find ZIR, step-response ZSR, total solution, and sinusoidal steady-state output for input 10cos(√8t)+7sin(20t)."
+}

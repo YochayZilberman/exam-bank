@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t09",
+    "t03"
+  ],
+  "summary": "Solve the inhomogeneous diffusion equation n_t = D n_xx + a x on a channel -L<x<L with open ends (n=0 at x=±L) and zero initial concentration, finding n(x,t) for t>0 via a steady-state part plus a separation-of-variables eigenfunction series."
+}

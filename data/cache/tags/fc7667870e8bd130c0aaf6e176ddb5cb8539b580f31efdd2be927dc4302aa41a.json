@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t05",
+    "t09"
+  ],
+  "summary": "Damped inhomogeneous wave equation u_tt+2αu_t−c²u_xx=x on a string [0,L] with fixed ends: find the steady-state (time-independent) particular solution, then solve by separation of variables for α<cπ/L with the given initial displacement and sinusoidal initial velocity."
+}

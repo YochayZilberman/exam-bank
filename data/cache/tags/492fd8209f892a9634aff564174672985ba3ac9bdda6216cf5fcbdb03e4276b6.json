@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t18",
+    "t03",
+    "t16"
+  ],
+  "summary": "Explain the structure and operation of an FTIR spectrometer (Michelson interferometer), what quantity is measured (interferogram vs path difference) and how the spectrum is obtained via Fourier transform."
+}

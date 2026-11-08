@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13"
+  ],
+  "summary": "Prove linearity of expectation E(X+Y)=E(X)+E(Y) for discrete random variables with finite expectation, and prove Var(X) ≤ E((X−a)^2) for every real a."
+}

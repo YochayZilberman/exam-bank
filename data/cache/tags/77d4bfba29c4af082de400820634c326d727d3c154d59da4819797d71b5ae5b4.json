@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t01",
+    "t09"
+  ],
+  "summary": "Find current i in a bridge resistor network driven by V; find Thevenin equivalent of a resistor/current-source circuit at terminals a,b and sketch its I-V curve for V in [-1,3]V; given step response e^{-5t}u(t), compute impulse response and response to 2δ(t)-δ(t-2)."
+}

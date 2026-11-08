@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t04",
+    "t15"
+  ],
+  "summary": "Classify the second-order PDE u_xy + u_x = 0 (hyperbolic), find its general solution over the whole plane, and solve the Cauchy problem with data u = sin x and u_x = 1 given on the line y = x."
+}

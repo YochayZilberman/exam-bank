@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t13",
+    "t09"
+  ],
+  "summary": "2n lamps on a circle each lit independently w.p. 2/3; Z = number of dark segments (both adjacent lamps lit): compute E(Z) and Var(Z), prove a concentration bound P(Z-EZ>=dn)<=Ce^{-cd^2 n}, and find constants a,b,c so (W-an)/(bn^c) converges to N(0,1) for W the count of dark even segments."
+}

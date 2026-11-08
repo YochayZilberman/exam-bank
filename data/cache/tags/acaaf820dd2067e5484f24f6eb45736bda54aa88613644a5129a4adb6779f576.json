@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t13",
+    "t21"
+  ],
+  "summary": "High-frequency FET small-signal model circuit with current source, R1, C1, C2 (and R2), VCCS gm·V1: derive differential equations for V1(t) and V2(t), ZIR with initial condition, initial capacitor current, then sinusoidal steady-state transfer function H12=V2/V1, its magnitude/phase limits or Bode plots, and average power of the controlled source (supplied or absorbed)."
+}

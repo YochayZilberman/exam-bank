@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t03",
+    "t02"
+  ],
+  "summary": "Find the Green function of the Euler-type operator Ly = -x^2y'' - xy' + λ^2 y on 0<x<1 with |y(0)|<∞ and y(1)=0, λ≠0."
+}

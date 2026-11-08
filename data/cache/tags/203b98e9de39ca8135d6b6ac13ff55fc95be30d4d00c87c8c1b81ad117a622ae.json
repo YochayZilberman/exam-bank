@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t06"
+  ],
+  "summary": "Max X of three i.i.d. Uniform(0,1) points: find density of X, P(X≥1/2), E(X), Var(X)."
+}

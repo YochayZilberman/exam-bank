@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t22",
+    "t21",
+    "t13"
+  ],
+  "summary": "Full-wave bridge rectifier with transformer (220V RMS, 50Hz) and RC filter giving ~20V DC: sketch output voltage, find transformer turns ratio, choose RC for ripple ≤0.5V, find R and C for 1A peak load current, and compute/sketch source current I(t)."
+}

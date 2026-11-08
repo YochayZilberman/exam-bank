@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t20"
+  ],
+  "summary": "Sinusoidal steady-state RLC circuit (series R with parallel L and C): find transfer function H(jω)=V/Vs, its magnitude, limits at ω→0 and ∞, max/min values, -3dB bandwidth, sketch |H| and identify band-pass filter type."
+}

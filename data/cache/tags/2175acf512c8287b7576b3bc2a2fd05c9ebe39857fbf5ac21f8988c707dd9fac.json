@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t07",
+    "t02"
+  ],
+  "summary": "Find a particular solution of the forced 1D wave equation u_tt - c^2 u_xx = ε e^{-t/τ} δ(x) on [-L,L] with Dirichlet boundary conditions u(±L,t)=0 (inhomogeneous string problem with delta-function source)."
+}

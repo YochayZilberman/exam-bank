@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t07"
+  ],
+  "summary": "Random side length X with density (cx^2-bx) on [0,10]: find b,c given F_X(5)=1/2, compute mean and variance of area Y=X^2, and CDF of Z=ceil(X)^2."
+}

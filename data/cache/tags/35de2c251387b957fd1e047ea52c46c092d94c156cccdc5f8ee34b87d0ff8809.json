@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t10",
+    "t01"
+  ],
+  "summary": "Minimize the functional ∭_G [(grad u)^2 + 2u] dV over the unit ball with boundary condition u=cos θ on r=1; derive Euler–Lagrange (Poisson equation Δu=1) and solve in spherical coordinates."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t01"
+  ],
+  "summary": "Circuit with sinusoidal voltage source 2cos(t) and DC current source 4A (R,L,C): use superposition with phasors to find the current through the voltage source, sketch it over 0-7s with max/min, and compute instantaneous and average power supplied by Vs and whether resistors dissipate power."
+}

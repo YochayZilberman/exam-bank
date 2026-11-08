@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t11",
+    "t19"
+  ],
+  "summary": "Series RL circuit (2Ω, 1H) with DC source E=3V plus small AC source 0.1cos(10πt) driving a Schottky diode with I=e^V−1: find DC operating diode voltage, then small-signal diode voltage V_D(t) in sinusoidal steady state and sketch it."
+}

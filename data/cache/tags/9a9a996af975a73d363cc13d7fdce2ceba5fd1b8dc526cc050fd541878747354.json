@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t16",
+    "t19"
+  ],
+  "summary": "Resistive DC circuit with voltage source vs, current sources I and is, and resistors R, 2R: find power delivered/absorbed by vs symbolically (superposition suggested), numerically, and instantaneous and average power when vs=10cos(wt)."
+}

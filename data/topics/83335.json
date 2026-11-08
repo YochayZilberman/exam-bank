@@ -1,0 +1,88 @@
+{
+  "course": "83335",
+  "source": "https://shnaton.huji.ac.il/api/syllabus?courseCode=83335&year=2027",
+  "fetched_at": "2026-11-06T15:58:41",
+  "note": "Hand-cleaned 2026-11-07 from the Shnaton syllabus (Hebrew and English merged into one list). Added 'Transfer function and frequency response' (not named in the syllabus, common in exams).",
+  "topics": [
+    {
+      "id": "t01",
+      "he": "מעגלים מקובצים, אלמנטים וחוקי קירכהוף",
+      "en": "Lumped circuits, elements and Kirchhoff's laws"
+    },
+    {
+      "id": "t02",
+      "he": "חיבור טורי ומקבילי",
+      "en": "Series and parallel connections"
+    },
+    {
+      "id": "t03",
+      "he": "שקולי תבנין ונורטון",
+      "en": "Thévenin and Norton equivalents"
+    },
+    {
+      "id": "t04",
+      "he": "אלמנטים ומקורות לא-לינאריים; אנליזת אות קטן",
+      "en": "Nonlinear elements and sources; small-signal analysis"
+    },
+    {
+      "id": "t05",
+      "he": "מעגלים מסדר ראשון",
+      "en": "First-order circuits"
+    },
+    {
+      "id": "t06",
+      "he": "תגובת כניסה אפס ותגובת מצב אפס (ZIR/ZSR)",
+      "en": "Zero-input and zero-state response (ZIR/ZSR)"
+    },
+    {
+      "id": "t07",
+      "he": "מעגלים מסדר שני ומעלה",
+      "en": "Second- and higher-order circuits"
+    },
+    {
+      "id": "t08",
+      "he": "התמרת לפלס בניתוח מעגלים",
+      "en": "Laplace transform in circuit analysis"
+    },
+    {
+      "id": "t09",
+      "he": "מעגלים לינאריים קבועים בזמן וקונבולוציה",
+      "en": "Linear time-invariant circuits and convolution"
+    },
+    {
+      "id": "t10",
+      "he": "פאזורים ומצב עמיד סינוסואידלי",
+      "en": "Phasors and sinusoidal steady state"
+    },
+    {
+      "id": "t11",
+      "he": "הספק במצב סינוסואידלי עמיד",
+      "en": "Power in sinusoidal steady state"
+    },
+    {
+      "id": "t12",
+      "he": "פונקציית תמסורת ותגובת תדר",
+      "en": "Transfer function and frequency response"
+    },
+    {
+      "id": "t13",
+      "he": "מעגלי תהודה",
+      "en": "Resonant circuits"
+    },
+    {
+      "id": "t14",
+      "he": "אלמנטי צימוד: סלילים מצומדים, שנאים ומקורות תלויים",
+      "en": "Coupling elements: coupled inductors, transformers, controlled sources"
+    },
+    {
+      "id": "t15",
+      "he": "דיודות",
+      "en": "Diodes"
+    }
+  ],
+  "raw": {
+    "he": "בקורס נלמדת תיאורית מעגלים חשמליים מקובצים בסיסית. יוצגו דוגמאות ובעיות שונות.מבוא למעגלים חשמליים. אלמנטים של מעגלים חשמליים. מעגלים פשוטים.מבוא למעגלים לינאריים בלתי תלויים בזמן. אינטגרל הקונוולוציה אנליזה סינוסוידלית במצב עמיד הספק במצב סינוסידלי עמיד. אלמנטיצימוד ומעגלי צימודטרנספורם לפלס ושימושיו בתורת המעגלים.",
+    "en": "Lumped circuits and elements; Kirchoff’s laws; Thevenin and Norton equivalents; Serial and Parallel connections; Non linear sources and elements; low signal analysis; First order circuits; ZIR and ZSR of linear circuits. Second order circuits: ZIR and ZSR, High order circuits using Laplace method; Introduction to linear and time-invariant circuits; Convolution; Phasors; Sinusoidal steady-state analysis; Resonant circuits. Coupling Elements: Inductors, transformers and controlled sources. Introduction to Diodes"
+  },
+  "edited": "2026-11-07"
+}

@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07"
+  ],
+  "summary": "Solve the hyperbolic Cauchy problem u_xx + 2u_xy - 3u_yy = 0 with u(x,0)=3x^2 and u_y(x,0)=0, by reducing it to canonical form via characteristics and obtaining a general d'Alembert-type solution."
+}

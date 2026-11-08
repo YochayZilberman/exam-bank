@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t12",
+    "t10",
+    "t14"
+  ],
+  "summary": "Sinusoidal steady-state circuit with source Vs, series L and C, R1 shunt, switch S1, and voltage-controlled voltage source μVc driving R2: find transfer function Vout/Vs and input impedance with switch open, then transfer function with switch closed."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t01",
+    "t02"
+  ],
+  "summary": "DC resistive circuit with two voltage sources and a current source: find R3 for maximum power transfer via Thévenin equivalent, compute max power, voltages on R2 and R4, and effect on V_AB of adding a resistor in series with the current source."
+}

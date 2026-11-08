@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t14",
+    "t06"
+  ],
+  "summary": "Second-order circuit with source, series capacitor, resistors, ideal 1:2 transformer and inductor: derive ODE relating output voltage Vo to source Vs, express initial conditions Vo(0-), Vo'(0-) via IL(0-)=A and Vc(0-)=B, then for V0''+2V0'+5V0=2Vs find zero-input response and zero-state step response."
+}

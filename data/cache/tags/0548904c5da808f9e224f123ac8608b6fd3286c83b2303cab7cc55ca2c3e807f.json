@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t07"
+  ],
+  "summary": "n people around a circular table each toss a biased coin (heads prob p); X_n = number of heads, Y_n = number of people whose result matches their neighbor's; find E(X_n | Y_n = n), mean and variance of X_n, and prove X_n/n converges in distribution and find the limit."
+}

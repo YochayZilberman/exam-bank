@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t19",
+    "t18"
+  ],
+  "summary": "RC circuit with source Vin, series R1, and R2 parallel to C: derive the ODE for Vc(t) and solve its zero-state step response, find the R1 voltage as t→∞, choose C for a 20 kHz low-pass filter (|H|≥|H(0)|/√2), and find and sketch the magnitude and phase of H(w)=VR1/Vin."
+}

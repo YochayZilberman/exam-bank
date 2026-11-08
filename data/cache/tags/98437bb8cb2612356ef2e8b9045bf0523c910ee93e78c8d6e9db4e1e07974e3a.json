@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t06"
+  ],
+  "summary": "Find the harmonic function in the exterior of the unit sphere x^2+y^2+z^2>1 satisfying Dirichlet boundary condition u=z on the sphere (exterior Laplace problem, spherical harmonics)."
+}

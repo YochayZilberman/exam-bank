@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t11",
+    "t10"
+  ],
+  "summary": "Solve the 2D wave equation on the square [0,π]×[0,π] with Neumann conditions in x, nonzero Dirichlet conditions u=u1 at y=0 and u=u2 at y=π, and zero initial displacement and velocity, via a steady-state (Laplace) solution plus separation of variables."
+}

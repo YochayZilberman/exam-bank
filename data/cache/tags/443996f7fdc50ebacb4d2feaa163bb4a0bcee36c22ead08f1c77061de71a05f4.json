@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t07",
+    "t06"
+  ],
+  "summary": "Prove the tail-sum formula E(X)=Σ P(X≥n) for a nonnegative integer random variable, then use it with independent Bernoulli variables B_k~Ber((k-p)/k) to show E[min{k: B_k=1}] = e^p."
+}

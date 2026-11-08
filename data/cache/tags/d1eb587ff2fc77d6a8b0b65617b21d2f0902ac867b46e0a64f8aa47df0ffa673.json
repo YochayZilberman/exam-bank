@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t11",
+    "t09"
+  ],
+  "summary": "100 monkeys randomly permuted in a line: X = number of fixed points; compute E[X], Var(X) via indicators, decide if binomial, prove P(X>=5)<=1/16 (Chebyshev/Markov), and find expected numbers of monkeys whose position decreased (L) or increased (H)."
+}

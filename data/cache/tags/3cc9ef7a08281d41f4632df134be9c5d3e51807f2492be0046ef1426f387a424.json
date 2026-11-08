@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t09",
+    "t10"
+  ],
+  "summary": "(a) Classify the second-order PDE u_xx+2u_xy+5u_yy+2u_x+2u_y=0 and reduce it to canonical form; (b) solve Laplace's equation on the rectangle 0≤x≤L, 0≤y≤2L with sine Dirichlet boundary data via separation of variables."
+}

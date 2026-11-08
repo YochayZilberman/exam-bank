@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Find the steady-state temperature T(x,y) in an infinite rod with square cross-section 0<x,y<a, face y=a held at T0 and other faces at zero (Laplace equation Dirichlet problem via separation of variables)."
+}

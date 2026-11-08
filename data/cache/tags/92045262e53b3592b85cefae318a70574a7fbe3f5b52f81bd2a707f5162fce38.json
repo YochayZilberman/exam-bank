@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t06",
+    "t13"
+  ],
+  "summary": "Series L with parallel RC driven by voltage source: derive capacitor-voltage ODE, underdamped zero-input response with i_L(0)=i0, v_C(0)=0, quality factor for R=6Ω, L=1µH, C=1µF, sketch with oscillation period and 1/e decay time, full step response, and effect of R on number of oscillations."
+}

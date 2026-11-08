@@ -1,0 +1,7 @@
+{
+  "topic_ids": [
+    "t10",
+    "t03"
+  ],
+  "summary": "Find a harmonic function u(x,y) in the semi-infinite strip 0<x<∞, 0<y<1 with Dirichlet conditions u(x,0)=0, u(x,1)=0, u(0,y)=1 (Laplace equation via separation of variables/Fourier series)."
+}

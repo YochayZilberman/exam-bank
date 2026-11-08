@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t21"
+  ],
+  "summary": "Sinusoidal steady-state RLC circuit with voltage-controlled voltage source (μVc): find transfer function Vout/Vs and input impedance with switch S1 open, then recompute transfer function with S1 closed."
+}

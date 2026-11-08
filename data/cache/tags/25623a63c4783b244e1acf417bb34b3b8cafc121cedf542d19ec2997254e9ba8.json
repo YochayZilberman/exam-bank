@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t03",
+    "t15",
+    "t01"
+  ],
+  "summary": "DC resistive circuit with current source, voltage source and five 1Ω resistors: find Thévenin equivalent between nodes a and b, compute all branch currents, then with switches closed determine ideal diode states (forward/reverse) and power dissipated in R1."
+}

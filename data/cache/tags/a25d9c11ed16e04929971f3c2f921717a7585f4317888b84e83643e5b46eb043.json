@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t12",
+    "t03"
+  ],
+  "summary": "Fair coin tossed 5 times: find probability that number of tails is even, show event B (even tails) is independent of each A_k (k-th toss tails), but A_1..A_5,B are not mutually independent."
+}

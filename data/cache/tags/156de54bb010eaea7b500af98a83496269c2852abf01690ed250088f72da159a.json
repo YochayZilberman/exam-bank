@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t11",
+    "t05",
+    "t07"
+  ],
+  "summary": "Derive the Euler-Lagrange equation from functional ∫∫[½u_x²−½u_y²+f(x)u]dxdy, classify the resulting PDE (hyperbolic wave equation), and solve it for f=const on 0≤x≤1, y≥0 with u=0 at x=0,1 and zero Cauchy data at y=0 via separation of variables."
+}

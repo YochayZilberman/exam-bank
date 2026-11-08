@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t13",
+    "t12",
+    "t06"
+  ],
+  "summary": "Six face-down cards each red/black with prob 1/2; die roll Y determines how many cards revealed, X = reds minus blacks revealed: determine dependence/covariance of X and Y, conditional distribution of Y given X=3, and c minimizing E[(Y-c)^2 | X=3]."
+}

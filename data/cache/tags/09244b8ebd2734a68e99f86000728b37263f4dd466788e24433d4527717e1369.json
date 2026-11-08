@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t05"
+  ],
+  "summary": "Solve the inhomogeneous wave equation u_tt - u_xx = 1/(x+1) on [0,1] with nonhomogeneous Dirichlet boundary conditions u(0,t)=0, u(1,t)=ln(1/2) and given initial displacement and velocity, via a steady-state shift plus separation of variables."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t09",
+    "t17"
+  ],
+  "summary": "Damped wave equation u_tt+2h u_t-c^2 u_xx = ε sin(kx-ωt) on the whole line describing an elastic medium with friction driven by an external traveling wave: find the steady-state (long-time) forced damped wave solution."
+}

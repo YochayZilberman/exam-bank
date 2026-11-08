@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t13",
+    "t10"
+  ],
+  "summary": "Infinite Bernoulli(p) trials: find the distribution of the inter-success waiting times W_i (geometric) and of T_m, the trial index of the m-th success (negative binomial), compute their expectations and variances, and use the CLT to find the limit of P(α ≤ standardized T_m ≤ β)."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t16",
+    "t19"
+  ],
+  "summary": "(a) LTI circuit driven by sum of cosines at 9.5 Hz and 10.5 Hz: identify which output waveforms are possible (frequency preservation, beats, filtering); (b) second-order ODE 0.5V''+10V'+7946V=f(t) with input Acos(2πt+φ)u(t): choose graph matching ZSR (underdamped transient plus sinusoidal steady state) without solving."
+}

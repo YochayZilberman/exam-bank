@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t17",
+    "t08"
+  ],
+  "summary": "Find current through bridge resistor 2R in a resistor bridge with source V; find Thevenin equivalent at terminals a,b of circuit with current source and resistors; plot I-V curve for V in [-1,3]; given step response e^{-5t}u(t), find impulse response and response to 2δ(t)-δ(t-2)."
+}

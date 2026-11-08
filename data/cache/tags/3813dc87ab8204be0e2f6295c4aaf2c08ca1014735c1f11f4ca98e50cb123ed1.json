@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t04",
+    "t03",
+    "t07"
+  ],
+  "summary": "Simulation of a harmonic trap (well) showed oscillations that grew and damped; explain why the oscillations decayed and where the energy went (equilibration, irreversibility, conversion to thermal energy)."
+}

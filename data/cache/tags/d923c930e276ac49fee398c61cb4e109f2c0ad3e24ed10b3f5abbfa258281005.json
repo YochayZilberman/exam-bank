@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t04",
+    "t06"
+  ],
+  "summary": "Einstein solid with N oscillators and q energy units (q,N>>1): use microcanonical multiplicity/entropy with Stirling approximation to prove the chemical potential is mu = -kT ln((N+q)/N)."
+}

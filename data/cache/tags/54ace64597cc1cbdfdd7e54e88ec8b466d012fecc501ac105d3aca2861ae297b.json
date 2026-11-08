@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t05",
+    "t03",
+    "t12"
+  ],
+  "summary": "Simple random walk on integers with step probabilities p,q: define sample space, compute probability of being at position k after n steps (binomial counting), and asymptotics of return-to-origin probability for p=q=1/2 via Stirling's formula."
+}

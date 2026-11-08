@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t09",
+    "t05"
+  ],
+  "summary": "Wave equation on a string of length l initially at rest, with both ends moved by a triangular time-dependent boundary function f(t). Find u(x,t) for t>0 by transforming to a problem with homogeneous boundary conditions and using separation of variables / an inhomogeneous problem."
+}

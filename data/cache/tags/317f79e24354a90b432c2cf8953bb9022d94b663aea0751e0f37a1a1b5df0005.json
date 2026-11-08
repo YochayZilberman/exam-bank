@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t11",
+    "t14"
+  ],
+  "summary": "Rainbow from sprinkler water droplets of radius R with sun 20° above horizon: use paraxial/geometric optics ray tracing with dispersive refractive indices (1.35 blue, 1.34 green, 1.33 red) to find rainbow angles; effect of droplet radius 2R; whether rainbow visible through polarizing lens; which wavelength has maximal absorption (Lorentz model)."
+}

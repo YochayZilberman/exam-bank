@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t15",
+    "t20",
+    "t22"
+  ],
+  "summary": "Series RLC circuit (R=5Ω, C=1mF, L=100mH) driven by 10sin(50t) after switch closes: derive differential equation, solve capacitor voltage Vc(t) and transient settling time, find resonance frequency, bandwidth and 3dB frequencies, sketch voltages at resonance, then sketch resistor voltage with antiparallel diodes (0.7V model) across R."
+}

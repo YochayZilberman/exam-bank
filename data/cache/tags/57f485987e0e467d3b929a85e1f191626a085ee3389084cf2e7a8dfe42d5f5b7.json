@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t14",
+    "t05",
+    "t12"
+  ],
+  "summary": "Series circuit of voltage source, two parallel resistors R and two coupled inductors L with mutual inductance M: write the differential equation for I(t), find step and impulse response (ZSR), sketch with time constants, response to δ(t)+4δ(t-20), then compute the transfer function H(jω), sketch |H|, and relate the cutoff frequency to the impulse-response time constant."
+}

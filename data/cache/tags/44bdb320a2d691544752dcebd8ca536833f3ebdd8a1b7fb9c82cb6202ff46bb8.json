@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t16",
+    "t15",
+    "t12"
+  ],
+  "summary": "Thin transparent slab (index n, thickness d) illuminated at normal incidence by tunable laser: find n from max/min reflected intensity ratio 1:9 (thin-film interference with Fresnel reflection), find thickness from max-to-min shift between 532 and 560 nm, and describe reflected Gaussian pulse shape from two surfaces."
+}

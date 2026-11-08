@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t07"
+  ],
+  "summary": "Solve Laplace's equation in an annular sector (90° wedge, radii 1/2 and 1) with zero Dirichlet conditions on the radial edges and u=a sin4θ on inner, u=b sin2θ on outer arc, via separation of variables in polar coordinates."
+}

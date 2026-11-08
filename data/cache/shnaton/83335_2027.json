@@ -1,0 +1,160 @@
+{
+  "courseCode": "83335",
+  "year": 2027,
+  "courseName": {
+    "he": "מבוא להנדסת חשמל",
+    "en": "INTRODUCTION TO ELECTRICAL ENGINEERING"
+  },
+  "periodName": {
+    "he": "סמסטר א",
+    "en": "Semester A"
+  },
+  "ectsCredits": null,
+  "degreeLevel": null,
+  "creditPoints": "5",
+  "academicYear": null,
+  "semester": "1",
+  "department": {
+    "he": "פיסיקה יישומית",
+    "en": "Applied Physics"
+  },
+  "facultyCode": null,
+  "campusName": {
+    "he": "אדמונד י' ספרא",
+    "en": "Edmond J. Safra"
+  },
+  "building": null,
+  "room": null,
+  "courseCoordinator": {
+    "he": null,
+    "en": null
+  },
+  "coordinatorEmail": null,
+  "teachers": {
+    "he": "מר בן-ציון לאופר\nירדן ישנו",
+    "en": "Mr. Benzy Laufer\nYarden Yashno"
+  },
+  "officeHours": {
+    "he": null,
+    "en": null
+  },
+  "contactHours": null,
+  "teachingLanguage": {
+    "he": "עברית",
+    "en": "Hebrew"
+  },
+  "courseDescription": {
+    "he": "מבט על הנדסת חשמל ומחשבים כרצף של רמות אבסטרקציה, מעגלים ואלמנטים מקובצים, חוקי קירכהוף, שקול תבנין ושקול נורטון, חיבור טורי וחיבור מקבילי, אלמנטים לא לינאריים בקירוב אות קטן, ניתוח תגובות מעגלים מסדר ראשון, תגובות ZIR ו-ZSR, מעגלים מסדר שני, מבוא למערכות לינאריות קבועות בזמן, קונבולוציה, פאזורים, גישת לפלס לפתרון מקורות EXP, מעגלים במצב סינוסי עמיד, מעגלי תהודה, אלמנטים מצומדים: סלילים ומקורות מבוקרים, מבוא לדיודות.",
+    "en": "EECS as a series of levels of abstraction, Lumped circuits and elements; Kirchoff’s laws; Thevenin and Norton equivalents; Serial and Parallel connections; Non linear sources and elements; low signal analysis; First order circuits; ZIR and ZSR of linear circuits. Second order circuits: ZIR and ZSR, High order circuits using Laplace method; Introduction to linear and time-invariant circuits; Convolution; Phasors; Sinusoidal steady-state analysis; Resonant circuits. Coupling Elements: Inductors, transformers and controlled sources. Introduction to Diode."
+  },
+  "courseAims": {
+    "he": "ראה תוצרי למידה",
+    "en": "See learning outcomes"
+  },
+  "learningOutcomes": {
+    "he": "ניתוח מעגלים חשמליים במישור הזמן והתדר (סדר ראשון ושני).",
+    "en": "Analysis of electrical circuits in the time and frequency plain(first and second order)."
+  },
+  "courseContent": {
+    "he": "בקורס נלמדת תיאורית מעגלים חשמליים מקובצים בסיסית. יוצגו דוגמאות ובעיות שונות.מבוא למעגלים חשמליים. אלמנטים של מעגלים חשמליים. מעגלים פשוטים.מבוא למעגלים לינאריים בלתי תלויים בזמן. אינטגרל הקונוולוציה אנליזה סינוסוידלית במצב עמיד הספק במצב סינוסידלי עמיד. אלמנטיצימוד ומעגלי צימודטרנספורם לפלס ושימושיו בתורת המעגלים.",
+    "en": "Lumped circuits and elements; Kirchoff’s laws; Thevenin and Norton equivalents; Serial and Parallel connections; Non linear sources and elements; low signal analysis; First order circuits; ZIR and ZSR of linear circuits. Second order circuits: ZIR and ZSR, High order circuits using Laplace method; Introduction to linear and time-invariant circuits; Convolution; Phasors; Sinusoidal steady-state analysis; Resonant circuits. Coupling Elements: Inductors, transformers and controlled sources. Introduction to Diodes"
+  },
+  "attendanceRequirements": {
+    "he": "0",
+    "en": "0"
+  },
+  "teachingMethod": {
+    "he": "",
+    "en": ""
+  },
+  "requiredReading": {
+    "he": "NA",
+    "en": "NA"
+  },
+  "additionalReading": {
+    "he": "",
+    "en": ""
+  },
+  "evaluation": {
+    "he": null,
+    "en": null
+  },
+  "additionalInfo": {
+    "he": "ציון תרגילי הבית מחושב לפי 80% מתרגילי הבית בעלי הציון הגבוה ביותר. כלומר 11 מתוך 14 תרגילים (אם ינתנו פחות תרגילים אז החישוב בהתאם).\r\n\r\nבנוסף, במהלך הקורס, תינתן אפשרות לצבור עוד נקודות בונוס באמצעות שאלות בונוס שינתנו במהלך הסמסטר.\r\nההשתתפות בשאלות הבונוס תהיה מותרת לנוכחים בכיתה בלבד.\r\n\r\nמעבר בקורס מותנה בקבלת ציון עובר (60) לפחות במבחן המסכם בכתב (בנוסף לקבלת ציון סופי עובר בקורס). ציון שיעורי הבית ונקודות הבונוס אינם מפצים על אי־עמידה בציון המינימום במבחן.",
+    "en": "The homework grade is calculated based on 80% of the highest-scoring homework assignments. In other words, 11 out of 14 exercises (if fewer exercises are given, the calculation will be adjusted accordingly).\r\n\r\nAdditionally, during the course, there will be an opportunity to accumulate an extra bonus points through bonus questions given throughout the semester.\r\nParticipation in the bonus questions will be allowed only for those present in class.\r\n\r\nTo pass the course, students must obtain a grade of at least 60 on the final written exam, in addition to achieving a passing final course grade. The homework grade and bonus points cannot compensate for a grade below 60 on the final written exam."
+  },
+  "degreeName": {
+    "he": "תואר ראשון",
+    "en": "First degree"
+  },
+  "grade1Description": {
+    "he": null,
+    "en": null
+  },
+  "writtenExamPercentage": null,
+  "oralExamPercentage": null,
+  "presentationPercentage": null,
+  "activeParticipationPercentage": null,
+  "midtermExamsPercentage": null,
+  "assignmentPercentage": null,
+  "grade7Percentage": null,
+  "grade8Percentage": null,
+  "grade9Percentage": null,
+  "grade10Percentage": null,
+  "grade11Percentage": null,
+  "otherGradeDescription": null,
+  "grades": [
+    {
+      "code": "10",
+      "name": {
+        "he": "מבחן בכתב",
+        "en": "Written Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 40,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "11",
+      "name": {
+        "he": "מבחן בעל פה",
+        "en": "Oral Exam"
+      },
+      "groupUniqueName": "final_exam",
+      "groupName": {
+        "he": "מבחן סופי",
+        "en": "Final exam"
+      },
+      "weight": 55,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    },
+    {
+      "code": "50",
+      "name": {
+        "he": "תרגילים",
+        "en": "Exercises"
+      },
+      "groupUniqueName": "routine_assignments",
+      "groupName": {
+        "he": "מטלות שוטפות",
+        "en": "Routine Assignments"
+      },
+      "weight": 5,
+      "assWithFeedback": null,
+      "assWithoutFeedback": null
+    }
+  ],
+  "gradesOther": [],
+  "syllabusApiVersion": "v2",
+  "updatedBy": null,
+  "levelUpdated": null,
+  "timesUpdated": null,
+  "updateDate": "2026-09-17T10:02:42",
+  "fetchedAt": "2026-11-06T13:58:16.0809404Z"
+}

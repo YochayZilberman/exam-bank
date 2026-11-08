@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t11",
+    "t14"
+  ],
+  "summary": "Thick lens (R1=4cm, R2=-4cm, thickness 1cm, n=1.5): use paraxial ray-transfer matrices to find principal planes and effective focal length, image position and magnification of a 2cm object at 30cm, and how the image changes under white light if the lens material has a strong violet absorption resonance (dispersion)."
+}

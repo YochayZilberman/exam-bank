@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t19",
+    "t18",
+    "t05"
+  ],
+  "summary": "Parallel R1-C1 circuit with VCCS gV1, R2 and open R3 branch in sinusoidal steady state: find input impedance, transfer function V1/Is with Bode plots and 3dB frequency, average power of controlled source, and V1(t) for Is=1+cos(ωt)."
+}

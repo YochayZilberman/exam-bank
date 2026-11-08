@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t17"
+  ],
+  "summary": "Solve Laplace's equation outside a sphere of radius R with piecewise boundary potential V/-V/V in theta zones (bounded at infinity) via Legendre expansion; find leading term for r>>R, interpret it physically (multipole), and give r-dependence of next nonzero term."
+}

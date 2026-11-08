@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t08",
+    "t10",
+    "t06"
+  ],
+  "summary": "Hypothesis testing for normal air-pressure measurements (Tel Aviv mean 1 vs Jerusalem mean 0.9, sd 0.1): find optimal level-0.05 test and its power via normal CDF, and minimal number of independent measurements so threshold test on the sum achieves 0.95 significance and power."
+}

@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t18",
+    "t16",
+    "t14"
+  ],
+  "summary": "Mach-Zehnder interferometer with voltage-controlled refractive index in one arm: find minimal voltages for max/min detector intensity, contrast for unequal split A=0.25, and output/input intensity ratio with complex (absorbing) refractive index."
+}

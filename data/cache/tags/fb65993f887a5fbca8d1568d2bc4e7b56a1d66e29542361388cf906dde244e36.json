@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t09",
+    "t10",
+    "t07"
+  ],
+  "summary": "Solve Laplace's equation on rectangle 0≤x≤L, 0≤y≤2L with mixed Neumann/Dirichlet boundary conditions (zero normal derivative at x=0,y=0; u=1 or 0 at x=L; u=0 or a at y=2L) via separation of variables and superposition, including the special case a=1."
+}

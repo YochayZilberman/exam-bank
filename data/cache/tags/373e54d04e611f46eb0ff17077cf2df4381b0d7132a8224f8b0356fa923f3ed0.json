@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t10",
+    "t14",
+    "t11"
+  ],
+  "summary": "Sinusoidal steady-state mesh analysis (KVL) of a circuit with coupled inductors (K=1/3), capacitors, resistors and a CCVS 200I3, driven by Vs=10cos(1000t), for two switch configurations; find mesh currents I1,I2,I3 and the average power in the 400Ω resistor."
+}

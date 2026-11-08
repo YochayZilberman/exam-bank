@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t13",
+    "t05"
+  ],
+  "summary": "Random vector (X,Y) uniform on region 0≤y≤(3-3x²)/4: find marginal densities of X and Y, expectation of Z=X+Y, and probability P(3-3X<4Y)."
+}

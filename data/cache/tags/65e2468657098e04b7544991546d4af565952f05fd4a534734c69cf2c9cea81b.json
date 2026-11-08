@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t06",
+    "t07",
+    "t13"
+  ],
+  "summary": "2n bulbs on a circle each lit w.p. 2/3 independently; Z = number of dark segments (adjacent lit pair): compute E and Var, prove exponential concentration bound P(Z-EZ>=dn)<=Ce^{-cd^2 n}, and find normalization for even dark segments count W to converge to N(0,1) (CLT)."
+}

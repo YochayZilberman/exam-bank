@@ -1,0 +1,8 @@
+{
+  "topic_ids": [
+    "t07",
+    "t13",
+    "t06"
+  ],
+  "summary": "Parallel circuit of two current sources, L1, C1, R, C2, L2 with switches: derive differential equation for resistor voltage, find zero-state response to unit-step sources and oscillation frequency, compute resonant frequencies for different switch states, and compare with natural frequency."
+}
